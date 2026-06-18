@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-18T20:52:49.821Z",
+  "updatedAt": "2026-06-18T21:51:21.811Z",
   "prompts": [
+    {
+      "id": "coding-001",
+      "category": "coding",
+      "difficulty": "advanced",
+      "title": "시스템 아키텍처 리뷰 및 리팩토링",
+      "publishedAt": "2026-06-18T21:51:21.810Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/coding/coding-001.json"
+    },
     {
       "id": "writing-001",
       "category": "writing",
