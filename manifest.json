@@ -1,5 +1,14 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-18T00:00:00Z",
-  "prompts": []
+  "updatedAt": "2026-06-18T20:52:49.821Z",
+  "prompts": [
+    {
+      "id": "writing-001",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "title": "전문 편집자 피드백 요청",
+      "publishedAt": "2026-06-18T20:52:49.821Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/writing/writing-001.json"
+    }
+  ]
 }

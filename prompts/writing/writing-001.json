@@ -1,0 +1,72 @@
+{
+  "id": "writing-001",
+  "title": "전문 편집자 피드백 요청",
+  "category": "writing",
+  "difficulty": "intermediate",
+  "fullText": "Act as a seasoned editor specializing in narrative non-fiction. Please critique the following draft for pacing and structural coherence. Provide actionable feedback to eliminate redundancy and refine the overarching tone.",
+  "vocabulary": [
+    {
+      "phrase": "seasoned editor",
+      "meaning_ko": "경험 많은 편집자",
+      "contextNote": "AI에게 단순한 전문가가 아닌 숙련된 경험치를 가진 페르소나를 부여할 때 사용"
+    },
+    {
+      "phrase": "critique",
+      "meaning_ko": "비평하다, 세밀하게 분석하다",
+      "contextNote": "단순한 수정을 넘어 분석적인 평가를 요청할 때 쓰는 전문 용어"
+    },
+    {
+      "phrase": "actionable feedback",
+      "meaning_ko": "실행 가능한 피드백",
+      "contextNote": "모호한 조언이 아니라 구체적으로 어떻게 고쳐야 할지 알려달라고 요청할 때 필수적인 표현"
+    },
+    {
+      "phrase": "eliminate redundancy",
+      "meaning_ko": "중복을 제거하다",
+      "contextNote": "글의 효율성을 높이기 위해 불필요하게 반복되는 표현을 지워달라고 할 때 사용"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "specializing in",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "interested in",
+        "focused on",
+        "working at"
+      ],
+      "explanation": "특정 분야의 전문성을 가진 페르소나를 정의할 때 쓰는 표준 표현"
+    },
+    {
+      "answer": "pacing",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "speed",
+        "volume",
+        "length"
+      ],
+      "explanation": "글의 전개 속도와 리듬감을 뜻하는 문학/작법 전문 용어"
+    },
+    {
+      "answer": "structural coherence",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "logical sequence",
+        "physical layout",
+        "sentence variety"
+      ],
+      "explanation": "글의 구조적 일관성과 유기적인 연결성을 의미하는 표현"
+    },
+    {
+      "answer": "overarching tone",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "general voice",
+        "hidden mood",
+        "surface style"
+      ],
+      "explanation": "글 전체를 관통하는 지배적인 분위기나 어조를 뜻함"
+    }
+  ],
+  "source": "Ollama Cloud Gemma4"
+}
