@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-18T21:51:21.811Z",
+  "updatedAt": "2026-06-19T10:00:12.437Z",
   "prompts": [
+    {
+      "id": "analysis-001",
+      "category": "analysis",
+      "difficulty": "intermediate",
+      "title": "비즈니스 전략 분석",
+      "publishedAt": "2026-06-19T10:00:12.437Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/analysis/analysis-001.json"
+    },
     {
       "id": "coding-001",
       "category": "coding",
