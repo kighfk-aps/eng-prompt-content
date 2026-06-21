@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-19T10:00:12.437Z",
+  "updatedAt": "2026-06-21T10:00:37.256Z",
   "prompts": [
+    {
+      "id": "creative-001",
+      "category": "creative",
+      "difficulty": "intermediate",
+      "title": "세계관 구축 컨설턴트",
+      "publishedAt": "2026-06-21T10:00:37.255Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/creative/creative-001.json"
+    },
     {
       "id": "analysis-001",
       "category": "analysis",

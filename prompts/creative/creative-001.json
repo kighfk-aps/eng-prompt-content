@@ -1,0 +1,187 @@
+{
+  "id": "creative-001",
+  "title": "세계관 구축 컨설턴트",
+  "category": "creative",
+  "difficulty": "intermediate",
+  "fullText": "Act as a world-building consultant. Develop a comprehensive lore for a fictional civilization, focusing on their societal norms and spiritual beliefs. Please synthesize a coherent internal logic to ensure consistency throughout the narrative. Deliver the output in a structured format using bullet points.",
+  "vocabulary": [
+    {
+      "phrase": "world-building",
+      "meaning_ko": "세계관 설정",
+      "contextNote": "판타지나 SF 소설 등에서 가상의 세계를 구체적으로 설계하는 과정"
+    },
+    {
+      "phrase": "comprehensive lore",
+      "meaning_ko": "포괄적인 배경 지식/설정",
+      "contextNote": "단순한 이야기가 아닌, 역사, 문화, 신화 등을 포함한 방대한 세계관 설정을 요구할 때 사용"
+    },
+    {
+      "phrase": "societal norms",
+      "meaning_ko": "사회적 규범",
+      "contextNote": "가상 사회 내에서 사람들이 따르는 행동 규칙이나 관습을 정의할 때 사용"
+    },
+    {
+      "phrase": "synthesize",
+      "meaning_ko": "종합하다, 통합하다",
+      "contextNote": "여러 단편적인 아이디어를 하나로 엮어 논리적인 체계를 만들라고 지시할 때 사용"
+    },
+    {
+      "phrase": "internal logic",
+      "meaning_ko": "내적 논리",
+      "contextNote": "설정끼리 서로 충돌하지 않고 개연성을 유지하는 체계"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "fictional civilization",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "real-world city",
+        "historical empire",
+        "modern nation"
+      ],
+      "explanation": "현실이 아닌 작가가 상상으로 만들어낸 가상의 문명을 의미합니다."
+    },
+    {
+      "answer": "spiritual beliefs",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "financial records",
+        "scientific data",
+        "political slogans"
+      ],
+      "explanation": "문명의 가치관을 형성하는 종교적, 영적 신념 체계를 의미합니다."
+    },
+    {
+      "answer": "ensure consistency",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "create confusion",
+        "ignore details",
+        "change randomly"
+      ],
+      "explanation": "설정이 앞뒤가 맞지 않는 설정 오류를 방지하고 일관성을 유지한다는 표현입니다."
+    },
+    {
+      "answer": "structured format",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "random order",
+        "long paragraph",
+        "hidden sequence"
+      ],
+      "explanation": "AI가 정보를 체계적으로 분류하여 가독성 있게 출력하도록 요청하는 표현입니다."
+    }
+  ],
+  "wordMap": {
+    "act": {
+      "meaning_ko": "~로서 역할을 하다",
+      "contextNote": "AI에게 특정 전문가 페르소나를 부여하는 전형적인 프롬프트 시작어입니다."
+    },
+    "world-building": {
+      "meaning_ko": "세계관 설정",
+      "contextNote": "판타지나 SF 소설 등에서 가상의 세계를 구체적으로 설계하는 과정"
+    },
+    "consultant": {
+      "meaning_ko": "컨설턴트, 상담가",
+      "contextNote": "전문적인 조언과 설계를 제공하는 전문가를 의미합니다."
+    },
+    "develop": {
+      "meaning_ko": "개발하다, 발전시키다",
+      "contextNote": "아이디어를 구체화하여 상세한 내용을 만들어내는 과정을 의미합니다."
+    },
+    "comprehensive": {
+      "meaning_ko": "포괄적인, 종합적인",
+      "contextNote": "빠진 부분 없이 모든 측면을 다루는 상세함을 요구합니다."
+    },
+    "lore": {
+      "meaning_ko": "설정, 전통 지식",
+      "contextNote": "특정 세계관의 역사나 전설 등 배경이 되는 지식을 뜻합니다."
+    },
+    "fictional": {
+      "meaning_ko": "허구의, 가상의",
+      "contextNote": "현실에 존재하지 않는 상상 속의 설정을 의미합니다."
+    },
+    "civilization": {
+      "meaning_ko": "문명",
+      "contextNote": "사회적, 문화적 체계를 갖춘 인간 또는 지적 생명체의 집단을 의미합니다."
+    },
+    "focusing": {
+      "meaning_ko": "집중하는",
+      "contextNote": "전체 내용 중 특히 중요하게 다루어야 할 부분을 지정할 때 사용합니다."
+    },
+    "societal": {
+      "meaning_ko": "사회의",
+      "contextNote": "개인이 아닌 집단과 사회 시스템에 관련된 특성을 나타냅니다."
+    },
+    "norms": {
+      "meaning_ko": "규범",
+      "contextNote": "사회 구성원들이 공유하는 일반적인 행동 기준입니다."
+    },
+    "spiritual": {
+      "meaning_ko": "영적인, 정신적인",
+      "contextNote": "물질적인 세계가 아닌 신념, 종교, 영혼과 관련된 영역을 뜻합니다."
+    },
+    "beliefs": {
+      "meaning_ko": "신념, 믿음",
+      "contextNote": "특정 집단이 진실이라고 믿는 가치나 교리를 의미합니다."
+    },
+    "synthesize": {
+      "meaning_ko": "종합하다, 통합하다",
+      "contextNote": "여러 단편적인 아이디어를 하나로 엮어 논리적인 체계를 만들라고 지시할 때 사용"
+    },
+    "coherent": {
+      "meaning_ko": "일관성 있는, 논리적인",
+      "contextNote": "내용이 서로 충돌하지 않고 자연스럽게 연결되는 상태를 말합니다."
+    },
+    "internal": {
+      "meaning_ko": "내부의",
+      "contextNote": "외부의 기준이 아닌 해당 세계관 자체의 논리를 의미합니다."
+    },
+    "logic": {
+      "meaning_ko": "논리",
+      "contextNote": "사건이나 설정이 전개되는 타당한 근거와 체계입니다."
+    },
+    "ensure": {
+      "meaning_ko": "확실히 하다, 보장하다",
+      "contextNote": "특정 조건이나 품질이 반드시 유지되도록 강제하는 표현입니다."
+    },
+    "consistency": {
+      "meaning_ko": "일관성",
+      "contextNote": "처음부터 끝까지 설정이 변하지 않고 일정하게 유지되는 특성입니다."
+    },
+    "throughout": {
+      "meaning_ko": "처음부터 끝까지, 도처에",
+      "contextNote": "전체 범위에 걸쳐 빠짐없이 적용됨을 나타냅니다."
+    },
+    "narrative": {
+      "meaning_ko": "서사, 이야기",
+      "contextNote": "설정이 실제로 구현되어 전개되는 이야기의 흐름을 뜻합니다."
+    },
+    "deliver": {
+      "meaning_ko": "전달하다, 제출하다",
+      "contextNote": "AI가 최종 결과물을 출력하는 행위를 지시합니다."
+    },
+    "output": {
+      "meaning_ko": "결과물, 출력",
+      "contextNote": "프롬프트에 대한 AI의 답변 내용을 의미합니다."
+    },
+    "structured": {
+      "meaning_ko": "구조화된",
+      "contextNote": "단순 나열이 아니라 체계적인 틀을 갖춘 형태를 의미합니다."
+    },
+    "format": {
+      "meaning_ko": "형식, 포맷",
+      "contextNote": "정보가 제시되는 외형적 틀이나 구성 방식입니다."
+    },
+    "using": {
+      "meaning_ko": "~을 사용하여",
+      "contextNote": "특정 도구나 방법을 통해 결과를 만들어낼 때 사용합니다."
+    },
+    "bullet points": {
+      "meaning_ko": "글머리 기호",
+      "contextNote": "정보를 요약하여 나열할 때 사용하는 점(•) 형태의 리스트 형식입니다."
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}
