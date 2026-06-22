@@ -1,0 +1,173 @@
+{
+  "id": "business-001",
+  "title": "벤처 캐피털 투자 분석",
+  "category": "business",
+  "difficulty": "intermediate",
+  "fullText": "Act as a seasoned venture capitalist. Critically analyze the attached pitch deck and identify potential red flags regarding market scalability and financial sustainability. Provide a rigorous SWOT analysis to evaluate the startup's long-term viability.",
+  "vocabulary": [
+    {
+      "phrase": "seasoned venture capitalist",
+      "meaning_ko": "숙련된 벤처 캐피털리스트",
+      "contextNote": "AI에게 전문성과 풍부한 경험을 가진 전문가 페르소나를 부여할 때 사용합니다."
+    },
+    {
+      "phrase": "red flags",
+      "meaning_ko": "위험 신호, 경고 징후",
+      "contextNote": "분석 과정에서 주의 깊게 살펴봐야 할 부정적인 요소나 리스크를 찾으라고 지시할 때 씁니다."
+    },
+    {
+      "phrase": "market scalability",
+      "meaning_ko": "시장 확장성",
+      "contextNote": "비즈니스가 규모를 얼마나 효율적으로 키울 수 있는지 평가하도록 요청하는 용어입니다."
+    },
+    {
+      "phrase": "financial sustainability",
+      "meaning_ko": "재무적 지속 가능성",
+      "contextNote": "단기 수익을 넘어 장기적으로 생존하고 성장할 수 있는 재무 구조인지 묻는 표현입니다."
+    },
+    {
+      "phrase": "long-term viability",
+      "meaning_ko": "장기적 생존 가능성",
+      "contextNote": "사업 모델이 시간이 지나도 경쟁력을 유지하며 생존할 수 있을지 판단하게 합니다."
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "Critically analyze",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "Casually read",
+        "Simply summarize",
+        "Briefly ignore"
+      ],
+      "explanation": "단순 요약이 아니라 논리적 허점을 찾는 '비판적 분석'을 요청하는 핵심 표현입니다."
+    },
+    {
+      "answer": "pitch deck",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "novel",
+        "poetry book",
+        "daily diary"
+      ],
+      "explanation": "투자 유치를 위해 사업 계획을 요약한 발표 자료를 의미하는 비즈니스 용어입니다."
+    },
+    {
+      "answer": "rigorous SWOT analysis",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "vague guess",
+        "random list",
+        "simple greeting"
+      ],
+      "explanation": "강점, 약점, 기회, 위협을 엄격하고 체계적으로 분석하는 표준 프레임워크를 요청하는 것입니다."
+    }
+  ],
+  "wordMap": {
+    "act": {
+      "meaning_ko": "~처럼 행동하다",
+      "contextNote": "특정 역할을 수행하라는 지시로, 해당 직무의 관점에서 응답하도록 요청하는 상황입니다."
+    },
+    "seasoned": {
+      "meaning_ko": "숙련된, 경험이 많은",
+      "contextNote": "seasoned venture capitalist: 숙련된 벤처 캐피털리스트"
+    },
+    "venture": {
+      "meaning_ko": "벤처, 모험적인 사업",
+      "contextNote": "seasoned venture capitalist: 숙련된 벤처 캐피털리스트"
+    },
+    "capitalist": {
+      "meaning_ko": "자본가, 투자자",
+      "contextNote": "seasoned venture capitalist: 숙련된 벤처 캐피털리스트"
+    },
+    "critically": {
+      "meaning_ko": "비판적으로",
+      "contextNote": "단순 수용이 아닌 분석적 시각으로 접근하라는 뜻입니다."
+    },
+    "analyze": {
+      "meaning_ko": "분석하다",
+      "contextNote": "데이터나 정보를 세분화하여 논리적으로 검토하는 행위입니다."
+    },
+    "attached": {
+      "meaning_ko": "첨부된",
+      "contextNote": "AI에게 제공된 파일이나 텍스트 데이터를 지칭합니다."
+    },
+    "pitch": {
+      "meaning_ko": "피칭, 제안",
+      "contextNote": "pitch deck: 투자 유치를 위한 발표 자료"
+    },
+    "deck": {
+      "meaning_ko": "슬라이드 묶음",
+      "contextNote": "pitch deck: 투자 유치를 위한 발표 자료"
+    },
+    "identify": {
+      "meaning_ko": "식별하다, 찾아내다",
+      "contextNote": "특정 패턴이나 문제점을 정확히 지목하라는 지시입니다."
+    },
+    "potential": {
+      "meaning_ko": "잠재적인",
+      "contextNote": "현재 드러나지 않았으나 앞으로 발생할 수 있는 가능성을 의미합니다."
+    },
+    "red": {
+      "meaning_ko": "빨간색의 (위험의)",
+      "contextNote": "red flags: 위험 신호, 경고 징후"
+    },
+    "flags": {
+      "meaning_ko": "깃발 (표시)",
+      "contextNote": "red flags: 위험 신호, 경고 징후"
+    },
+    "regarding": {
+      "meaning_ko": "~에 관하여",
+      "contextNote": "분석의 구체적인 대상이나 범위를 지정할 때 사용합니다."
+    },
+    "market": {
+      "meaning_ko": "시장",
+      "contextNote": "market scalability: 시장 확장성"
+    },
+    "scalability": {
+      "meaning_ko": "확장성",
+      "contextNote": "market scalability: 시장 확장성"
+    },
+    "financial": {
+      "meaning_ko": "재무적인",
+      "contextNote": "financial sustainability: 재무적 지속 가능성"
+    },
+    "sustainability": {
+      "meaning_ko": "지속 가능성",
+      "contextNote": "financial sustainability: 재무적 지속 가능성"
+    },
+    "provide": {
+      "meaning_ko": "제공하다",
+      "contextNote": "특정 결과물(리포트, 분석표 등)을 생성해달라는 요청입니다."
+    },
+    "rigorous": {
+      "meaning_ko": "엄격한, 철저한",
+      "contextNote": "대충 하는 분석이 아니라 매우 정밀하고 꼼꼼한 분석을 요구하는 형용사입니다."
+    },
+    "swot": {
+      "meaning_ko": "SWOT (강점,약점,기회,위협)",
+      "contextNote": "rigorous SWOT analysis: 강점, 약점, 기회, 위협을 엄격하고 체계적으로 분석하는 표준 프레임워크"
+    },
+    "analysis": {
+      "meaning_ko": "분석",
+      "contextNote": "rigorous SWOT analysis: 강점, 약점, 기회, 위협을 엄격하고 체계적으로 분석하는 표준 프레임워크"
+    },
+    "evaluate": {
+      "meaning_ko": "평가하다",
+      "contextNote": "가치나 수준을 판단하여 결론을 내리는 과정입니다."
+    },
+    "startup's": {
+      "meaning_ko": "스타트업의",
+      "contextNote": "분석의 대상이 되는 초기 창업 기업을 의미합니다."
+    },
+    "long-term": {
+      "meaning_ko": "장기적인",
+      "contextNote": "long-term viability: 장기적 생존 가능성"
+    },
+    "viability": {
+      "meaning_ko": "생존 가능성, 실행 가능성",
+      "contextNote": "long-term viability: 장기적 생존 가능성"
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}

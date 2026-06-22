@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-21T10:00:37.256Z",
+  "updatedAt": "2026-06-22T22:01:34.252Z",
   "prompts": [
+    {
+      "id": "business-001",
+      "category": "business",
+      "difficulty": "intermediate",
+      "title": "벤처 캐피털 투자 분석",
+      "publishedAt": "2026-06-22T22:01:34.251Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/business/business-001.json"
+    },
     {
       "id": "creative-001",
       "category": "creative",
