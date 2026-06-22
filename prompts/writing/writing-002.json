@@ -1,0 +1,157 @@
+{
+  "id": "writing-002",
+  "title": "고급 문장 다듬기 프롬프트",
+  "category": "writing",
+  "difficulty": "advanced",
+  "fullText": "Critically evaluate the provided text and refine the prose to eliminate redundant phrasing. Elevate the tone to be more sophisticated while maintaining the original intent. Ensure a seamless transition between paragraphs to enhance the overall flow.",
+  "vocabulary": [
+    {
+      "phrase": "Critically evaluate",
+      "meaning_ko": "비판적으로 평가하다",
+      "contextNote": "단순한 수정이 아니라 논리적 허점이나 개선점을 면밀히 분석하라고 지시할 때 사용"
+    },
+    {
+      "phrase": "refine the prose",
+      "meaning_ko": "산문을 다듬다",
+      "contextNote": "글의 전반적인 문체나 표현을 더 정교하고 세련되게 고칠 때 사용하는 전문적인 표현"
+    },
+    {
+      "phrase": "redundant phrasing",
+      "meaning_ko": "중복되는 표현",
+      "contextNote": "불필요하게 반복되는 단어나 의미를 제거하여 간결함을 추구할 때 사용"
+    },
+    {
+      "phrase": "maintaining the original intent",
+      "meaning_ko": "원래의 의도를 유지하며",
+      "contextNote": "문체를 수정하되 글쓴이가 전달하려는 핵심 메시지는 바꾸지 말라는 제약 조건을 걸 때 사용"
+    },
+    {
+      "phrase": "seamless transition",
+      "meaning_ko": "매끄러운 전환",
+      "contextNote": "문단과 문단 사이의 연결이 끊기지 않고 자연스럽게 이어지도록 요청할 때 사용"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "Elevate",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "Lower",
+        "Maintain",
+        "Ignore"
+      ],
+      "explanation": "글의 톤이나 수준을 더 높고 세련되게 끌어올려 달라는 의미의 동사"
+    },
+    {
+      "answer": "sophisticated",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "casual",
+        "primitive",
+        "repetitive"
+      ],
+      "explanation": "교양 있고 세련된 느낌의 문체를 요구할 때 사용하는 형용사"
+    },
+    {
+      "answer": "enhance",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "interrupt",
+        "degrade",
+        "simplify"
+      ],
+      "explanation": "전체적인 글의 흐름이나 질을 향상시키라는 의미로 쓰임"
+    }
+  ],
+  "wordMap": {
+    "critically": {
+      "meaning_ko": "비판적으로",
+      "contextNote": "단순한 수정이 아니라 논리적 허점이나 개선점을 면밀히 분석하라고 지시할 때 사용"
+    },
+    "evaluate": {
+      "meaning_ko": "평가하다",
+      "contextNote": "가치나 품질을 판단하는 행위"
+    },
+    "provided": {
+      "meaning_ko": "제공된",
+      "contextNote": "프롬프트와 함께 입력값으로 주어진 텍스트를 지칭"
+    },
+    "text": {
+      "meaning_ko": "글, 지문",
+      "contextNote": "분석 및 수정의 대상이 되는 텍스트"
+    },
+    "refine": {
+      "meaning_ko": "다듬다",
+      "contextNote": "산문을 다듬다: 글의 전반적인 문체나 표현을 더 정교하고 세련되게 고칠 때 사용하는 전문적인 표현"
+    },
+    "prose": {
+      "meaning_ko": "산문",
+      "contextNote": "운문이 아닌 일반적인 서술체 글"
+    },
+    "eliminate": {
+      "meaning_ko": "제거하다",
+      "contextNote": "불필요한 요소를 완전히 없애는 행위"
+    },
+    "redundant": {
+      "meaning_ko": "중복되는",
+      "contextNote": "중복되는 표현: 불필요하게 반복되는 단어나 의미를 제거하여 간결함을 추구할 때 사용"
+    },
+    "phrasing": {
+      "meaning_ko": "표현 방식",
+      "contextNote": "단어 선택 및 문장 구성 방식"
+    },
+    "elevate": {
+      "meaning_ko": "높이다",
+      "contextNote": "글의 톤이나 수준을 더 높고 세련되게 끌어올려 달라는 의미의 동사"
+    },
+    "tone": {
+      "meaning_ko": "어조",
+      "contextNote": "글에서 느껴지는 분위기나 태도"
+    },
+    "sophisticated": {
+      "meaning_ko": "세련된",
+      "contextNote": "교양 있고 세련된 느낌의 문체를 요구할 때 사용하는 형용사"
+    },
+    "maintaining": {
+      "meaning_ko": "유지하는",
+      "contextNote": "원래의 의도를 유지하며: 문체를 수정하되 글쓴이가 전달하려는 핵심 메시지는 바꾸지 말라는 제약 조건을 걸 때 사용"
+    },
+    "original": {
+      "meaning_ko": "원래의",
+      "contextNote": "수정 전의 초기 상태"
+    },
+    "intent": {
+      "meaning_ko": "의도",
+      "contextNote": "글을 통해 전달하고자 하는 목적이나 생각"
+    },
+    "ensure": {
+      "meaning_ko": "확실히 하다",
+      "contextNote": "특정 조건이 반드시 충족되도록 보장하는 요청"
+    },
+    "seamless": {
+      "meaning_ko": "매끄러운",
+      "contextNote": "매끄러운 전환: 문단과 문단 사이의 연결이 끊기지 않고 자연스럽게 이어지도록 요청할 때 사용"
+    },
+    "transition": {
+      "meaning_ko": "전환, 연결",
+      "contextNote": "한 아이디어에서 다른 아이디어로 넘어가는 과정"
+    },
+    "paragraphs": {
+      "meaning_ko": "문단들",
+      "contextNote": "글을 구성하는 내용상의 구분 단위"
+    },
+    "enhance": {
+      "meaning_ko": "향상시키다",
+      "contextNote": "전체적인 글의 흐름이나 질을 향상시키라는 의미로 쓰임"
+    },
+    "overall": {
+      "meaning_ko": "전반적인",
+      "contextNote": "부분적이 아닌 전체를 아우르는"
+    },
+    "flow": {
+      "meaning_ko": "흐름",
+      "contextNote": "글의 논리적 전개나 가독성이 매끄러운 상태"
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}

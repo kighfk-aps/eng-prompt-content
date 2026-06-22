@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-22T22:01:34.252Z",
+  "updatedAt": "2026-06-22T22:15:31.118Z",
   "prompts": [
+    {
+      "id": "writing-002",
+      "category": "writing",
+      "difficulty": "advanced",
+      "title": "고급 문장 다듬기 프롬프트",
+      "publishedAt": "2026-06-22T22:15:31.118Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/writing/writing-002.json"
+    },
     {
       "id": "business-001",
       "category": "business",
