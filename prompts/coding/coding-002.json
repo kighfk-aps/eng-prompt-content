@@ -1,0 +1,140 @@
+{
+  "id": "coding-002",
+  "title": "초보자를 위한 코딩 튜터",
+  "category": "coding",
+  "difficulty": "beginner",
+  "fullText": "Act as a coding tutor for a beginner. Explain the provided code snippet in simple terms and break down the logic step by step. Suggest three ways to optimize the code for better readability.",
+  "vocabulary": [
+    {
+      "phrase": "coding tutor",
+      "meaning_ko": "코딩 튜터",
+      "contextNote": "학습자의 수준에 맞춰 개념을 설명해주는 교육자 역할 설정"
+    },
+    {
+      "phrase": "code snippet",
+      "meaning_ko": "코드 조각",
+      "contextNote": "전체 프로그램이 아닌 분석 대상이 되는 일부분의 짧은 코드"
+    },
+    {
+      "phrase": "break down",
+      "meaning_ko": "세분화하여 설명하다",
+      "contextNote": "복잡한 로직을 작은 단위로 나누어 이해하기 쉽게 풀어서 설명하라는 지시"
+    },
+    {
+      "phrase": "optimize",
+      "meaning_ko": "최적화하다",
+      "contextNote": "코드의 성능을 높이거나 효율성을 개선하는 작업을 요청"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "simple terms",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "complex jargon",
+        "technical manuals",
+        "abstract theories"
+      ],
+      "explanation": "초보자가 이해할 수 있도록 쉬운 용어로 설명을 요청하는 표현"
+    },
+    {
+      "answer": "step by step",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "all at once",
+        "randomly",
+        "briefly"
+      ],
+      "explanation": "논리적 흐름을 순서대로 차근차근 설명하라는 지시어"
+    },
+    {
+      "answer": "readability",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "complexity",
+        "obsolescence",
+        "redundancy"
+      ],
+      "explanation": "코드가 사람이 읽기에 얼마나 명확하고 이해하기 쉬운지를 나타내는 지표"
+    }
+  ],
+  "wordMap": {
+    "act": {
+      "meaning_ko": "역할을 하다",
+      "contextNote": "~처럼 행동하거나 역할을 맡아서 수행하라는 지시"
+    },
+    "coding": {
+      "meaning_ko": "코딩",
+      "contextNote": "컴퓨터 프로그램을 작성하는 행위"
+    },
+    "tutor": {
+      "meaning_ko": "튜터, 개인 지도 교사",
+      "contextNote": "학습자의 수준에 맞춰 개념을 설명해주는 교육자 역할 설정"
+    },
+    "beginner": {
+      "meaning_ko": "초보자",
+      "contextNote": "해당 분야의 지식이 부족하여 쉬운 설명이 필요한 대상"
+    },
+    "explain": {
+      "meaning_ko": "설명하다",
+      "contextNote": "특정 개념이나 동작 원리를 알기 쉽게 풀이하는 것"
+    },
+    "provided": {
+      "meaning_ko": "제공된",
+      "contextNote": "프롬프트와 함께 입력값으로 주어진 데이터를 지칭"
+    },
+    "code": {
+      "meaning_ko": "코드",
+      "contextNote": "프로그래밍 언어로 작성된 명령어"
+    },
+    "snippet": {
+      "meaning_ko": "조각, 일부",
+      "contextNote": "전체 프로그램이 아닌 분석 대상이 되는 일부분의 짧은 코드"
+    },
+    "simple": {
+      "meaning_ko": "단순한, 쉬운",
+      "contextNote": "복잡하지 않고 이해하기 쉬운 상태"
+    },
+    "terms": {
+      "meaning_ko": "용어",
+      "contextNote": "특정 분야에서 사용되는 말이나 표현"
+    },
+    "break down": {
+      "meaning_ko": "세분화하여 설명하다",
+      "contextNote": "복잡한 로직을 작은 단위로 나누어 이해하기 쉽게 풀어서 설명하라는 지시"
+    },
+    "logic": {
+      "meaning_ko": "논리, 로직",
+      "contextNote": "프로그램이 작동하는 체계적인 순서나 방식"
+    },
+    "step by step": {
+      "meaning_ko": "단계별로",
+      "contextNote": "논리적 흐름을 순서대로 차근차근 설명하라는 지시어"
+    },
+    "suggest": {
+      "meaning_ko": "제안하다",
+      "contextNote": "더 나은 방법이나 대안을 제시하도록 요청"
+    },
+    "three": {
+      "meaning_ko": "셋",
+      "contextNote": "결과물의 개수를 구체적으로 지정하여 정량적인 답변 유도"
+    },
+    "ways": {
+      "meaning_ko": "방법",
+      "contextNote": "문제를 해결하거나 개선하기 위한 수단"
+    },
+    "optimize": {
+      "meaning_ko": "최적화하다",
+      "contextNote": "코드의 성능을 높이거나 효율성을 개선하는 작업을 요청"
+    },
+    "better": {
+      "meaning_ko": "더 나은",
+      "contextNote": "현재 상태보다 향상된 수준"
+    },
+    "readability": {
+      "meaning_ko": "가독성",
+      "contextNote": "코드가 사람이 읽기에 얼마나 명확하고 이해하기 쉬운지를 나타내는 지표"
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}
