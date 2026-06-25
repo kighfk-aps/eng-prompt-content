@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-23T22:20:27.985Z",
+  "updatedAt": "2026-06-25T22:27:28.624Z",
   "prompts": [
+    {
+      "id": "analysis-002",
+      "category": "analysis",
+      "difficulty": "beginner",
+      "title": "시장 조사 분석가",
+      "publishedAt": "2026-06-25T22:27:28.623Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/analysis/analysis-002.json"
+    },
     {
       "id": "coding-002",
       "category": "coding",
