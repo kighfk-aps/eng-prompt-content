@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-25T22:27:28.624Z",
+  "updatedAt": "2026-06-27T22:11:32.549Z",
   "prompts": [
+    {
+      "id": "creative-002",
+      "category": "creative",
+      "difficulty": "intermediate",
+      "title": "상상 속 세계관 설계",
+      "publishedAt": "2026-06-27T22:11:32.546Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/creative/creative-002.json"
+    },
     {
       "id": "analysis-002",
       "category": "analysis",

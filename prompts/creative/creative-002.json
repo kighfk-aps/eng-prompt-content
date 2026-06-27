@@ -1,0 +1,170 @@
+{
+  "id": "creative-002",
+  "title": "상상 속 세계관 설계",
+  "category": "creative",
+  "difficulty": "intermediate",
+  "fullText": "Act as an expert world-builder. Create a detailed description of a fictional city based on [THEME]. Establish the socio-economic hierarchy, a unique architectural style, and one pervasive cultural taboo that shapes the daily lives of its citizens.",
+  "vocabulary": [
+    {
+      "phrase": "world-builder",
+      "meaning_ko": "세계관 설정가",
+      "contextNote": "소설, 게임 등의 배경이 되는 가상 세계의 규칙과 설정을 만드는 역할"
+    },
+    {
+      "phrase": "socio-economic hierarchy",
+      "meaning_ko": "사회경제적 계층 구조",
+      "contextNote": "사회 내의 계급, 부의 분배 및 권력 구조를 상세히 설정할 때 사용"
+    },
+    {
+      "phrase": "pervasive",
+      "meaning_ko": "만연한, 스며들어 있는",
+      "contextNote": "사회 전반에 널리 퍼져 있어 누구나 영향을 받는 특성을 강조할 때 사용"
+    },
+    {
+      "phrase": "cultural taboo",
+      "meaning_ko": "문화적 금기",
+      "contextNote": "특정 사회에서 엄격히 금지되는 행동이나 관습을 설정하여 갈등 요소를 만들 때 사용"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "detailed description",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "brief summary",
+        "random list",
+        "vague outline"
+      ],
+      "explanation": "단순한 요약이 아니라 구체적이고 상세한 묘사를 요청하는 표현"
+    },
+    {
+      "answer": "fictional city",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "historical village",
+        "existing town",
+        "modern suburb"
+      ],
+      "explanation": "실제 존재하는 곳이 아닌 상상 속의 가상 도시를 설정하는 표현"
+    },
+    {
+      "answer": "architectural style",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "clothing trend",
+        "musical genre",
+        "cooking method"
+      ],
+      "explanation": "도시의 시각적 분위기를 결정짓는 건축 양식을 의미함"
+    },
+    {
+      "answer": "shapes the daily lives",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "ignores the routine",
+        "destroys the city",
+        "changes the weather"
+      ],
+      "explanation": "특정 규칙이나 문화가 사람들의 일상 생활에 직접적인 영향을 준다는 의미"
+    }
+  ],
+  "wordMap": {
+    "act": {
+      "meaning_ko": "역할을 수행하다",
+      "contextNote": "AI에게 특정 페르소나를 부여하여 전문적인 답변을 유도하는 표현"
+    },
+    "expert": {
+      "meaning_ko": "전문가",
+      "contextNote": "답변의 수준을 높이기 위해 AI의 역량을 전문가 수준으로 지정함"
+    },
+    "world-builder": {
+      "meaning_ko": "세계관 설정가",
+      "contextNote": "소설, 게임 등의 배경이 되는 가상 세계의 규칙과 설정을 만드는 역할"
+    },
+    "create": {
+      "meaning_ko": "창조하다, 만들다",
+      "contextNote": "새로운 콘텐츠나 설정을 생성하라는 직접적인 명령 동사"
+    },
+    "detailed": {
+      "meaning_ko": "상세한",
+      "contextNote": "정보의 밀도를 높여 구체적인 묘사를 요청할 때 사용"
+    },
+    "description": {
+      "meaning_ko": "묘사, 설명",
+      "contextNote": "대상에 대해 자세히 설명하는 텍스트 형태를 의미"
+    },
+    "fictional": {
+      "meaning_ko": "허구의, 가상의",
+      "contextNote": "현실에 존재하지 않는 상상 속의 설정을 지정함"
+    },
+    "city": {
+      "meaning_ko": "도시",
+      "contextNote": "세계관 설정의 공간적 배경이 되는 중심지"
+    },
+    "based on": {
+      "meaning_ko": "~에 기반한",
+      "contextNote": "특정 주제나 키워드를 중심으로 내용을 전개하도록 제한함"
+    },
+    "theme": {
+      "meaning_ko": "주제, 테마",
+      "contextNote": "전체적인 분위기나 핵심 개념을 정의하는 요소"
+    },
+    "establish": {
+      "meaning_ko": "확립하다, 설정하다",
+      "contextNote": "체계적인 규칙이나 구조를 명확하게 정의하라는 지시"
+    },
+    "socio-economic": {
+      "meaning_ko": "사회경제적인",
+      "contextNote": "사회적 지위와 경제적 상황이 결합된 관점을 의미"
+    },
+    "hierarchy": {
+      "meaning_ko": "계층 구조, 위계",
+      "contextNote": "사회경제적 계층 구조를 상세히 설정할 때 사용"
+    },
+    "unique": {
+      "meaning_ko": "독특한",
+      "contextNote": "전형적이지 않은 차별화된 특징을 요청할 때 사용"
+    },
+    "architectural": {
+      "meaning_ko": "건축의, 건축학적인",
+      "contextNote": "도시의 외관과 구조적 특징을 묘사하는 형용사"
+    },
+    "style": {
+      "meaning_ko": "양식, 스타일",
+      "contextNote": "특정한 시각적, 예술적 일관성을 가진 형태"
+    },
+    "one": {
+      "meaning_ko": "하나의",
+      "contextNote": "여러 개가 아닌 핵심적인 단일 요소를 지정하여 집중도를 높임"
+    },
+    "pervasive": {
+      "meaning_ko": "만연한, 스며들어 있는",
+      "contextNote": "사회 전반에 널리 퍼져 있어 누구나 영향을 받는 특성을 강조할 때 사용"
+    },
+    "cultural": {
+      "meaning_ko": "문화적인",
+      "contextNote": "특정 집단의 공통된 가치관이나 행동 양식을 의미"
+    },
+    "taboo": {
+      "meaning_ko": "금기",
+      "contextNote": "특정 사회에서 엄격히 금지되는 행동이나 관습을 설정하여 갈등 요소를 만들 때 사용"
+    },
+    "shapes": {
+      "meaning_ko": "형성하다, 영향을 주다",
+      "contextNote": "어떤 요소가 결과나 행동의 형태를 결정짓는다는 비유적 표현"
+    },
+    "daily": {
+      "meaning_ko": "매일의, 일상의",
+      "contextNote": "특별한 사건이 아닌 반복되는 평범한 생활 패턴을 의미"
+    },
+    "lives": {
+      "meaning_ko": "삶, 생활",
+      "contextNote": "사람들이 살아가는 방식이나 경험 전반"
+    },
+    "citizens": {
+      "meaning_ko": "시민들",
+      "contextNote": "설정된 가상 도시에 거주하는 사람들"
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}
