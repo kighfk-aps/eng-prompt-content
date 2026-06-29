@@ -1,0 +1,143 @@
+{
+  "id": "business-002",
+  "title": "제품 전략 및 SWOT 분석",
+  "category": "business",
+  "difficulty": "intermediate",
+  "fullText": "Assume the role of a senior product manager. Conduct a comprehensive SWOT analysis for [PRODUCT NAME] and provide actionable insights. Please synthesize the findings into a strategic roadmap that prioritizes high-impact features based on market trends.",
+  "vocabulary": [
+    {
+      "phrase": "Assume the role of",
+      "meaning_ko": "~의 역할을 맡다",
+      "contextNote": "AI에게 특정 페르소나나 전문적 배경을 부여하여 응답의 톤과 전문성을 설정할 때 사용합니다."
+    },
+    {
+      "phrase": "SWOT analysis",
+      "meaning_ko": "SWOT 분석",
+      "contextNote": "강점(Strengths), 약점(Weaknesses), 기회(Opportunities), 위협(Threats)을 분석하는 경영 전략 도구입니다."
+    },
+    {
+      "phrase": "actionable insights",
+      "meaning_ko": "실행 가능한 통찰",
+      "contextNote": "단순한 정보 나열이 아니라 즉시 실행에 옮길 수 있는 구체적인 전략적 제언을 요청할 때 씁니다."
+    },
+    {
+      "phrase": "strategic roadmap",
+      "meaning_ko": "전략적 로드맵",
+      "contextNote": "목표 달성을 위한 단계별 계획과 일정을 시각화하거나 구조화한 계획서입니다."
+    },
+    {
+      "phrase": "high-impact features",
+      "meaning_ko": "고영향 기능",
+      "contextNote": "적은 노력으로 큰 성과를 내거나 사용자 경험을 획기적으로 개선하는 핵심 기능을 의미합니다."
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "comprehensive",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "brief",
+        "random",
+        "superficial"
+      ],
+      "explanation": "누락된 부분 없이 모든 측면을 상세히 분석해달라는 요청을 위해 '포괄적인'이라는 표현을 사용합니다."
+    },
+    {
+      "answer": "synthesize",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "separate",
+        "ignore",
+        "repeat"
+      ],
+      "explanation": "여러 분석 결과를 하나로 통합하여 새로운 결론이나 계획을 도출하라는 지시어입니다."
+    },
+    {
+      "answer": "prioritizes",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "neglects",
+        "randomizes",
+        "delays"
+      ],
+      "explanation": "여러 과업 중 중요도와 시급성에 따라 순서를 정하는 전략적 의사결정 과정을 의미합니다."
+    },
+    {
+      "answer": "market trends",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "past history",
+        "internal moods",
+        "static data"
+      ],
+      "explanation": "현재 시장의 흐름과 변화 방향을 근거로 판단하라는 맥락에서 사용됩니다."
+    }
+  ],
+  "wordMap": {
+    "assume": {
+      "meaning_ko": "가정하다, 맡다",
+      "contextNote": "~의 역할을 맡다"
+    },
+    "role": {
+      "meaning_ko": "역할",
+      "contextNote": "AI가 수행해야 할 특정한 페르소나를 지정합니다."
+    },
+    "senior": {
+      "meaning_ko": "상급의, 숙련된",
+      "contextNote": "단순 직원이 아닌 풍부한 경험을 가진 전문가 수준의 답변을 요구합니다."
+    },
+    "product manager": {
+      "meaning_ko": "제품 관리자",
+      "contextNote": "제품의 기획부터 출시, 운영까지 총괄하는 직무입니다."
+    },
+    "conduct": {
+      "meaning_ko": "수행하다",
+      "contextNote": "분석, 조사, 실험 등을 체계적으로 실행하는 것을 의미합니다."
+    },
+    "comprehensive": {
+      "meaning_ko": "포괄적인, 종합적인",
+      "contextNote": "누락된 부분 없이 모든 측면을 상세히 분석해달라는 요청을 위해 사용합니다."
+    },
+    "swot analysis": {
+      "meaning_ko": "SWOT 분석",
+      "contextNote": "강점(Strengths), 약점(Weaknesses), 기회(Opportunities), 위협(Threats)을 분석하는 경영 전략 도구입니다."
+    },
+    "provide": {
+      "meaning_ko": "제공하다",
+      "contextNote": "특정 정보나 결과물을 출력해달라는 요청입니다."
+    },
+    "actionable insights": {
+      "meaning_ko": "실행 가능한 통찰",
+      "contextNote": "단순한 정보 나열이 아니라 즉시 실행에 옮길 수 있는 구체적인 전략적 제언을 요청할 때 씁니다."
+    },
+    "synthesize": {
+      "meaning_ko": "종합하다, 합성하다",
+      "contextNote": "여러 분석 결과를 하나로 통합하여 새로운 결론이나 계획을 도출하라는 지시어입니다."
+    },
+    "findings": {
+      "meaning_ko": "조사 결과, 분석 내용",
+      "contextNote": "분석 과정을 통해 얻어낸 구체적인 데이터나 결론을 의미합니다."
+    },
+    "strategic roadmap": {
+      "meaning_ko": "전략적 로드맵",
+      "contextNote": "목표 달성을 위한 단계별 계획과 일정을 시각화하거나 구조화한 계획서입니다."
+    },
+    "prioritizes": {
+      "meaning_ko": "우선순위를 정하다",
+      "contextNote": "여러 과업 중 중요도와 시급성에 따라 순서를 정하는 전략적 의사결정 과정을 의미합니다."
+    },
+    "high-impact features": {
+      "meaning_ko": "고영향 기능",
+      "contextNote": "적은 노력으로 큰 성과를 내거나 사용자 경험을 획기적으로 개선하는 핵심 기능을 의미합니다."
+    },
+    "based on": {
+      "meaning_ko": "~에 근거하여",
+      "contextNote": "판단의 기준이 되는 근거 자료를 명시할 때 사용합니다."
+    },
+    "market trends": {
+      "meaning_ko": "시장 트렌드, 추세",
+      "contextNote": "현재 시장의 흐름과 변화 방향을 근거로 판단하라는 맥락에서 사용됩니다."
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}

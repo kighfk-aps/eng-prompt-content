@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-27T22:11:32.549Z",
+  "updatedAt": "2026-06-29T22:16:51.896Z",
   "prompts": [
+    {
+      "id": "business-002",
+      "category": "business",
+      "difficulty": "intermediate",
+      "title": "제품 전략 및 SWOT 분석",
+      "publishedAt": "2026-06-29T22:16:51.894Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/business/business-002.json"
+    },
     {
       "id": "creative-002",
       "category": "creative",
