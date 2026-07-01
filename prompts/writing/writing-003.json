@@ -1,0 +1,148 @@
+{
+  "id": "writing-003",
+  "title": "비판적 편집자 페르소나",
+  "category": "writing",
+  "difficulty": "intermediate",
+  "fullText": "Adopt the persona of a critical editor. Review the provided text for logical fallacies and inconsistencies. Provide constructive feedback and suggest specific revisions to enhance the overall flow and coherence of the argument.",
+  "vocabulary": [
+    {
+      "phrase": "Adopt the persona of",
+      "meaning_ko": "~의 페르소나를 채택하다",
+      "contextNote": "AI에게 단순한 역할 부여를 넘어 특정 성격이나 관점을 가지도록 요청할 때 사용"
+    },
+    {
+      "phrase": "logical fallacies",
+      "meaning_ko": "논리적 오류",
+      "contextNote": "글의 논리적 허점을 찾아내라는 구체적인 지시를 내릴 때 사용"
+    },
+    {
+      "phrase": "constructive feedback",
+      "meaning_ko": "건설적인 피드백",
+      "contextNote": "단순한 비판이 아니라 개선 방향을 제시하는 답변을 유도할 때 사용"
+    },
+    {
+      "phrase": "enhance",
+      "meaning_ko": "향상시키다",
+      "contextNote": "기존의 텍스트 품질을 더 높은 수준으로 끌어올리라고 요청할 때 사용"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "inconsistencies",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "similarities",
+        "accuracies",
+        "agreements"
+      ],
+      "explanation": "논리적 오류와 함께 글의 '불일치'나 '모순'을 찾아달라고 요청하는 맥락"
+    },
+    {
+      "answer": "specific revisions",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "general ideas",
+        "random changes",
+        "brief summaries"
+      ],
+      "explanation": "추상적인 조언이 아닌 구체적인 수정안을 요구하는 표현"
+    },
+    {
+      "answer": "coherence",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "length",
+        "vocabulary",
+        "volume"
+      ],
+      "explanation": "논증의 일관성과 전체적인 결합력을 의미하는 단어"
+    }
+  ],
+  "wordMap": {
+    "adopt": {
+      "meaning_ko": "채택하다",
+      "contextNote": "AI에게 페르소나를 설정하는 가장 기본적인 표현"
+    },
+    "persona": {
+      "meaning_ko": "페르소나/인격",
+      "contextNote": "AI에게 페르소나를 설정하는 가장 기본적인 표현"
+    },
+    "critical": {
+      "meaning_ko": "비판적인",
+      "contextNote": "분석적이고 엄격한 시각으로 검토하는 상태"
+    },
+    "editor": {
+      "meaning_ko": "편집자",
+      "contextNote": "글의 오류를 교정하고 질을 높이는 전문가"
+    },
+    "review": {
+      "meaning_ko": "검토하다",
+      "contextNote": "제시된 내용을 꼼꼼히 살펴보고 평가하는 행위"
+    },
+    "provided": {
+      "meaning_ko": "제공된",
+      "contextNote": "사용자가 입력값으로 준 텍스트를 지칭"
+    },
+    "text": {
+      "meaning_ko": "본문/텍스트",
+      "contextNote": "분석 대상이 되는 글 전체"
+    },
+    "logical": {
+      "meaning_ko": "논리적인",
+      "contextNote": "이치에 맞고 체계적인 사고방식의"
+    },
+    "fallacies": {
+      "meaning_ko": "오류",
+      "contextNote": "글의 논리적 허점을 찾아내라는 구체적인 지시를 내릴 때 사용"
+    },
+    "inconsistencies": {
+      "meaning_ko": "불일치/모순",
+      "contextNote": "글 내에서 앞뒤 말이 맞지 않는 부분"
+    },
+    "provide": {
+      "meaning_ko": "제공하다",
+      "contextNote": "결과물로서의 피드백이나 제안을 요청할 때 사용"
+    },
+    "constructive": {
+      "meaning_ko": "건설적인",
+      "contextNote": "단순한 비판이 아니라 개선 방향을 제시하는 답변을 유도할 때 사용"
+    },
+    "feedback": {
+      "meaning_ko": "피드백",
+      "contextNote": "단순한 비판이 아니라 개선 방향을 제시하는 답변을 유도할 때 사용"
+    },
+    "suggest": {
+      "meaning_ko": "제안하다",
+      "contextNote": "구체적인 해결책이나 대안을 제시하도록 요청"
+    },
+    "specific": {
+      "meaning_ko": "구체적인",
+      "contextNote": "모호하지 않고 명확한 수정 사항을 요구"
+    },
+    "revisions": {
+      "meaning_ko": "수정 사항",
+      "contextNote": "글의 질을 높이기 위해 고쳐 써야 할 부분"
+    },
+    "enhance": {
+      "meaning_ko": "향상시키다",
+      "contextNote": "기존의 텍스트 품질을 더 높은 수준으로 끌어올리라고 요청할 때 사용"
+    },
+    "overall": {
+      "meaning_ko": "전반적인",
+      "contextNote": "부분적인 수정이 아닌 글 전체의 느낌을 지칭"
+    },
+    "flow": {
+      "meaning_ko": "흐름",
+      "contextNote": "문장과 문장 사이의 자연스러운 연결성"
+    },
+    "coherence": {
+      "meaning_ko": "일관성/결합성",
+      "contextNote": "논증의 일관성과 전체적인 결합력을 의미하는 단어"
+    },
+    "argument": {
+      "meaning_ko": "논증/주장",
+      "contextNote": "글쓴이가 전달하고자 하는 핵심 논리와 근거"
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}

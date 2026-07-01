@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-29T22:16:51.896Z",
+  "updatedAt": "2026-07-01T22:24:23.558Z",
   "prompts": [
+    {
+      "id": "writing-003",
+      "category": "writing",
+      "difficulty": "intermediate",
+      "title": "비판적 편집자 페르소나",
+      "publishedAt": "2026-07-01T22:24:23.558Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/writing/writing-003.json"
+    },
     {
       "id": "business-002",
       "category": "business",
