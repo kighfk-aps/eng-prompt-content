@@ -1,0 +1,158 @@
+{
+  "id": "coding-003",
+  "title": "기술 아키텍트의 코드 리팩토링",
+  "category": "coding",
+  "difficulty": "intermediate",
+  "fullText": "Act as a technical architect. Refactor the following code to improve its modularity and maintainability while ensuring that the core logic remains intact. Please justify your architectural decisions and explain how this refactoring reduces technical debt.",
+  "vocabulary": [
+    {
+      "phrase": "technical architect",
+      "meaning_ko": "기술 아키텍트",
+      "contextNote": "시스템의 전체 구조를 설계하고 기술적 표준을 결정하는 전문가 역할"
+    },
+    {
+      "phrase": "refactor",
+      "meaning_ko": "리팩토링하다",
+      "contextNote": "외부 동작은 유지하면서 내부 구조를 개선하여 가독성과 유지보수성을 높이는 작업"
+    },
+    {
+      "phrase": "modularity",
+      "meaning_ko": "모듈성",
+      "contextNote": "코드를 독립적인 작은 단위로 나누어 재사용성과 관리 효율을 높이는 성질"
+    },
+    {
+      "phrase": "technical debt",
+      "meaning_ko": "기술 부채",
+      "contextNote": "빠른 개발을 위해 선택한 임시 방편이 나중에 수정 비용을 증가시키는 상황"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "maintainability",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "profitability",
+        "compatibility",
+        "availability"
+      ],
+      "explanation": "코드를 얼마나 쉽게 수정하고 관리할 수 있는지를 나타내는 유지보수성"
+    },
+    {
+      "answer": "core logic",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "visual style",
+        "variable names",
+        "commenting style"
+      ],
+      "explanation": "리팩토링 시 변경해서는 안 되는 프로그램의 핵심 기능적 논리"
+    },
+    {
+      "answer": "remains intact",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "becomes obsolete",
+        "stays hidden",
+        "gets modified"
+      ],
+      "explanation": "구조를 바꿔도 원래의 기능이나 결과가 손상되지 않고 그대로 유지됨을 의미"
+    },
+    {
+      "answer": "justify",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "criticize",
+        "ignore",
+        "summarize"
+      ],
+      "explanation": "특정 설계 결정을 내린 이유에 대해 논리적인 근거를 제시하라는 지시"
+    }
+  ],
+  "wordMap": {
+    "act": {
+      "meaning_ko": "역할을 하다",
+      "contextNote": "~처럼 행동하거나 역할을 맡아서 수행하라는 지시"
+    },
+    "technical": {
+      "meaning_ko": "기술적인",
+      "contextNote": "특정 기술 분야나 전문적인 지식과 관련된"
+    },
+    "architect": {
+      "meaning_ko": "아키텍트, 설계자",
+      "contextNote": "시스템의 전체적인 구조를 설계하는 사람"
+    },
+    "refactor": {
+      "meaning_ko": "리팩토링하다",
+      "contextNote": "외부 동작은 유지하면서 내부 구조를 개선하여 가독성과 유지보수성을 높이는 작업"
+    },
+    "following": {
+      "meaning_ko": "다음에 오는",
+      "contextNote": "프롬프트 아래에 제공될 텍스트나 코드를 지칭"
+    },
+    "code": {
+      "meaning_ko": "코드",
+      "contextNote": "컴퓨터가 이해할 수 있도록 작성된 명령어 집합"
+    },
+    "improve": {
+      "meaning_ko": "개선하다",
+      "contextNote": "현재 상태보다 더 나은 품질이나 성능으로 만들다"
+    },
+    "modularity": {
+      "meaning_ko": "모듈성",
+      "contextNote": "코드를 독립적인 작은 단위로 나누어 재사용성과 관리 효율을 높이는 성질"
+    },
+    "maintainability": {
+      "meaning_ko": "유지보수성",
+      "contextNote": "코드를 얼마나 쉽게 수정하고 관리할 수 있는지를 나타내는 성질"
+    },
+    "ensuring": {
+      "meaning_ko": "보장하다",
+      "contextNote": "특정 조건이나 결과가 반드시 유지되도록 확실히 함"
+    },
+    "core": {
+      "meaning_ko": "핵심의",
+      "contextNote": "가장 중심이 되고 중요한 부분"
+    },
+    "logic": {
+      "meaning_ko": "논리, 로직",
+      "contextNote": "프로그램이 작동하는 단계별 처리 흐름"
+    },
+    "remains": {
+      "meaning_ko": "유지되다",
+      "contextNote": "특정 상태가 변하지 않고 계속 남아 있음"
+    },
+    "intact": {
+      "meaning_ko": "온전한",
+      "contextNote": "손상되지 않고 원래 상태 그대로인"
+    },
+    "justify": {
+      "meaning_ko": "정당화하다, 근거를 제시하다",
+      "contextNote": "특정 설계 결정을 내린 이유에 대해 논리적인 근거를 제시하라는 지시"
+    },
+    "architectural": {
+      "meaning_ko": "설계상의, 구조적인",
+      "contextNote": "시스템의 전반적인 구조나 설계 방식에 관한"
+    },
+    "decisions": {
+      "meaning_ko": "결정, 판단",
+      "contextNote": "여러 대안 중에서 특정 방향을 선택한 행위"
+    },
+    "explain": {
+      "meaning_ko": "설명하다",
+      "contextNote": "이유나 작동 원리를 상세히 풀어서 알려줌"
+    },
+    "refactoring": {
+      "meaning_ko": "리팩토링",
+      "contextNote": "코드 구조를 개선하는 행위 자체"
+    },
+    "reduces": {
+      "meaning_ko": "줄이다, 감소시키다",
+      "contextNote": "부정적인 요소나 비용을 낮추는 것"
+    },
+    "debt": {
+      "meaning_ko": "부채, 빚",
+      "contextNote": "나중에 갚아야 할(수정해야 할) 부담"
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}

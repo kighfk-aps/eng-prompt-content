@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-01T22:24:23.558Z",
+  "updatedAt": "2026-07-03T22:12:26.968Z",
   "prompts": [
+    {
+      "id": "coding-003",
+      "category": "coding",
+      "difficulty": "intermediate",
+      "title": "기술 아키텍트의 코드 리팩토링",
+      "publishedAt": "2026-07-03T22:12:26.967Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/coding/coding-003.json"
+    },
     {
       "id": "writing-003",
       "category": "writing",
