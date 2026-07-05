@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-03T22:12:26.968Z",
+  "updatedAt": "2026-07-05T22:09:26.087Z",
   "prompts": [
+    {
+      "id": "analysis-003",
+      "category": "analysis",
+      "difficulty": "advanced",
+      "title": "고급 전략 분석 프롬프트",
+      "publishedAt": "2026-07-05T22:09:26.086Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/analysis/analysis-003.json"
+    },
     {
       "id": "coding-003",
       "category": "coding",

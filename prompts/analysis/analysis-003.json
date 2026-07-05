@@ -1,0 +1,161 @@
+{
+  "id": "analysis-003",
+  "title": "고급 전략 분석 프롬프트",
+  "category": "analysis",
+  "difficulty": "advanced",
+  "fullText": "Conduct a comprehensive SWOT analysis on the provided company report. Please cross-examine the internal strengths against external opportunities to derive strategic synergies. Quantify the potential risks and provide a sensitivity analysis to evaluate the impact of various market volatility scenarios.",
+  "vocabulary": [
+    {
+      "phrase": "comprehensive SWOT analysis",
+      "meaning_ko": "종합적인 SWOT 분석",
+      "contextNote": "강점, 약점, 기회, 위협을 다각도로 분석하여 전략적 방향을 설정할 때 사용"
+    },
+    {
+      "phrase": "cross-examine",
+      "meaning_ko": "교차 검토하다",
+      "contextNote": "두 가지 이상의 서로 다른 데이터 세트를 비교하여 상관관계를 분석할 때 사용"
+    },
+    {
+      "phrase": "strategic synergies",
+      "meaning_ko": "전략적 시너지",
+      "contextNote": "개별 요소들이 결합하여 더 큰 효과를 내는 전략적 이점을 도출할 때 사용"
+    },
+    {
+      "phrase": "sensitivity analysis",
+      "meaning_ko": "민감도 분석",
+      "contextNote": "입력 변수의 변화가 결과에 미치는 영향의 정도를 측정하는 고급 분석 기법"
+    },
+    {
+      "phrase": "market volatility",
+      "meaning_ko": "시장 변동성",
+      "contextNote": "가격이나 수요 등 시장 상황이 급격하게 변하는 불안정성을 지칭"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "derive strategic synergies",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "ignore internal conflicts",
+        "repeat basic summaries",
+        "simplify a few strengths"
+      ],
+      "explanation": "단순 분석을 넘어 전략적 이점을 '도출'하는 고차원적인 분석 명령"
+    },
+    {
+      "answer": "Quantify the potential risks",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "Guess the potential risks",
+        "Avoid the potential risks",
+        "Describe the potential risks"
+      ],
+      "explanation": "추상적인 위험 기술이 아니라 구체적인 수치로 '정량화'할 것을 요구하는 고급 표현"
+    },
+    {
+      "answer": "evaluate the impact",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "deny the impact",
+        "limit the impact",
+        "forget the impact"
+      ],
+      "explanation": "특정 시나리오가 결과에 미치는 영향을 '평가'하는 분석적 프로세스"
+    }
+  ],
+  "wordMap": {
+    "conduct": {
+      "meaning_ko": "수행하다",
+      "contextNote": "조사, 분석, 실험 등을 실행에 옮길 때 사용하는 정중한 동사"
+    },
+    "comprehensive": {
+      "meaning_ko": "종합적인, 포괄적인",
+      "contextNote": "누락 없이 모든 세부 사항을 다루는 분석을 요구할 때 사용"
+    },
+    "swot analysis": {
+      "meaning_ko": "SWOT 분석",
+      "contextNote": "강점(Strengths), 약점(Weaknesses), 기회(Opportunities), 위협(Threats) 분석"
+    },
+    "provided": {
+      "meaning_ko": "제공된",
+      "contextNote": "사용자가 AI에게 입력값으로 준 자료를 지칭"
+    },
+    "company report": {
+      "meaning_ko": "기업 보고서",
+      "contextNote": "분석의 대상이 되는 문서 자료"
+    },
+    "cross-examine": {
+      "meaning_ko": "교차 검토하다",
+      "contextNote": "두 가지 이상의 서로 다른 데이터 세트를 비교하여 상관관계를 분석할 때 사용"
+    },
+    "internal": {
+      "meaning_ko": "내부의",
+      "contextNote": "기업 내부의 자원이나 역량을 의미"
+    },
+    "strengths": {
+      "meaning_ko": "강점",
+      "contextNote": "SWOT 분석 중 내부적인 긍정적 요소"
+    },
+    "against": {
+      "meaning_ko": "대비하여",
+      "contextNote": "두 대상을 대조하거나 비교 분석할 때 사용하는 전치사"
+    },
+    "external": {
+      "meaning_ko": "외부의",
+      "contextNote": "기업 외부의 환경이나 시장 상황을 의미"
+    },
+    "opportunities": {
+      "meaning_ko": "기회",
+      "contextNote": "SWOT 분석 중 외부적인 긍정적 요소"
+    },
+    "derive": {
+      "meaning_ko": "도출하다",
+      "contextNote": "추론이나 분석을 통해 결론을 끌어내는 과정"
+    },
+    "strategic synergies": {
+      "meaning_ko": "전략적 시너지",
+      "contextNote": "개별 요소들이 결합하여 더 큰 효과를 내는 전략적 이점을 도출할 때 사용"
+    },
+    "quantify": {
+      "meaning_ko": "정량화하다",
+      "contextNote": "모호한 개념을 숫자나 데이터로 변환하여 측정하는 것"
+    },
+    "potential": {
+      "meaning_ko": "잠재적인",
+      "contextNote": "현재는 아니지만 앞으로 발생 가능성이 있는"
+    },
+    "risks": {
+      "meaning_ko": "위험 요소",
+      "contextNote": "분석 결과 부정적인 영향을 줄 수 있는 요인"
+    },
+    "provide": {
+      "meaning_ko": "제공하다",
+      "contextNote": "특정 분석 결과나 데이터를 제시하라는 요청"
+    },
+    "sensitivity analysis": {
+      "meaning_ko": "민감도 분석",
+      "contextNote": "입력 변수의 변화가 결과에 미치는 영향의 정도를 측정하는 고급 분석 기법"
+    },
+    "evaluate": {
+      "meaning_ko": "평가하다",
+      "contextNote": "가치나 영향력을 판단하여 결론을 내리는 과정"
+    },
+    "impact": {
+      "meaning_ko": "영향, 충격",
+      "contextNote": "어떤 사건이나 변화가 가져오는 결과"
+    },
+    "various": {
+      "meaning_ko": "다양한",
+      "contextNote": "단일 사례가 아닌 여러 가지 가능성을 고려할 때 사용"
+    },
+    "market volatility": {
+      "meaning_ko": "시장 변동성",
+      "contextNote": "가격이나 수요 등 시장 상황이 급격하게 변하는 불안정성을 지칭"
+    },
+    "scenarios": {
+      "meaning_ko": "시나리오, 가상 상황",
+      "contextNote": "미래에 일어날 수 있는 여러 가지 상황 설정"
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}
