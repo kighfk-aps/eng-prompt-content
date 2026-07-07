@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-05T22:09:26.087Z",
+  "updatedAt": "2026-07-07T22:18:34.379Z",
   "prompts": [
+    {
+      "id": "creative-003",
+      "category": "creative",
+      "difficulty": "beginner",
+      "title": "여행 블로거 페르소나",
+      "publishedAt": "2026-07-07T22:18:34.379Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/creative/creative-003.json"
+    },
     {
       "id": "analysis-003",
       "category": "analysis",

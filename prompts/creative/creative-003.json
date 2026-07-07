@@ -1,0 +1,173 @@
+{
+  "id": "creative-003",
+  "title": "여행 블로거 페르소나",
+  "category": "creative",
+  "difficulty": "beginner",
+  "fullText": "Act as a professional travel blogger. Create a vivid itinerary for a 3-day trip to [CITY]. Use sensory details to describe the atmosphere and suggest hidden gems that are off the beaten path.",
+  "vocabulary": [
+    {
+      "phrase": "act as",
+      "meaning_ko": "~로서 행동하다",
+      "contextNote": "AI에게 특정 역할이나 전문가 페르소나를 부여할 때 사용하는 핵심 표현"
+    },
+    {
+      "phrase": "vivid itinerary",
+      "meaning_ko": "생생한 여행 일정",
+      "contextNote": "단순한 목록이 아니라 묘사가 풍부한 계획표를 요청할 때 사용"
+    },
+    {
+      "phrase": "sensory details",
+      "meaning_ko": "감각적 세부 묘사",
+      "contextNote": "시각, 청각, 후각 등 오감을 활용한 구체적인 묘사를 요구하여 퀄리티를 높임"
+    },
+    {
+      "phrase": "hidden gems",
+      "meaning_ko": "숨겨진 명소",
+      "contextNote": "잘 알려지지 않았지만 가치 있는 장소를 추천받고 싶을 때 쓰는 관용구"
+    },
+    {
+      "phrase": "off the beaten path",
+      "meaning_ko": "사람들이 잘 가지 않는, 이색적인",
+      "contextNote": "뻔한 관광지가 아닌 색다른 장소를 요청할 때 사용하는 상투적 표현"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "professional travel blogger",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "random tourist",
+        "local resident",
+        "hotel manager"
+      ],
+      "explanation": "글의 톤과 매너를 결정하기 위해 전문적인 여행 작가의 정체성을 부여하는 부분입니다."
+    },
+    {
+      "answer": "describe the atmosphere",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "calculate the cost",
+        "list the dates",
+        "check the weather"
+      ],
+      "explanation": "장소의 단순 정보가 아닌 '분위기'를 묘사해달라고 요청하는 맥락입니다."
+    },
+    {
+      "answer": "3-day trip",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "3-hour walk",
+        "3-year plan",
+        "3-minute break"
+      ],
+      "explanation": "일정표(itinerary)의 구체적인 기간을 설정하는 표현입니다."
+    }
+  ],
+  "wordMap": {
+    "act": {
+      "meaning_ko": "~로서 행동하다",
+      "contextNote": "AI에게 특정 역할이나 전문가 페르소나를 부여할 때 사용하는 핵심 표현"
+    },
+    "as": {
+      "meaning_ko": "~로서",
+      "contextNote": "역할을 지정하는 전치사입니다."
+    },
+    "professional": {
+      "meaning_ko": "전문적인",
+      "contextNote": "높은 수준의 전문성을 갖춘 결과물을 원할 때 사용합니다."
+    },
+    "travel": {
+      "meaning_ko": "여행",
+      "contextNote": "이동과 관광을 아우르는 활동을 의미합니다."
+    },
+    "blogger": {
+      "meaning_ko": "블로거",
+      "contextNote": "웹상에 글을 쓰는 기록자를 의미하며 특유의 친근하고 정보 전달적인 문체를 유도합니다."
+    },
+    "create": {
+      "meaning_ko": "만들다, 생성하다",
+      "contextNote": "새로운 콘텐츠를 작성하라는 기본 명령어로 사용됩니다."
+    },
+    "vivid": {
+      "meaning_ko": "생생한",
+      "contextNote": "묘사가 아주 구체적이고 선명한 상태를 나타냅니다."
+    },
+    "itinerary": {
+      "meaning_ko": "여행 일정",
+      "contextNote": "방문지, 시간, 활동 등이 포함된 여행 계획표를 의미합니다."
+    },
+    "for": {
+      "meaning_ko": "~를 위한",
+      "contextNote": "대상이나 목적을 지정합니다."
+    },
+    "3-day": {
+      "meaning_ko": "3일간의",
+      "contextNote": "일정의 총 기간을 수식하는 형용사적 표현입니다."
+    },
+    "trip": {
+      "meaning_ko": "여행",
+      "contextNote": "특정 목적지로 떠나는 짧은 여행을 의미합니다."
+    },
+    "to": {
+      "meaning_ko": "~로(의)",
+      "contextNote": "목적지를 나타냅니다."
+    },
+    "city": {
+      "meaning_ko": "도시",
+      "contextNote": "여행의 대상이 되는 구체적인 지역을 뜻합니다."
+    },
+    "use": {
+      "meaning_ko": "사용하다",
+      "contextNote": "특정 기법이나 도구를 적용하라고 지시할 때 씁니다."
+    },
+    "sensory": {
+      "meaning_ko": "감각의",
+      "contextNote": "오감(시각, 청각 등)과 관련된 특성을 의미합니다."
+    },
+    "details": {
+      "meaning_ko": "세부 사항",
+      "contextNote": "구체적인 정보나 작은 요소들을 뜻합니다."
+    },
+    "describe": {
+      "meaning_ko": "묘사하다",
+      "contextNote": "어떤 대상의 특징을 말이나 글로 설명하는 행동입니다."
+    },
+    "atmosphere": {
+      "meaning_ko": "분위기",
+      "contextNote": "장소나 상황에서 느껴지는 전반적인 기운이나 느낌입니다."
+    },
+    "suggest": {
+      "meaning_ko": "제안하다, 추천하다",
+      "contextNote": "아이디어나 장소를 권유하는 행동입니다."
+    },
+    "hidden": {
+      "meaning_ko": "숨겨진",
+      "contextNote": "대중에게 잘 알려지지 않은 상태를 뜻합니다."
+    },
+    "gems": {
+      "meaning_ko": "보석, 소중한 것",
+      "contextNote": "여기서는 보석처럼 가치 있는 멋진 장소를 비유적으로 표현한 것입니다."
+    },
+    "that": {
+      "meaning_ko": "~한",
+      "contextNote": "앞의 명사를 수식하는 관계대명사입니다."
+    },
+    "are": {
+      "meaning_ko": "~이다",
+      "contextNote": "상태를 나타내는 연결 동사입니다."
+    },
+    "off": {
+      "meaning_ko": "~에서 벗어난",
+      "contextNote": "정해진 경로를 벗어났음을 나타냅니다."
+    },
+    "beaten": {
+      "meaning_ko": "많이 다녀진, 밟힌",
+      "contextNote": "많은 사람이 다녀서 길이 다져진 상태를 의미합니다."
+    },
+    "path": {
+      "meaning_ko": "길, 경로",
+      "contextNote": "사람들이 이동하는 통로나 일반적인 경로를 뜻합니다."
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}
