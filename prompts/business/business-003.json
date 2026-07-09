@@ -1,0 +1,165 @@
+{
+  "id": "business-003",
+  "title": "시장 분석 및 SWOT 전략",
+  "category": "business",
+  "difficulty": "intermediate",
+  "fullText": "Act as a senior market analyst. Conduct a comprehensive SWOT analysis for [COMPANY/PRODUCT] by identifying internal strengths and weaknesses, alongside external opportunities and threats. Synthesize these findings into actionable strategic recommendations to maintain a competitive edge.",
+  "vocabulary": [
+    {
+      "phrase": "comprehensive SWOT analysis",
+      "meaning_ko": "종합적인 SWOT 분석",
+      "contextNote": "강점, 약점, 기회, 위협을 모두 포괄하여 다각도로 분석하라는 지시어입니다."
+    },
+    {
+      "phrase": "internal strengths and weaknesses",
+      "meaning_ko": "내부 강점 및 약점",
+      "contextNote": "기업 내부의 자원이나 역량 등 통제 가능한 요소들을 분석할 때 사용합니다."
+    },
+    {
+      "phrase": "external opportunities and threats",
+      "meaning_ko": "외부 기회 및 위협",
+      "contextNote": "시장 트렌드, 경쟁사 등 기업 외부의 환경적 요인을 분석할 때 사용합니다."
+    },
+    {
+      "phrase": "actionable strategic recommendations",
+      "meaning_ko": "실행 가능한 전략적 권고 사항",
+      "contextNote": "단순 분석에 그치지 않고 즉시 적용할 수 있는 구체적인 해결책을 요구하는 표현입니다."
+    },
+    {
+      "phrase": "competitive edge",
+      "meaning_ko": "경쟁 우위",
+      "contextNote": "경쟁사보다 앞서 나갈 수 있는 차별적인 강점이나 이점을 의미합니다."
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "Conduct",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "Imagine",
+        "Ignore",
+        "Avoid"
+      ],
+      "explanation": "분석, 조사, 실험 등을 '수행하다'라고 할 때 사용하는 전문적인 동사입니다."
+    },
+    {
+      "answer": "Synthesize",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "Separate",
+        "Divide",
+        "Discard"
+      ],
+      "explanation": "여러 정보를 종합하여 하나의 결론이나 결과물로 만들어내는 과정을 의미합니다."
+    },
+    {
+      "answer": "findings",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "opinions",
+        "guesses",
+        "rumors"
+      ],
+      "explanation": "조사나 분석을 통해 새롭게 발견한 사실이나 결과물을 지칭합니다."
+    }
+  ],
+  "wordMap": {
+    "act": {
+      "meaning_ko": "~처럼 행동하다",
+      "contextNote": "특정 전문가의 페르소나를 부여하여 응답의 전문성을 높이는 지시어입니다."
+    },
+    "senior": {
+      "meaning_ko": "상급의, 숙련된",
+      "contextNote": "단순 전문가가 아닌 풍부한 경험을 가진 고위 전문가의 관점을 요구합니다."
+    },
+    "market": {
+      "meaning_ko": "시장",
+      "contextNote": "제품이나 서비스가 거래되는 경제적 영역을 의미합니다."
+    },
+    "analyst": {
+      "meaning_ko": "분석가",
+      "contextNote": "데이터를 해석하고 전략적 통찰을 도출하는 직무입니다."
+    },
+    "conduct": {
+      "meaning_ko": "수행하다",
+      "contextNote": "분석, 조사, 실험 등을 '수행하다'라고 할 때 사용하는 전문적인 동사입니다."
+    },
+    "comprehensive": {
+      "meaning_ko": "종합적인",
+      "contextNote": "빠뜨리는 부분 없이 전체를 아우르는 상세한 분석을 요구합니다."
+    },
+    "swot": {
+      "meaning_ko": "SWOT (강점,약점,기회,위협)",
+      "contextNote": "비즈니스 전략 수립의 기본이 되는 분석 프레임워크입니다."
+    },
+    "analysis": {
+      "meaning_ko": "분석",
+      "contextNote": "복잡한 상황을 세부 요소로 나누어 검토하는 과정입니다."
+    },
+    "identifying": {
+      "meaning_ko": "식별하다, 찾아내다",
+      "contextNote": "특정 요소가 무엇인지 정확히 짚어내는 과정을 의미합니다."
+    },
+    "internal": {
+      "meaning_ko": "내부의",
+      "contextNote": "조직 내부에서 발생하는 요인을 지칭합니다."
+    },
+    "strengths": {
+      "meaning_ko": "강점",
+      "contextNote": "내부 강점 및 약점: 기업 내부의 자원이나 역량 등 통제 가능한 요소들을 분석할 때 사용합니다."
+    },
+    "weaknesses": {
+      "meaning_ko": "약점",
+      "contextNote": "내부 강점 및 약점: 기업 내부의 자원이나 역량 등 통제 가능한 요소들을 분석할 때 사용합니다."
+    },
+    "alongside": {
+      "meaning_ko": "~와 나란히, ~와 함께",
+      "contextNote": "두 가지 요소(내부/외부)를 동시에 고려하여 분석하라는 의미입니다."
+    },
+    "external": {
+      "meaning_ko": "외부의",
+      "contextNote": "조직 외부 환경에서 오는 요인을 지칭합니다."
+    },
+    "opportunities": {
+      "meaning_ko": "기회",
+      "contextNote": "외부 기회 및 위협: 시장 트렌드, 경쟁사 등 기업 외부의 환경적 요인을 분석할 때 사용합니다."
+    },
+    "threats": {
+      "meaning_ko": "위협",
+      "contextNote": "외부 기회 및 위협: 시장 트렌드, 경쟁사 등 기업 외부의 환경적 요인을 분석할 때 사용합니다."
+    },
+    "synthesize": {
+      "meaning_ko": "종합하다",
+      "contextNote": "여러 정보를 종합하여 하나의 결론이나 결과물로 만들어내는 과정을 의미합니다."
+    },
+    "findings": {
+      "meaning_ko": "분석 결과",
+      "contextNote": "조사나 분석을 통해 새롭게 발견한 사실이나 결과물을 지칭합니다."
+    },
+    "actionable": {
+      "meaning_ko": "실행 가능한",
+      "contextNote": "이론에 그치지 않고 실제 행동으로 옮길 수 있는 구체적인 성격을 띱니다."
+    },
+    "strategic": {
+      "meaning_ko": "전략적인",
+      "contextNote": "단기적 해결이 아닌 장기적 목표 달성을 위한 계획적인 접근입니다."
+    },
+    "recommendations": {
+      "meaning_ko": "권고 사항",
+      "contextNote": "분석 결과를 바탕으로 제시하는 최선의 방안이나 조언입니다."
+    },
+    "maintain": {
+      "meaning_ko": "유지하다",
+      "contextNote": "현재의 우위를 잃지 않고 지속적으로 관리하는 것을 의미합니다."
+    },
+    "competitive": {
+      "meaning_ko": "경쟁력 있는",
+      "contextNote": "다른 경쟁 업체보다 유리한 위치에 있음을 나타냅니다."
+    },
+    "edge": {
+      "meaning_ko": "우위, 강점",
+      "contextNote": "경쟁 우위: 경쟁사보다 앞서 나갈 수 있는 차별적인 강점이나 이점을 의미합니다."
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}
