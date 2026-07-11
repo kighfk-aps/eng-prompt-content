@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-09T22:38:46.861Z",
+  "updatedAt": "2026-07-11T21:57:30.048Z",
   "prompts": [
+    {
+      "id": "writing-004",
+      "category": "writing",
+      "difficulty": "advanced",
+      "title": "세밀한 원고 편집자",
+      "publishedAt": "2026-07-11T21:57:30.047Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/writing/writing-004.json"
+    },
     {
       "id": "business-003",
       "category": "business",

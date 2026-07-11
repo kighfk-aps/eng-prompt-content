@@ -1,0 +1,206 @@
+{
+  "id": "writing-004",
+  "title": "세밀한 원고 편집자",
+  "category": "writing",
+  "difficulty": "advanced",
+  "fullText": "Adopt the persona of a meticulous editor specializing in long-form narrative. Critically analyze the provided manuscript to identify pacing issues and tonal inconsistencies. Provide actionable feedback that preserves the author's unique voice while enhancing the overall flow.",
+  "vocabulary": [
+    {
+      "phrase": "Adopt the persona of",
+      "meaning_ko": "~의 페르소나를 채택하다",
+      "contextNote": "AI에게 단순한 역할 부여를 넘어 특정 성격이나 전문적 태도를 갖추라고 지시할 때 사용"
+    },
+    {
+      "phrase": "long-form narrative",
+      "meaning_ko": "장문 서사/이야기",
+      "contextNote": "소설이나 상세 보고서처럼 호흡이 긴 텍스트 형식을 지정할 때 사용"
+    },
+    {
+      "phrase": "tonal inconsistencies",
+      "meaning_ko": "톤의 불일치",
+      "contextNote": "글 전체의 분위기나 말투가 일관되지 않은 부분을 찾아내라는 정교한 요청 시 사용"
+    },
+    {
+      "phrase": "actionable feedback",
+      "meaning_ko": "실행 가능한 피드백",
+      "contextNote": "단순한 비평이 아니라 구체적으로 어떻게 수정해야 할지 방법론을 제시하라는 요구"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "meticulous",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "careless",
+        "rapid",
+        "casual"
+      ],
+      "explanation": "편집자에게 요구되는 '꼼꼼하고 세심한' 성격을 나타내는 형용사"
+    },
+    {
+      "answer": "Critically analyze",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "Briefly summarize",
+        "Quickly scan",
+        "Simply rewrite"
+      ],
+      "explanation": "단순 요약이 아니라 비판적 시각으로 깊이 있게 분석하라는 고급 지시어"
+    },
+    {
+      "answer": "pacing issues",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "spelling errors",
+        "font sizes",
+        "page counts"
+      ],
+      "explanation": "이야기의 전개 속도가 너무 빠르거나 느린 '전개 속도 문제'를 의미함"
+    },
+    {
+      "answer": "preserves",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "destroys",
+        "ignores",
+        "changes"
+      ],
+      "explanation": "원작자의 고유한 색깔을 '보존하다'라는 뜻으로, 수정 시 주의사항을 전달함"
+    }
+  ],
+  "wordMap": {
+    "adopt": {
+      "meaning_ko": "채택하다",
+      "contextNote": "AI에게 페르소나를 설정하는 가장 기본적인 표현"
+    },
+    "the": {
+      "meaning_ko": "그",
+      "contextNote": "정관사"
+    },
+    "persona": {
+      "meaning_ko": "페르소나/역할",
+      "contextNote": "AI가 연기해야 할 특정 캐릭터나 정체성"
+    },
+    "of": {
+      "meaning_ko": "~의",
+      "contextNote": "소유나 속성을 나타냄"
+    },
+    "a": {
+      "meaning_ko": "하나의",
+      "contextNote": "부정관사"
+    },
+    "meticulous": {
+      "meaning_ko": "꼼꼼한",
+      "contextNote": "편집자에게 요구되는 '꼼꼼하고 세심한' 성격을 나타내는 형용사"
+    },
+    "editor": {
+      "meaning_ko": "편집자",
+      "contextNote": "글의 구조, 문체, 오류를 교정하는 전문가"
+    },
+    "specializing": {
+      "meaning_ko": "전공하는/특화된",
+      "contextNote": "특정 분야에 전문성을 가지고 있음을 명시"
+    },
+    "in": {
+      "meaning_ko": "~분야에서",
+      "contextNote": "전공이나 영역을 나타냄"
+    },
+    "long-form": {
+      "meaning_ko": "장문의",
+      "contextNote": "긴 호흡의 텍스트를 의미"
+    },
+    "narrative": {
+      "meaning_ko": "서사/이야기",
+      "contextNote": "사건이나 이야기를 전달하는 방식"
+    },
+    "critically": {
+      "meaning_ko": "비판적으로",
+      "contextNote": "단순 수용이 아니라 분석적 시각으로 접근함"
+    },
+    "analyze": {
+      "meaning_ko": "분석하다",
+      "contextNote": "데이터나 텍스트의 구조를 면밀히 살핌"
+    },
+    "provided": {
+      "meaning_ko": "제공된",
+      "contextNote": "사용자가 프롬프트와 함께 입력한 텍스트"
+    },
+    "manuscript": {
+      "meaning_ko": "원고",
+      "contextNote": "출판 전의 초안 상태의 글"
+    },
+    "to": {
+      "meaning_ko": "~하기 위해",
+      "contextNote": "목적을 나타냄"
+    },
+    "identify": {
+      "meaning_ko": "식별하다/찾아내다",
+      "contextNote": "문제점이나 특정 패턴을 정확히 짚어내는 행위"
+    },
+    "pacing": {
+      "meaning_ko": "전개 속도",
+      "contextNote": "이야기가 흘러가는 템포나 속도감"
+    },
+    "issues": {
+      "meaning_ko": "문제점",
+      "contextNote": "개선이 필요한 부정적인 요소들"
+    },
+    "tonal": {
+      "meaning_ko": "톤의/어조의",
+      "contextNote": "글의 전반적인 분위기와 관련된"
+    },
+    "inconsistencies": {
+      "meaning_ko": "불일치",
+      "contextNote": "일관성이 없어 모순되는 부분"
+    },
+    "provide": {
+      "meaning_ko": "제공하다",
+      "contextNote": "결과물을 출력하도록 요청하는 동사"
+    },
+    "actionable": {
+      "meaning_ko": "실행 가능한",
+      "contextNote": "구체적인 지침이 포함되어 즉시 적용할 수 있는"
+    },
+    "feedback": {
+      "meaning_ko": "피드백",
+      "contextNote": "성과나 결과에 대해 주는 의견 및 조언"
+    },
+    "that": {
+      "meaning_ko": "~하는",
+      "contextNote": "관계대명사로 뒤의 내용을 수식"
+    },
+    "preserves": {
+      "meaning_ko": "보존하다",
+      "contextNote": "원작자의 고유한 색깔을 유지하는 행위"
+    },
+    "author's": {
+      "meaning_ko": "작가의",
+      "contextNote": "글을 쓴 사람의 소유"
+    },
+    "unique": {
+      "meaning_ko": "독특한",
+      "contextNote": "다른 것과 구별되는 개성 있는"
+    },
+    "voice": {
+      "meaning_ko": "문체/목소리",
+      "contextNote": "작가가 글에서 드러내는 고유한 개성과 어조"
+    },
+    "while": {
+      "meaning_ko": "~하는 동시에",
+      "contextNote": "두 가지 조건을 동시에 충족시켜야 함을 나타냄"
+    },
+    "enhancing": {
+      "meaning_ko": "향상시키다",
+      "contextNote": "질적인 수준을 높이는 행위"
+    },
+    "overall": {
+      "meaning_ko": "전반적인",
+      "contextNote": "부분이 아닌 전체적인 관점에서의"
+    },
+    "flow": {
+      "meaning_ko": "흐름",
+      "contextNote": "글의 논리적 전개나 읽힘의 부드러움"
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}
