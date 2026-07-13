@@ -1,0 +1,182 @@
+{
+  "id": "coding-004",
+  "title": "초보자를 위한 코딩 튜터",
+  "category": "coding",
+  "difficulty": "beginner",
+  "fullText": "Act as a coding tutor for a complete beginner. Break down the following code snippet into simple, easy-to-understand steps. Explain the logic behind each line and suggest a small challenge to test my understanding.",
+  "vocabulary": [
+    {
+      "phrase": "Act as a",
+      "meaning_ko": "~의 역할을 수행하라",
+      "contextNote": "AI에게 특정 페르소나를 부여하여 응답의 톤과 전문성을 설정할 때 사용"
+    },
+    {
+      "phrase": "Break down",
+      "meaning_ko": "세분화하다, 분석하다",
+      "contextNote": "복잡한 정보나 코드를 작은 단위로 나누어 설명하도록 지시할 때 유용"
+    },
+    {
+      "phrase": "code snippet",
+      "meaning_ko": "코드 조각",
+      "contextNote": "전체 프로그램이 아닌 특정 기능이나 일부분을 나타내는 짧은 코드"
+    },
+    {
+      "phrase": "logic behind",
+      "meaning_ko": "~의 이면에 있는 논리",
+      "contextNote": "단순한 해석을 넘어 왜 그렇게 작동하는지에 대한 원리 설명을 요구"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "complete beginner",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "expert developer",
+        "senior architect",
+        "seasoned professional"
+      ],
+      "explanation": "지식 수준이 전혀 없는 상태를 지정하여 AI가 매우 쉽게 설명하게 유도함"
+    },
+    {
+      "answer": "easy-to-understand",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "hard-to-grasp",
+        "highly-technical",
+        "overly-complex"
+      ],
+      "explanation": "학습자가 이해하기 쉬운 평이한 언어로 설명을 요청하는 형용사구"
+    },
+    {
+      "answer": "suggest a small challenge",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "ignore the errors",
+        "write a full project",
+        "delete the comments"
+      ],
+      "explanation": "학습 내용을 확인하기 위해 작은 과제나 연습 문제를 제시하도록 요청"
+    },
+    {
+      "answer": "test my understanding",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "ignore my mistakes",
+        "bypass the logic",
+        "copy the answer"
+      ],
+      "explanation": "자신이 제대로 이해했는지 확인하는 검증 단계를 요청하는 표현"
+    }
+  ],
+  "wordMap": {
+    "act": {
+      "meaning_ko": "역할을 하다",
+      "contextNote": "~처럼 행동하거나 역할을 맡아서 수행하라는 지시"
+    },
+    "as": {
+      "meaning_ko": "~로서",
+      "contextNote": "역할이나 자격을 나타낼 때 사용하는 전치사"
+    },
+    "coding": {
+      "meaning_ko": "코딩, 프로그래밍",
+      "contextNote": "컴퓨터 프로그램을 작성하는 행위"
+    },
+    "tutor": {
+      "meaning_ko": "개인 지도 교사",
+      "contextNote": "일대일로 세심하게 가르쳐주는 교육자 역할"
+    },
+    "for": {
+      "meaning_ko": "~를 위한",
+      "contextNote": "대상이나 목적을 지정할 때 사용"
+    },
+    "complete": {
+      "meaning_ko": "완전한",
+      "contextNote": "정도가 매우 심하거나 완전한 상태를 강조"
+    },
+    "beginner": {
+      "meaning_ko": "초보자",
+      "contextNote": "특정 분야에 막 입문한 사람"
+    },
+    "break": {
+      "meaning_ko": "나누다",
+      "contextNote": "분석을 위해 쪼개는 행위"
+    },
+    "down": {
+      "meaning_ko": "아래로",
+      "contextNote": "break down으로 쓰여 세분화한다는 의미를 완성"
+    },
+    "following": {
+      "meaning_ko": "다음의",
+      "contextNote": "다음에 제시될 내용이나 텍스트를 지칭"
+    },
+    "code": {
+      "meaning_ko": "코드",
+      "contextNote": "프로그래밍 언어로 작성된 명령어"
+    },
+    "snippet": {
+      "meaning_ko": "작은 조각",
+      "contextNote": "전체 중 일부를 떼어낸 짧은 부분"
+    },
+    "into": {
+      "meaning_ko": "~로",
+      "contextNote": "변화나 분할의 결과 상태를 나타냄"
+    },
+    "simple": {
+      "meaning_ko": "단순한",
+      "contextNote": "복잡하지 않고 이해하기 쉬운 상태"
+    },
+    "easy-to-understand": {
+      "meaning_ko": "이해하기 쉬운",
+      "contextNote": "학습자가 이해하기 쉬운 평이한 언어로 설명을 요청하는 형용사구"
+    },
+    "steps": {
+      "meaning_ko": "단계들",
+      "contextNote": "절차적으로 나누어진 과정"
+    },
+    "explain": {
+      "meaning_ko": "설명하다",
+      "contextNote": "이유나 방법을 명확히 알려주는 행위"
+    },
+    "logic": {
+      "meaning_ko": "논리",
+      "contextNote": "프로그램이 작동하는 체계적인 원리나 흐름"
+    },
+    "behind": {
+      "meaning_ko": "~ 뒤에",
+      "contextNote": "겉으로 보이는 현상 이면의 근거를 찾을 때 사용"
+    },
+    "each": {
+      "meaning_ko": "각각의",
+      "contextNote": "개별 요소를 하나하나 지칭"
+    },
+    "line": {
+      "meaning_ko": "줄, 행",
+      "contextNote": "코드의 한 줄 단위"
+    },
+    "suggest": {
+      "meaning_ko": "제안하다",
+      "contextNote": "아이디어나 방법을 제시함"
+    },
+    "small": {
+      "meaning_ko": "작은",
+      "contextNote": "부담스럽지 않은 적은 양의"
+    },
+    "challenge": {
+      "meaning_ko": "도전, 과제",
+      "contextNote": "학습자의 능력을 확인하기 위한 작은 문제"
+    },
+    "test": {
+      "meaning_ko": "시험하다, 확인하다",
+      "contextNote": "지식이나 기능의 정상 작동 여부를 검증"
+    },
+    "my": {
+      "meaning_ko": "나의",
+      "contextNote": "사용자 본인을 지칭"
+    },
+    "understanding": {
+      "meaning_ko": "이해",
+      "contextNote": "내용을 파악하고 습득한 상태"
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}
