@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-13T22:02:58.051Z",
+  "updatedAt": "2026-07-15T22:09:11.866Z",
   "prompts": [
+    {
+      "id": "analysis-004",
+      "category": "analysis",
+      "difficulty": "intermediate",
+      "title": "데이터 비교 및 분석",
+      "publishedAt": "2026-07-15T22:09:11.865Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/analysis/analysis-004.json"
+    },
     {
       "id": "coding-004",
       "category": "coding",

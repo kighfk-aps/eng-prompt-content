@@ -1,0 +1,136 @@
+{
+  "id": "analysis-004",
+  "title": "데이터 비교 및 분석",
+  "category": "analysis",
+  "difficulty": "intermediate",
+  "fullText": "Perform a comparative analysis of the two provided datasets. Please synthesize the findings into a comprehensive report, ensuring you cross-reference the results to identify underlying correlations. Finally, evaluate the statistical significance of these patterns to determine if they are scalable.",
+  "vocabulary": [
+    {
+      "phrase": "comparative analysis",
+      "meaning_ko": "비교 분석",
+      "contextNote": "두 개 이상의 대상 간의 유사점과 차이점을 대조하여 분석할 때 사용"
+    },
+    {
+      "phrase": "synthesize the findings",
+      "meaning_ko": "결과를 종합하다",
+      "contextNote": "여러 소스의 분석 결과를 하나로 통합하여 결론을 도출하도록 지시"
+    },
+    {
+      "phrase": "cross-reference",
+      "meaning_ko": "교차 참조하다",
+      "contextNote": "서로 다른 데이터 세트를 대조하여 일관성이나 연결 고리를 확인"
+    },
+    {
+      "phrase": "statistical significance",
+      "meaning_ko": "통계적 유의성",
+      "contextNote": "결과가 단순히 우연이 아니라 통계적으로 의미가 있는지 검증 요청"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "comprehensive report",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "brief note",
+        "random list",
+        "single sentence"
+      ],
+      "explanation": "모든 분석 내용이 상세하고 빠짐없이 포함된 종합 보고서를 의미함"
+    },
+    {
+      "answer": "underlying correlations",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "surface differences",
+        "isolated errors",
+        "random numbers"
+      ],
+      "explanation": "데이터 표면에 드러나지 않은 내재적인 상관관계를 찾는 분석 단계"
+    },
+    {
+      "answer": "scalable",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "invisible",
+        "temporary",
+        "static"
+      ],
+      "explanation": "발견된 패턴이 더 큰 데이터셋이나 실제 상황으로 확장 적용 가능한지 판단"
+    }
+  ],
+  "wordMap": {
+    "perform": {
+      "meaning_ko": "수행하다",
+      "contextNote": "특정 분석 작업이나 절차를 실행하라는 지시"
+    },
+    "comparative analysis": {
+      "meaning_ko": "비교 분석",
+      "contextNote": "두 개 이상의 대상 간의 유사점과 차이점을 대조하여 분석할 때 사용"
+    },
+    "provided": {
+      "meaning_ko": "제공된",
+      "contextNote": "프롬프트와 함께 입력된 데이터셋을 지칭"
+    },
+    "datasets": {
+      "meaning_ko": "데이터 세트",
+      "contextNote": "분석 대상이 되는 구조화된 데이터의 집합"
+    },
+    "please": {
+      "meaning_ko": "부디, 제발",
+      "contextNote": "정중하게 요청을 표현하는 부사"
+    },
+    "synthesize the findings": {
+      "meaning_ko": "결과를 종합하다",
+      "contextNote": "여러 소스의 분석 결과를 하나로 통합하여 결론을 도출하도록 지시"
+    },
+    "comprehensive report": {
+      "meaning_ko": "종합 보고서",
+      "contextNote": "모든 분석 내용이 상세하고 빠짐없이 포함된 보고서"
+    },
+    "ensuring": {
+      "meaning_ko": "확실히 하다",
+      "contextNote": "특정 조건이나 단계가 반드시 포함되도록 보장하는 것"
+    },
+    "cross-reference": {
+      "meaning_ko": "교차 참조하다",
+      "contextNote": "서로 다른 데이터 세트를 대조하여 일관성이나 연결 고리를 확인"
+    },
+    "results": {
+      "meaning_ko": "결과",
+      "contextNote": "분석 과정을 통해 도출된 개별적인 값이나 결론"
+    },
+    "identify": {
+      "meaning_ko": "식별하다, 찾다",
+      "contextNote": "특정 패턴이나 관계를 명확히 찾아내는 것"
+    },
+    "underlying correlations": {
+      "meaning_ko": "내재적 상관관계",
+      "contextNote": "데이터 표면에 드러나지 않은 내재적인 상관관계"
+    },
+    "finally": {
+      "meaning_ko": "마지막으로",
+      "contextNote": "분석 프로세스의 최종 단계를 도입하는 부사"
+    },
+    "evaluate": {
+      "meaning_ko": "평가하다",
+      "contextNote": "가치나 정확성, 유의성을 판단하는 과정"
+    },
+    "statistical significance": {
+      "meaning_ko": "통계적 유의성",
+      "contextNote": "결과가 단순히 우연이 아니라 통계적으로 의미가 있는지 검증 요청"
+    },
+    "patterns": {
+      "meaning_ko": "패턴, 양상",
+      "contextNote": "데이터에서 반복적으로 나타나는 규칙적인 형태"
+    },
+    "determine": {
+      "meaning_ko": "결정하다, 판단하다",
+      "contextNote": "분석 결과를 바탕으로 최종적인 결론을 내리는 것"
+    },
+    "scalable": {
+      "meaning_ko": "확장 가능한",
+      "contextNote": "발견된 패턴이 더 큰 데이터셋이나 실제 상황으로 확장 적용 가능한지 판단"
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}
