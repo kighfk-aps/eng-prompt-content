@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-15T22:09:11.866Z",
+  "updatedAt": "2026-07-17T22:01:09.981Z",
   "prompts": [
+    {
+      "id": "creative-004",
+      "category": "creative",
+      "difficulty": "advanced",
+      "title": "고급 문학 비평 및 전략",
+      "publishedAt": "2026-07-17T22:01:09.977Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/creative/creative-004.json"
+    },
     {
       "id": "analysis-004",
       "category": "analysis",

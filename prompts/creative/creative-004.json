@@ -1,0 +1,151 @@
+{
+  "id": "creative-004",
+  "title": "고급 문학 비평 및 전략",
+  "category": "creative",
+  "difficulty": "advanced",
+  "fullText": "Act as a sophisticated literary critic and narrative strategist. Analyze the provided text to identify latent thematic contradictions and structural inconsistencies. Suggest high-impact revisions that elevate the prose to a professional caliber while preserving the author's original voice.",
+  "vocabulary": [
+    {
+      "phrase": "narrative strategist",
+      "meaning_ko": "서사 전략가",
+      "contextNote": "이야기의 구조, 전개, 흐름을 전문적으로 설계하고 최적화하는 역할"
+    },
+    {
+      "phrase": "latent thematic contradictions",
+      "meaning_ko": "잠재적인 주제적 모순",
+      "contextNote": "겉으로는 드러나지 않지만 작품 내부에 숨겨진 논리적/주제적 충돌을 찾아낼 때 사용"
+    },
+    {
+      "phrase": "structural inconsistencies",
+      "meaning_ko": "구조적 불일치",
+      "contextNote": "설정 오류나 전개의 불균형 등 이야기의 뼈대에서 나타나는 어색한 부분을 지칭"
+    },
+    {
+      "phrase": "high-impact revisions",
+      "meaning_ko": "영향력이 큰 수정",
+      "contextNote": "소소한 교정이 아니라 작품의 질을 획기적으로 높이는 결정적인 수정 사항"
+    },
+    {
+      "phrase": "professional caliber",
+      "meaning_ko": "전문가 수준의 역량/품질",
+      "contextNote": "아마추어 수준을 넘어 실제 출판 가능한 수준의 높은 품질을 요구할 때 사용"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "sophisticated",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "simple",
+        "basic",
+        "clumsy"
+      ],
+      "explanation": "단순한 비평가가 아닌, 깊이 있고 정교한 분석을 수행하는 페르소나를 설정하기 위한 형용사"
+    },
+    {
+      "answer": "elevate the prose",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "ignore the text",
+        "shorten the story",
+        "delete the prose"
+      ],
+      "explanation": "글의 문체나 수준을 더 높은 단계로 끌어올린다는 세련된 표현"
+    },
+    {
+      "answer": "preserving",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "changing",
+        "erasing",
+        "overwriting"
+      ],
+      "explanation": "수정을 하되 작가 고유의 색깔이나 문체는 그대로 유지해야 함을 명시하는 단어"
+    },
+    {
+      "answer": "original voice",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "loud volume",
+        "foreign language",
+        "generic style"
+      ],
+      "explanation": "작가가 가진 고유한 문체나 개성적인 서술 방식을 뜻하는 문학적 표현"
+    }
+  ],
+  "wordMap": {
+    "act": {
+      "meaning_ko": "역할을 수행하다",
+      "contextNote": "AI에게 특정 전문가의 페르소나를 부여하는 표준적인 프롬프트 명령어"
+    },
+    "sophisticated": {
+      "meaning_ko": "정교한, 세련된",
+      "contextNote": "단순한 분석이 아닌 깊이 있고 복합적인 통찰력을 요구할 때 사용"
+    },
+    "literary": {
+      "meaning_ko": "문학의",
+      "contextNote": "일반적인 글쓰기가 아닌 예술적, 문학적 관점에서의 접근을 의미"
+    },
+    "critic": {
+      "meaning_ko": "비평가",
+      "contextNote": "텍스트의 장단점을 분석하고 평가하는 전문가"
+    },
+    "narrative strategist": {
+      "meaning_ko": "서사 전략가",
+      "contextNote": "이야기의 구조, 전개, 흐름을 전문적으로 설계하고 최적화하는 역할"
+    },
+    "analyze": {
+      "meaning_ko": "분석하다",
+      "contextNote": "데이터나 텍스트를 세밀하게 살펴보고 구성 요소를 파악하는 행위"
+    },
+    "provided": {
+      "meaning_ko": "제공된",
+      "contextNote": "사용자가 입력값으로 제시한 특정 텍스트를 지칭"
+    },
+    "text": {
+      "meaning_ko": "글, 본문",
+      "contextNote": "분석의 대상이 되는 서술된 내용 전체"
+    },
+    "identify": {
+      "meaning_ko": "찾아내다, 식별하다",
+      "contextNote": "특정 문제점이나 패턴을 정확히 짚어내는 행동"
+    },
+    "latent thematic contradictions": {
+      "meaning_ko": "잠재적인 주제적 모순",
+      "contextNote": "겉으로는 드러나지 않지만 작품 내부에 숨겨진 논리적/주제적 충돌을 찾아낼 때 사용"
+    },
+    "structural inconsistencies": {
+      "meaning_ko": "구조적 불일치",
+      "contextNote": "설정 오류나 전개의 불균형 등 이야기의 뼈대에서 나타나는 어색한 부분을 지칭"
+    },
+    "suggest": {
+      "meaning_ko": "제안하다",
+      "contextNote": "확정적인 답이 아니라 개선 방향에 대한 아이디어를 요청할 때 사용"
+    },
+    "high-impact revisions": {
+      "meaning_ko": "영향력이 큰 수정",
+      "contextNote": "소소한 교정이 아니라 작품의 질을 획기적으로 높이는 결정적인 수정 사항"
+    },
+    "elevate the prose": {
+      "meaning_ko": "문체를 격상시키다",
+      "contextNote": "글의 문체나 수준을 더 높은 단계로 끌어올린다는 세련된 표현"
+    },
+    "professional caliber": {
+      "meaning_ko": "전문가 수준의 품질",
+      "contextNote": "아마추어 수준을 넘어 실제 출판 가능한 수준의 높은 품질을 요구할 때 사용"
+    },
+    "preserving": {
+      "meaning_ko": "보존하다, 유지하다",
+      "contextNote": "수정을 하되 작가 고유의 색깔이나 문체는 그대로 유지해야 함을 명시"
+    },
+    "author's": {
+      "meaning_ko": "작가의",
+      "contextNote": "글을 쓴 주체의 소유격 표현"
+    },
+    "original voice": {
+      "meaning_ko": "고유한 문체",
+      "contextNote": "작가가 가진 고유한 문체나 개성적인 서술 방식을 뜻하는 문학적 표현"
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}
