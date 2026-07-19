@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-17T22:01:09.981Z",
+  "updatedAt": "2026-07-19T22:00:25.795Z",
   "prompts": [
+    {
+      "id": "business-004",
+      "category": "business",
+      "difficulty": "advanced",
+      "title": "기업 전략 수립 및 로드맵",
+      "publishedAt": "2026-07-19T22:00:25.795Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/business/business-004.json"
+    },
     {
       "id": "creative-004",
       "category": "creative",

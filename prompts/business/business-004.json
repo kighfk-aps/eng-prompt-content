@@ -1,0 +1,165 @@
+{
+  "id": "business-004",
+  "title": "기업 전략 수립 및 로드맵",
+  "category": "business",
+  "difficulty": "advanced",
+  "fullText": "Assume the role of a senior corporate strategist. Perform a comprehensive SWOT analysis for [COMPANY NAME] and synthesize these findings into a high-level strategic roadmap. Ensure the output balances short-term tactical wins with long-term sustainable growth objectives.",
+  "vocabulary": [
+    {
+      "phrase": "comprehensive SWOT analysis",
+      "meaning_ko": "종합적인 SWOT 분석",
+      "contextNote": "강점, 약점, 기회, 위협을 모두 포괄하여 분석하도록 요청하는 표준적 방법론입니다."
+    },
+    {
+      "phrase": "synthesize these findings",
+      "meaning_ko": "분석 결과를 종합하다",
+      "contextNote": "단순 요약을 넘어 여러 데이터를 통합해 새로운 결론이나 전략을 도출하라는 지시입니다."
+    },
+    {
+      "phrase": "high-level strategic roadmap",
+      "meaning_ko": "거시적 전략 로드맵",
+      "contextNote": "세부 사항보다는 전체적인 방향성과 주요 마일스톤을 보여주는 계획서를 의미합니다."
+    },
+    {
+      "phrase": "tactical wins",
+      "meaning_ko": "전술적 성과",
+      "contextNote": "단기적으로 빠르게 달성 가능한 구체적인 성과나 이점을 뜻합니다."
+    },
+    {
+      "phrase": "sustainable growth objectives",
+      "meaning_ko": "지속 가능한 성장 목표",
+      "contextNote": "일시적인 성장이 아닌, 장기적으로 유지 가능한 발전 방향을 설정할 때 사용합니다."
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "Assume the role of",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "Imagine being",
+        "Talk like",
+        "Write as"
+      ],
+      "explanation": "AI에게 특정 전문적 페르소나를 부여하여 응답의 톤과 품질을 결정하는 고급 프롬프트 기법입니다."
+    },
+    {
+      "answer": "corporate strategist",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "office manager",
+        "sales clerk",
+        "data entry specialist"
+      ],
+      "explanation": "기업의 전체적인 방향성을 설계하는 고도의 전문 직종을 지정하여 분석의 깊이를 높입니다."
+    },
+    {
+      "answer": "balances",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "ignores",
+        "separates",
+        "contradicts"
+      ],
+      "explanation": "상충될 수 있는 단기 목표와 장기 목표 사이의 적절한 비중과 조화를 요청하는 동사입니다."
+    }
+  ],
+  "wordMap": {
+    "assume": {
+      "meaning_ko": "가정하다, (역할을) 맡다",
+      "contextNote": "AI에게 특정 정체성을 부여하여 전문적인 답변을 유도하는 상황입니다."
+    },
+    "role": {
+      "meaning_ko": "역할",
+      "contextNote": "AI가 수행해야 할 가상의 직업이나 성격을 의미합니다."
+    },
+    "senior": {
+      "meaning_ko": "상급의, 숙련된",
+      "contextNote": "단순한 전문가가 아닌 풍부한 경험을 가진 전문가 수준의 응답을 요청합니다."
+    },
+    "corporate": {
+      "meaning_ko": "기업의, 법인의",
+      "contextNote": "개인 사업자가 아닌 규모 있는 기업 환경에서의 전략을 의미합니다."
+    },
+    "strategist": {
+      "meaning_ko": "전략가",
+      "contextNote": "기업의 방향성을 설계하고 계획하는 전문 역할을 지칭합니다."
+    },
+    "perform": {
+      "meaning_ko": "수행하다",
+      "contextNote": "특정 분석이나 작업 프로세스를 실행하라는 지시입니다."
+    },
+    "comprehensive": {
+      "meaning_ko": "종합적인, 포괄적인",
+      "contextNote": "누락되는 부분 없이 모든 측면을 상세히 다루라는 요청입니다."
+    },
+    "swot": {
+      "meaning_ko": "SWOT (강점, 약점, 기회, 위협)",
+      "contextNote": "기업 분석의 표준 프레임워크를 지칭합니다."
+    },
+    "analysis": {
+      "meaning_ko": "분석",
+      "contextNote": "데이터나 상황을 논리적으로 쪼개어 살펴보는 과정입니다."
+    },
+    "synthesize": {
+      "meaning_ko": "종합하다, 통합하다",
+      "contextNote": "단순 요약을 넘어 여러로 분산된 정보를 하나의 일관된 전략으로 엮어내는 과정입니다."
+    },
+    "findings": {
+      "meaning_ko": "결과, 발견한 점",
+      "contextNote": "분석을 통해 도출된 구체적인 사실이나 통찰을 의미합니다."
+    },
+    "high-level": {
+      "meaning_ko": "거시적인, 고차원의",
+      "contextNote": "세부적인 디테일보다는 전체적인 구조와 핵심 흐름에 집중하는 관점입니다."
+    },
+    "strategic": {
+      "meaning_ko": "전략적인",
+      "contextNote": "목표 달성을 위해 치밀하게 계획된 접근 방식을 의미합니다."
+    },
+    "roadmap": {
+      "meaning_ko": "로드맵, 단계적 계획",
+      "contextNote": "목표 달성을 위해 시간 순서대로 나열된 실행 계획을 말합니다."
+    },
+    "ensure": {
+      "meaning_ko": "확실히 하다, 보장하다",
+      "contextNote": "결과물에 반드시 포함되어야 할 조건이나 제약 사항을 강조할 때 사용합니다."
+    },
+    "output": {
+      "meaning_ko": "결과물, 출력",
+      "contextNote": "AI가 생성하여 제공하는 최종 텍스트 응답을 의미합니다."
+    },
+    "balances": {
+      "meaning_ko": "균형을 맞추다",
+      "contextNote": "두 가지 이상의 서로 다른 요소가 적절한 조화를 이루도록 요청하는 것입니다."
+    },
+    "short-term": {
+      "meaning_ko": "단기의",
+      "contextNote": "가까운 미래에 즉각적으로 실행하고 성과를 낼 수 있는 기간을 의미합니다."
+    },
+    "tactical": {
+      "meaning_ko": "전술적인",
+      "contextNote": "전략을 실행하기 위한 구체적이고 실무적인 방법론을 뜻합니다."
+    },
+    "wins": {
+      "meaning_ko": "성과, 승리",
+      "contextNote": "비즈니스 상황에서 거두는 긍정적인 결과나 이득을 의미합니다."
+    },
+    "long-term": {
+      "meaning_ko": "장기의",
+      "contextNote": "수년 후의 미래를 내다보는 지속적인 관점을 의미합니다."
+    },
+    "sustainable": {
+      "meaning_ko": "지속 가능한",
+      "contextNote": "일시적이지 않고 꾸준히 유지 및 발전될 수 있는 상태를 말합니다."
+    },
+    "growth": {
+      "meaning_ko": "성장",
+      "contextNote": "기업의 규모, 매출, 영향력 등이 확대되는 것을 의미합니다."
+    },
+    "objectives": {
+      "meaning_ko": "목표, 목적",
+      "contextNote": "전략을 통해 최종적으로 도달하고자 하는 지점을 정의합니다."
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}
