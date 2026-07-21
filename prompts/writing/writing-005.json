@@ -1,0 +1,145 @@
+{
+  "id": "writing-005",
+  "title": "전문 편집자 요청하기",
+  "category": "writing",
+  "difficulty": "beginner",
+  "fullText": "Act as a professional editor. Proofread the following text for grammatical errors and clarity. Suggest concise improvements to make the writing flow naturally while preserving the original tone.",
+  "vocabulary": [
+    {
+      "phrase": "Act as",
+      "meaning_ko": "~의 역할을 하다",
+      "contextNote": "AI에게 특정 페르소나나 전문가 설정을 부여할 때 사용하는 표준 표현"
+    },
+    {
+      "phrase": "Proofread",
+      "meaning_ko": "교정하다",
+      "contextNote": "오타, 문법 오류 등을 찾아 수정해달라고 요청할 때 쓰는 전문 용어"
+    },
+    {
+      "phrase": "preserving",
+      "meaning_ko": "유지하는, 보존하는",
+      "contextNote": "수정 과정에서 기존의 의도나 분위기를 바꾸지 말라고 지시할 때 사용"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "grammatical errors",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "spelling mistakes",
+        "logical flaws",
+        "vocabulary gaps"
+      ],
+      "explanation": "문법적 오류라는 뜻으로, 텍스트의 정확성을 높이기 위해 수정 요청 시 빈번하게 쓰임"
+    },
+    {
+      "answer": "concise",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "detailed",
+        "lengthy",
+        "complex"
+      ],
+      "explanation": "간결하다는 뜻으로, AI에게 불필요한 말을 줄이고 핵심만 전달하라고 지시할 때 필수적인 단어"
+    },
+    {
+      "answer": "flow naturally",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "read slowly",
+        "look professional",
+        "sound robotic"
+      ],
+      "explanation": "자연스럽게 읽히다라는 뜻으로, 문장의 매끄러운 연결성을 강조할 때 사용함"
+    },
+    {
+      "answer": "original tone",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "new style",
+        "formal voice",
+        "academic mood"
+      ],
+      "explanation": "원래의 어조라는 뜻으로, 글의 분위기가 변하지 않도록 제약 조건을 걸 때 사용"
+    }
+  ],
+  "wordMap": {
+    "act": {
+      "meaning_ko": "역할을 하다",
+      "contextNote": "AI에게 특정 페르소나나 전문가 설정을 부여할 때 사용하는 표준 표현"
+    },
+    "professional": {
+      "meaning_ko": "전문적인",
+      "contextNote": "높은 숙련도와 품질의 결과물을 기대할 때 사용하는 형용사"
+    },
+    "editor": {
+      "meaning_ko": "편집자",
+      "contextNote": "글을 수정하고 다듬는 전문가"
+    },
+    "proofread": {
+      "meaning_ko": "교정하다",
+      "contextNote": "오타, 문법 오류 등을 찾아 수정해달라고 요청할 때 쓰는 전문 용어"
+    },
+    "following": {
+      "meaning_ko": "다음의",
+      "contextNote": "뒤에 이어질 텍스트 내용을 가리킬 때 사용"
+    },
+    "text": {
+      "meaning_ko": "글, 텍스트",
+      "contextNote": "분석이나 수정의 대상이 되는 문자 정보"
+    },
+    "grammatical": {
+      "meaning_ko": "문법적인",
+      "contextNote": "언어의 규칙과 관련된 상태"
+    },
+    "errors": {
+      "meaning_ko": "오류",
+      "contextNote": "틀린 부분이나 실수"
+    },
+    "clarity": {
+      "meaning_ko": "명확성",
+      "contextNote": "내용이 쉽고 분명하게 전달되는 정도"
+    },
+    "suggest": {
+      "meaning_ko": "제안하다",
+      "contextNote": "AI에게 확정적 수정보다는 대안을 제시하라고 요청할 때 사용"
+    },
+    "concise": {
+      "meaning_ko": "간결한",
+      "contextNote": "AI에게 불필요한 말을 줄이고 핵심만 전달하라고 지시할 때 필수적인 단어"
+    },
+    "improvements": {
+      "meaning_ko": "개선 사항",
+      "contextNote": "더 나은 상태로 만들기 위한 수정 제안"
+    },
+    "make": {
+      "meaning_ko": "만들다",
+      "contextNote": "어떤 상태가 되게끔 유도함"
+    },
+    "writing": {
+      "meaning_ko": "글, 작문",
+      "contextNote": "작성된 텍스트 전체"
+    },
+    "flow": {
+      "meaning_ko": "흐르다",
+      "contextNote": "문장 간의 연결이 매끄러운 상태"
+    },
+    "naturally": {
+      "meaning_ko": "자연스럽게",
+      "contextNote": "어색함 없이 원어민스럽게 느껴지는 방식"
+    },
+    "preserving": {
+      "meaning_ko": "유지하는, 보존하는",
+      "contextNote": "수정 과정에서 기존의 의도나 분위기를 바꾸지 말라고 지시할 때 사용"
+    },
+    "original": {
+      "meaning_ko": "원래의",
+      "contextNote": "수정 전의 초기 상태"
+    },
+    "tone": {
+      "meaning_ko": "어조, 분위기",
+      "contextNote": "글에서 느껴지는 태도나 말투"
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}
