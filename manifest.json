@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-21T22:09:12.706Z",
+  "updatedAt": "2026-07-23T22:11:08.171Z",
   "prompts": [
+    {
+      "id": "coding-005",
+      "category": "coding",
+      "difficulty": "beginner",
+      "title": "초보자를 위한 코딩 튜터",
+      "publishedAt": "2026-07-23T22:11:08.171Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/coding/coding-005.json"
+    },
     {
       "id": "writing-005",
       "category": "writing",
