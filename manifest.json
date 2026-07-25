@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-23T22:11:08.171Z",
+  "updatedAt": "2026-07-25T22:02:51.509Z",
   "prompts": [
+    {
+      "id": "analysis-005",
+      "category": "analysis",
+      "difficulty": "intermediate",
+      "title": "전략적 SWOT 분석",
+      "publishedAt": "2026-07-25T22:02:51.509Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/analysis/analysis-005.json"
+    },
     {
       "id": "coding-005",
       "category": "coding",
