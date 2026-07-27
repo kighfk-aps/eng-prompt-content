@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-25T22:02:51.509Z",
+  "updatedAt": "2026-07-27T22:14:14.885Z",
   "prompts": [
+    {
+      "id": "creative-005",
+      "category": "creative",
+      "difficulty": "advanced",
+      "title": "고급 문학 비평 프롬프트",
+      "publishedAt": "2026-07-27T22:14:14.881Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/creative/creative-005.json"
+    },
     {
       "id": "analysis-005",
       "category": "analysis",

@@ -1,0 +1,187 @@
+{
+  "id": "creative-005",
+  "title": "고급 문학 비평 프롬프트",
+  "category": "creative",
+  "difficulty": "advanced",
+  "fullText": "Act as a sophisticated literary critic. Deconstruct the thematic nuances of the provided text, analyzing the interplay between symbolism and character motivation. Provide a rigorous critique that challenges the conventional interpretation and suggests an alternative reading based on postmodernist theory.",
+  "vocabulary": [
+    {
+      "phrase": "deconstruct",
+      "meaning_ko": "해체하다",
+      "contextNote": "텍스트의 숨겨진 모순이나 구조를 분석하여 기존의 의미를 깨뜨리는 고도의 분석 요청 시 사용"
+    },
+    {
+      "phrase": "thematic nuances",
+      "meaning_ko": "주제적 뉘앙스",
+      "contextNote": "단순한 주제를 넘어 미묘하고 세밀한 의미의 차이를 분석하도록 지시할 때 사용"
+    },
+    {
+      "phrase": "interplay",
+      "meaning_ko": "상호작용",
+      "contextNote": "두 가지 이상의 요소가 서로 어떻게 영향을 주고받는지 분석하게 할 때 유용함"
+    },
+    {
+      "phrase": "rigorous critique",
+      "meaning_ko": "엄격한 비평",
+      "contextNote": "단순한 감상이 아니라 논리적 근거와 정밀한 분석이 포함된 수준 높은 평가를 요구함"
+    },
+    {
+      "phrase": "conventional interpretation",
+      "meaning_ko": "전형적인 해석",
+      "contextNote": "일반적으로 널리 알려진 통념이나 뻔한 해석을 지칭하며, 이를 극복하라는 지시에서 자주 쓰임"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "sophisticated",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "simple",
+        "basic",
+        "casual"
+      ],
+      "explanation": "단순한 비평가가 아닌, 고도로 지적이고 세련된 분석 능력을 갖춘 페르소나를 설정하는 형용사"
+    },
+    {
+      "answer": "character motivation",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "character height",
+        "story length",
+        "plot summary"
+      ],
+      "explanation": "인물이 왜 그렇게 행동하는지에 대한 심리적 동기로, 문학 분석의 핵심 요소"
+    },
+    {
+      "answer": "alternative reading",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "identical summary",
+        "literal translation",
+        "quick skim"
+      ],
+      "explanation": "기존의 해석과는 다른 새로운 시각에서의 읽기/해석을 의미함"
+    },
+    {
+      "answer": "postmodernist theory",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "basic grammar",
+        "simple spelling",
+        "dictionary definition"
+      ],
+      "explanation": "분석의 이론적 틀을 지정하여 AI가 특정 학문적 관점에서 답변하도록 유도함"
+    }
+  ],
+  "wordMap": {
+    "act": {
+      "meaning_ko": "~로서 역할을 하다",
+      "contextNote": "AI에게 특정 페르소나를 부여하는 프롬프트의 전형적인 시작 동사"
+    },
+    "sophisticated": {
+      "meaning_ko": "세련된, 정교한",
+      "contextNote": "단순한 비평가가 아닌, 고도로 지적이고 세련된 분석 능력을 갖춘 페르소나를 설정하는 형용사"
+    },
+    "literary": {
+      "meaning_ko": "문학의",
+      "contextNote": "문학 작품과 관련된 분석 범위를 지정함"
+    },
+    "critic": {
+      "meaning_ko": "비평가",
+      "contextNote": "작품을 전문적으로 분석하고 평가하는 인물"
+    },
+    "deconstruct": {
+      "meaning_ko": "해체하다",
+      "contextNote": "텍스트의 숨겨진 모순이나 구조를 분석하여 기존의 의미를 깨뜨리는 고도의 분석 요청 시 사용"
+    },
+    "thematic": {
+      "meaning_ko": "주제의",
+      "contextNote": "작품이 다루는 핵심 주제와 관련된 특성"
+    },
+    "nuances": {
+      "meaning_ko": "뉘앙스, 미묘한 차이",
+      "contextNote": "단순한 주제를 넘어 미묘하고 세밀한 의미의 차이를 분석하도록 지시할 때 사용"
+    },
+    "provided": {
+      "meaning_ko": "제공된",
+      "contextNote": "사용자가 입력값으로 준 텍스트를 지칭함"
+    },
+    "text": {
+      "meaning_ko": "글, 지문",
+      "contextNote": "분석의 대상이 되는 문자 텍스트"
+    },
+    "analyzing": {
+      "meaning_ko": "분석하는 것",
+      "contextNote": "데이터나 텍스트를 세부적으로 뜯어보는 행위"
+    },
+    "interplay": {
+      "meaning_ko": "상호작용",
+      "contextNote": "두 가지 이상의 요소가 서로 어떻게 영향을 주고받는지 분석하게 할 때 유용함"
+    },
+    "between": {
+      "meaning_ko": "~사이에",
+      "contextNote": "두 요소 간의 관계를 설정할 때 사용"
+    },
+    "symbolism": {
+      "meaning_ko": "상징주의",
+      "contextNote": "특정 사물이나 색상이 추상적인 개념을 나타내는 문학적 기법"
+    },
+    "character": {
+      "meaning_ko": "인물, 캐릭터",
+      "contextNote": "작품 속에 등장하는 인물"
+    },
+    "motivation": {
+      "meaning_ko": "동기",
+      "contextNote": "인물이 왜 그렇게 행동하는지에 대한 심리적 동기로, 문학 분석의 핵심 요소"
+    },
+    "provide": {
+      "meaning_ko": "제공하다",
+      "contextNote": "결과물을 출력하라는 요청"
+    },
+    "rigorous": {
+      "meaning_ko": "엄격한, 철저한",
+      "contextNote": "논리적 허점 없이 매우 정밀하게 수행되는 분석 상태"
+    },
+    "critique": {
+      "meaning_ko": "비평",
+      "contextNote": "논리적 근거와 정밀한 분석이 포함된 수준 높은 평가"
+    },
+    "challenges": {
+      "meaning_ko": "이의를 제기하다, 도전하다",
+      "contextNote": "기존의 믿음이나 해석이 틀렸음을 증명하려 할 때 사용"
+    },
+    "conventional": {
+      "meaning_ko": "관습적인, 전형적인",
+      "contextNote": "일반적으로 널리 알려진 통념이나 뻔한 해석을 지칭함"
+    },
+    "interpretation": {
+      "meaning_ko": "해석",
+      "contextNote": "텍스트의 의미를 풀이하는 방식"
+    },
+    "suggests": {
+      "meaning_ko": "제안하다",
+      "contextNote": "새로운 가능성이나 대안을 제시하는 행동"
+    },
+    "alternative": {
+      "meaning_ko": "대안적인, 새로운",
+      "contextNote": "기존의 것과는 다른 새로운 선택지나 관점"
+    },
+    "reading": {
+      "meaning_ko": "읽기, 해석",
+      "contextNote": "단순히 글을 읽는 행위를 넘어, 특정 관점으로 작품을 이해하는 것"
+    },
+    "based on": {
+      "meaning_ko": "~에 근거하여",
+      "contextNote": "분석의 이론적 토대나 근거를 밝힐 때 사용"
+    },
+    "postmodernist": {
+      "meaning_ko": "포스트모더니즘의",
+      "contextNote": "전통적인 구조와 절대적 진리를 부정하는 현대 철학적 관점"
+    },
+    "theory": {
+      "meaning_ko": "이론",
+      "contextNote": "분석의 기준이 되는 체계적인 학문적 틀"
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}
