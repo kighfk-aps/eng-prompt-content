@@ -1,0 +1,165 @@
+{
+  "id": "business-005",
+  "title": "기업 전략 로드맵 수립",
+  "category": "business",
+  "difficulty": "advanced",
+  "fullText": "Act as a senior corporate strategist. Conduct a comprehensive SWOT analysis for [COMPANY NAME] and synthesize these findings into a high-level strategic roadmap. Ensure the output balances aggressive growth initiatives with risk mitigation strategies to ensure long-term sustainability.",
+  "vocabulary": [
+    {
+      "phrase": "corporate strategist",
+      "meaning_ko": "기업 전략가",
+      "contextNote": "기업의 전반적인 방향성과 경쟁 우위를 설계하는 전문가 역할을 부여할 때 사용합니다."
+    },
+    {
+      "phrase": "SWOT analysis",
+      "meaning_ko": "SWOT 분석",
+      "contextNote": "강점(Strengths), 약점(Weaknesses), 기회(Opportunities), 위협(Threats)을 분석하는 표준 비즈니스 프레임워크입니다."
+    },
+    {
+      "phrase": "strategic roadmap",
+      "meaning_ko": "전략적 로드맵",
+      "contextNote": "목표 달성을 위한 단계별 실행 계획을 시각화하거나 구조화한 결과물을 요청할 때 사용합니다."
+    },
+    {
+      "phrase": "risk mitigation",
+      "meaning_ko": "리스크 완화",
+      "contextNote": "잠재적인 위협 요소를 식별하고 그 영향을 최소화하는 전략을 수립하라는 지시입니다."
+    },
+    {
+      "phrase": "long-term sustainability",
+      "meaning_ko": "장기적 지속 가능성",
+      "contextNote": "단기 성과가 아닌 기업이 미래에도 계속 성장하고 생존할 수 있는 능력을 강조합니다."
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "comprehensive",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "superficial",
+        "fragmented",
+        "brief"
+      ],
+      "explanation": "분석이 누락된 부분 없이 포괄적이고 상세하게 이루어져야 함을 명시합니다."
+    },
+    {
+      "answer": "synthesize",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "ignore",
+        "duplicate",
+        "separate"
+      ],
+      "explanation": "개별적인 분석 결과들을 결합하여 하나의 통일된 전략으로 통합하는 고차원적 사고를 요청합니다."
+    },
+    {
+      "answer": "aggressive growth initiatives",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "passive maintenance plans",
+        "minimal cost reductions",
+        "static operational goals"
+      ],
+      "explanation": "시장 점유율 확대를 위한 과감하고 적극적인 성장 추진 계획을 의미합니다."
+    }
+  ],
+  "wordMap": {
+    "act": {
+      "meaning_ko": "~처럼 행동하다",
+      "contextNote": "특정 역할을 수행하라는 지시로, 해당 직무의 관점에서 응답하도록 요청하는 상황입니다."
+    },
+    "senior": {
+      "meaning_ko": "상급의, 숙련된",
+      "contextNote": "높은 전문성과 연차를 가진 전문가의 시각에서 답변하라는 요구입니다."
+    },
+    "corporate": {
+      "meaning_ko": "기업의, 법인의",
+      "contextNote": "개별 사업자가 아닌 규모 있는 기업 조직의 관점을 의미합니다."
+    },
+    "strategist": {
+      "meaning_ko": "전략가",
+      "contextNote": "기업의 전반적인 방향성과 경쟁 우위를 설계하는 전문가 역할을 부여할 때 사용합니다."
+    },
+    "conduct": {
+      "meaning_ko": "수행하다, 실시하다",
+      "contextNote": "분석이나 조사와 같은 체계적인 프로세스를 실행하라는 명령어입니다."
+    },
+    "comprehensive": {
+      "meaning_ko": "포괄적인, 종합적인",
+      "contextNote": "분석이 누락된 부분 없이 포괄적이고 상세하게 이루어져야 함을 명시합니다."
+    },
+    "swot": {
+      "meaning_ko": "SWOT 분석",
+      "contextNote": "강점(Strengths), 약점(Weaknesses), 기회(Opportunities), 위협(Threats)을 분석하는 표준 비즈니스 프레임워크입니다."
+    },
+    "analysis": {
+      "meaning_ko": "분석",
+      "contextNote": "데이터나 상황을 세밀하게 쪼개어 살펴보는 논리적 과정입니다."
+    },
+    "synthesize": {
+      "meaning_ko": "통합하다, 합성하다",
+      "contextNote": "개별적인 분석 결과들을 결합하여 하나의 통일된 전략으로 통합하는 고차원적 사고를 요청합니다."
+    },
+    "findings": {
+      "meaning_ko": "분석 결과, 발견점",
+      "contextNote": "조사나 분석을 통해 얻게 된 구체적인 정보나 결론입니다."
+    },
+    "high-level": {
+      "meaning_ko": "상위 수준의, 핵심적인",
+      "contextNote": "세부 사항보다는 전체적인 조감도나 핵심 전략 위주로 정리하라는 의미입니다."
+    },
+    "strategic": {
+      "meaning_ko": "전략적인",
+      "contextNote": "단순 운영이 아닌 목적 달성을 위한 계획적인 접근을 의미합니다."
+    },
+    "roadmap": {
+      "meaning_ko": "로드맵, 실행 계획",
+      "contextNote": "목표 달성을 위한 단계별 실행 계획을 시각화하거나 구조화한 결과물을 요청할 때 사용합니다."
+    },
+    "ensure": {
+      "meaning_ko": "보장하다, 확실히 하다",
+      "contextNote": "특정 조건이나 품질이 반드시 충족되도록 강제하는 표현입니다."
+    },
+    "output": {
+      "meaning_ko": "출력물, 결과물",
+      "contextNote": "AI가 생성하여 제시하는 최종 텍스트나 문서입니다."
+    },
+    "balances": {
+      "meaning_ko": "균형을 맞추다",
+      "contextNote": "상충하는 두 가지 요소(성장 vs 리스크)를 적절히 조화시키라는 요청입니다."
+    },
+    "aggressive": {
+      "meaning_ko": "공격적인, 과감한",
+      "contextNote": "시장 지배력을 빠르게 높이기 위한 적극적인 태도를 나타냅니다."
+    },
+    "growth": {
+      "meaning_ko": "성장",
+      "contextNote": "매출, 점유율, 규모의 확장을 의미합니다."
+    },
+    "initiatives": {
+      "meaning_ko": "주도적 계획, 전략적 과제",
+      "contextNote": "특정 목표를 달성하기 위해 새롭게 시작하는 구체적인 사업이나 활동입니다."
+    },
+    "risk": {
+      "meaning_ko": "위험, 리스크",
+      "contextNote": "불확실성으로 인해 발생할 수 있는 손실 가능성입니다."
+    },
+    "mitigation": {
+      "meaning_ko": "완화, 경감",
+      "contextNote": "잠재적인 위협 요소를 식별하고 그 영향을 최소화하는 전략을 수립하라는 지시입니다."
+    },
+    "strategies": {
+      "meaning_ko": "전략들",
+      "contextNote": "목표 달성을 위한 구체적인 방법론들의 집합입니다."
+    },
+    "long-term": {
+      "meaning_ko": "장기적인",
+      "contextNote": "단기적인 성과보다 미래의 지속 가능성에 초점을 맞춘 관점입니다."
+    },
+    "sustainability": {
+      "meaning_ko": "지속 가능성",
+      "contextNote": "기업이 미래에도 계속 성장하고 생존할 수 있는 능력을 강조합니다."
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}
