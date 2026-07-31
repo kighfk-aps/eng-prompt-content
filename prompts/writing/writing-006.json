@@ -1,0 +1,119 @@
+{
+  "id": "writing-006",
+  "title": "전문 편집자 요청하기",
+  "category": "writing",
+  "difficulty": "beginner",
+  "fullText": "Act as a professional editor. Review the following text for clarity and flow. Provide specific suggestions to make the tone more professional and concise.",
+  "vocabulary": [
+    {
+      "phrase": "Act as",
+      "meaning_ko": "~의 역할을 하다",
+      "contextNote": "AI에게 특정한 페르소나나 전문가 설정을 부여할 때 사용하는 표준 표현"
+    },
+    {
+      "phrase": "clarity and flow",
+      "meaning_ko": "명확성과 흐름",
+      "contextNote": "글의 가독성과 문장 간의 자연스러운 연결을 요청할 때 자주 쓰이는 세트 표현"
+    },
+    {
+      "phrase": "concise",
+      "meaning_ko": "간결한",
+      "contextNote": "불필요한 말을 줄이고 핵심만 전달하도록 요청할 때 필수적인 형용사"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "Review",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "Ignore",
+        "Create",
+        "Delete"
+      ],
+      "explanation": "제공된 텍스트를 검토해달라는 요청이므로 'Review'가 적절합니다."
+    },
+    {
+      "answer": "specific suggestions",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "vague ideas",
+        "random words",
+        "general comments"
+      ],
+      "explanation": "추상적인 조언이 아닌 구체적인 개선 방안을 요구할 때 사용하는 표현입니다."
+    },
+    {
+      "answer": "tone",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "volume",
+        "color",
+        "speed"
+      ],
+      "explanation": "글의 분위기나 말투를 뜻하는 'tone'을 조정하여 전문성을 높이려는 의도입니다."
+    }
+  ],
+  "wordMap": {
+    "act": {
+      "meaning_ko": "역할을 하다",
+      "contextNote": "AI에게 특정한 페르소나나 전문가 설정을 부여할 때 사용하는 표준 표현"
+    },
+    "professional": {
+      "meaning_ko": "전문적인",
+      "contextNote": "비즈니스 환경에 적합한 격식 있고 능숙한 상태"
+    },
+    "editor": {
+      "meaning_ko": "편집자",
+      "contextNote": "글을 수정하고 교정하여 품질을 높이는 전문가"
+    },
+    "review": {
+      "meaning_ko": "검토하다",
+      "contextNote": "텍스트의 오류를 찾거나 개선점을 분석하는 행위"
+    },
+    "following": {
+      "meaning_ko": "다음의",
+      "contextNote": "프롬프트 뒤에 이어질 텍스트를 지칭할 때 사용"
+    },
+    "text": {
+      "meaning_ko": "글, 텍스트",
+      "contextNote": "분석이나 수정의 대상이 되는 문자 내용"
+    },
+    "clarity": {
+      "meaning_ko": "명확성",
+      "contextNote": "글의 가독성과 문장 간의 자연스러운 연결을 요청할 때 자주 쓰이는 세트 표현"
+    },
+    "flow": {
+      "meaning_ko": "흐름",
+      "contextNote": "글의 가독성과 문장 간의 자연스러운 연결을 요청할 때 자주 쓰이는 세트 표현"
+    },
+    "provide": {
+      "meaning_ko": "제공하다",
+      "contextNote": "AI에게 결과물이나 답변을 달라고 요청하는 동사"
+    },
+    "specific": {
+      "meaning_ko": "구체적인",
+      "contextNote": "모호하지 않고 명확한 지침이나 예시를 요구할 때 사용"
+    },
+    "suggestions": {
+      "meaning_ko": "제안",
+      "contextNote": "개선 방향에 대한 아이디어나 추천 사항"
+    },
+    "make": {
+      "meaning_ko": "만들다",
+      "contextNote": "대상(글)을 특정 상태로 변화시키는 행위"
+    },
+    "tone": {
+      "meaning_ko": "어조, 말투",
+      "contextNote": "글에서 느껴지는 전반적인 분위기나 태도"
+    },
+    "more": {
+      "meaning_ko": "더욱",
+      "contextNote": "비교급을 통해 상태의 강도를 높일 때 사용"
+    },
+    "concise": {
+      "meaning_ko": "간결한",
+      "contextNote": "불필요한 말을 줄이고 핵심만 전달하도록 요청할 때 필수적인 형용사"
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}
