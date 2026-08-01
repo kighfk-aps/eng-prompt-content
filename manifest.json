@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-31T22:12:26.734Z",
+  "updatedAt": "2026-08-01T22:02:40.994Z",
   "prompts": [
+    {
+      "id": "coding-006",
+      "category": "coding",
+      "difficulty": "intermediate",
+      "title": "레거시 코드 리팩토링 및 최적화",
+      "publishedAt": "2026-08-01T22:02:40.994Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/coding/coding-006.json"
+    },
     {
       "id": "writing-006",
       "category": "writing",
