@@ -1,0 +1,112 @@
+{
+  "id": "analysis-006",
+  "title": "전략적 SWOT 분석",
+  "category": "analysis",
+  "difficulty": "advanced",
+  "fullText": "Perform a comprehensive SWOT analysis on the provided market report. Synthesize the findings to uncover latent opportunities and mitigate potential risks. Please prioritize high-impact variables and provide a strategic roadmap for implementation.",
+  "vocabulary": [
+    {
+      "phrase": "comprehensive SWOT analysis",
+      "meaning_ko": "종합적인 SWOT 분석",
+      "contextNote": "강점(Strengths), 약점(Weaknesses), 기회(Opportunities), 위협(Threats)을 모두 아우르는 심층 분석을 요청할 때 사용합니다."
+    },
+    {
+      "phrase": "synthesize the findings",
+      "meaning_ko": "결과를 종합하다",
+      "contextNote": "개별적인 분석 데이터들을 결합하여 하나의 일관된 결론이나 통찰을 도출하라는 지시어입니다."
+    },
+    {
+      "phrase": "latent opportunities",
+      "meaning_ko": "잠재적 기회",
+      "contextNote": "표면적으로 드러나지 않았으나 분석을 통해 찾아내야 하는 숨겨진 가능성을 의미합니다."
+    },
+    {
+      "phrase": "strategic roadmap",
+      "meaning_ko": "전략적 로드맵",
+      "contextNote": "단순한 제안을 넘어 목표 달성을 위한 단계별 실행 계획을 요구할 때 사용합니다."
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "mitigate potential risks",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "ignore potential risks",
+        "create potential risks",
+        "accelerate potential risks"
+      ],
+      "explanation": "위험 요소를 완화하거나 줄이는 것이 분석 및 전략 수립의 핵심 목적입니다."
+    },
+    {
+      "answer": "prioritize high-impact variables",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "ignore high-impact variables",
+        "randomize high-impact variables",
+        "list low-impact variables"
+      ],
+      "explanation": "가장 큰 영향력을 가진 변수를 우선순위에 두어 효율적인 전략을 세우기 위한 지시입니다."
+    },
+    {
+      "answer": "implementation",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "imagination",
+        "hesitation",
+        "termination"
+      ],
+      "explanation": "계획을 실제로 실행에 옮기는 단계를 의미하며, 로드맵의 최종 목적지입니다."
+    }
+  ],
+  "wordMap": {
+    "perform": {
+      "meaning_ko": "수행하다",
+      "contextNote": "특정 분석 작업이나 과업을 실행하도록 요청하는 동사입니다."
+    },
+    "comprehensive SWOT analysis": {
+      "meaning_ko": "종합적인 SWOT 분석",
+      "contextNote": "강점(Strengths), 약점(Weaknesses), 기회(Opportunities), 위협(Threats)을 모두 아우르는 심층 분석을 요청할 때 사용합니다."
+    },
+    "provided": {
+      "meaning_ko": "제공된",
+      "contextNote": "프롬프트와 함께 입력된 텍스트나 파일을 지칭합니다."
+    },
+    "market report": {
+      "meaning_ko": "시장 보고서",
+      "contextNote": "분석의 대상이 되는 시장 조사 자료입니다."
+    },
+    "synthesize the findings": {
+      "meaning_ko": "결과를 종합하다",
+      "contextNote": "개별적인 분석 데이터들을 결합하여 하나의 일관된 결론이나 통찰을 도출하라는 지시어입니다."
+    },
+    "uncover": {
+      "meaning_ko": "발견하다",
+      "contextNote": "숨겨져 있던 사실이나 패턴을 찾아내는 것을 의미합니다."
+    },
+    "latent opportunities": {
+      "meaning_ko": "잠재적 기회",
+      "contextNote": "표면적으로 드러나지 않았으나 분석을 통해 찾아내야 하는 숨겨진 가능성을 의미합니다."
+    },
+    "mitigate potential risks": {
+      "meaning_ko": "잠재적 위험을 완화하다",
+      "contextNote": "발생 가능한 위험 요소의 부정적 영향을 줄이는 조치를 의미합니다."
+    },
+    "prioritize high-impact variables": {
+      "meaning_ko": "영향력이 큰 변수를 우선순위화하다",
+      "contextNote": "결과에 가장 큰 변화를 줄 수 있는 핵심 요소에 집중하라는 지시입니다."
+    },
+    "provide": {
+      "meaning_ko": "제공하다",
+      "contextNote": "특정 결과물이나 답변을 출력해달라는 요청입니다."
+    },
+    "strategic roadmap": {
+      "meaning_ko": "전략적 로드맵",
+      "contextNote": "단순한 제안을 넘어 목표 달성을 위한 단계별 실행 계획을 요구할 때 사용합니다."
+    },
+    "implementation": {
+      "meaning_ko": "실행, 구현",
+      "contextNote": "수립된 전략을 실제 현장에 적용하고 실행하는 과정입니다."
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}
