@@ -1,0 +1,173 @@
+{
+  "id": "creative-006",
+  "title": "세계적 수준의 문학 비평가",
+  "category": "creative",
+  "difficulty": "advanced",
+  "fullText": "Assume the persona of a world-class literary critic. Deconstruct the provided text by analyzing its underlying motifs and thematic coherence. Provide a nuanced critique that evaluates the author's stylistic choices and suggests sophisticated refinements to elevate the emotional resonance.",
+  "vocabulary": [
+    {
+      "phrase": "assume the persona of",
+      "meaning_ko": "~의 페르소나를 취하다",
+      "contextNote": "AI에게 특정 전문가나 성격의 역할을 부여하여 답변의 톤과 전문성을 설정할 때 사용"
+    },
+    {
+      "phrase": "deconstruct",
+      "meaning_ko": "해체 분석하다",
+      "contextNote": "단순한 요약을 넘어 텍스트의 구조와 숨겨진 의미를 세밀하게 파헤치라는 지시"
+    },
+    {
+      "phrase": "thematic coherence",
+      "meaning_ko": "주제적 일관성",
+      "contextNote": "글 전체의 주제가 서로 충돌하지 않고 논리적으로 연결되어 있는지 평가할 때 사용"
+    },
+    {
+      "phrase": "nuanced critique",
+      "meaning_ko": "미묘한 차이를 살린 세밀한 비평",
+      "contextNote": "단순한 칭찬이나 비판이 아닌, 복합적이고 정교한 분석을 요구할 때 사용"
+    },
+    {
+      "phrase": "emotional resonance",
+      "meaning_ko": "정서적 울림",
+      "contextNote": "독자에게 전달되는 감정적인 영향력이나 깊이를 의미함"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "underlying motifs",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "surface details",
+        "random words",
+        "obvious summaries"
+      ],
+      "explanation": "텍스트 속에 숨겨져 반복되는 핵심 상징이나 모티프를 분석하라는 의미"
+    },
+    {
+      "answer": "stylistic choices",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "grammar mistakes",
+        "font selections",
+        "page layouts"
+      ],
+      "explanation": "작가가 의도적으로 선택한 문체, 어조, 서술 방식 등을 의미함"
+    },
+    {
+      "answer": "sophisticated refinements",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "basic corrections",
+        "simple deletions",
+        "total rewrites"
+      ],
+      "explanation": "단순한 오타 수정이 아닌, 수준 높고 정교한 개선 방안을 요구하는 표현"
+    }
+  ],
+  "wordMap": {
+    "assume": {
+      "meaning_ko": "가정하다, 취하다",
+      "contextNote": "특정 역할이나 성격을 맡으라는 지시어"
+    },
+    "the persona of": {
+      "meaning_ko": "~의 페르소나/인격",
+      "contextNote": "AI가 연기해야 할 구체적인 사회적 정체성을 의미"
+    },
+    "world-class": {
+      "meaning_ko": "세계적인 수준의",
+      "contextNote": "최고 수준의 전문성을 요구하는 수식어"
+    },
+    "literary": {
+      "meaning_ko": "문학의",
+      "contextNote": "문학 작품과 관련된 전문 영역을 지정"
+    },
+    "critic": {
+      "meaning_ko": "비평가",
+      "contextNote": "작품을 분석하고 평가하는 전문가"
+    },
+    "deconstruct": {
+      "meaning_ko": "해체 분석하다",
+      "contextNote": "단순한 요약을 넘어 텍스트의 구조와 숨겨진 의미를 세밀하게 파헤치라는 지시"
+    },
+    "provided": {
+      "meaning_ko": "제공된",
+      "contextNote": "사용자가 입력값으로 준 텍스트를 지칭"
+    },
+    "text": {
+      "meaning_ko": "글, 텍스트",
+      "contextNote": "분석의 대상이 되는 문자 정보"
+    },
+    "analyzing": {
+      "meaning_ko": "분석하는 것",
+      "contextNote": "데이터나 글을 세부적으로 살피는 행위"
+    },
+    "underlying": {
+      "meaning_ko": "근저에 있는, 잠재적인",
+      "contextNote": "표면적으로 드러나지 않은 내면의 의미를 강조"
+    },
+    "motifs": {
+      "meaning_ko": "모티프, 중심 생각",
+      "contextNote": "작품 속에서 반복되는 상징적 요소"
+    },
+    "thematic": {
+      "meaning_ko": "주제의",
+      "contextNote": "글이 다루고 있는 핵심 주제와 관련된"
+    },
+    "coherence": {
+      "meaning_ko": "일관성",
+      "contextNote": "논리적으로 잘 연결되어 어긋남이 없는 상태"
+    },
+    "provide": {
+      "meaning_ko": "제공하다",
+      "contextNote": "결과물을 출력하라는 지시"
+    },
+    "nuanced": {
+      "meaning_ko": "미묘한 차이가 있는",
+      "contextNote": "흑백논리가 아닌 정교하고 세밀한 관점"
+    },
+    "critique": {
+      "meaning_ko": "비평, 평가",
+      "contextNote": "비판적 시각에서 분석한 결과물"
+    },
+    "evaluates": {
+      "meaning_ko": "평가하다",
+      "contextNote": "가치나 수준을 판단하는 행위"
+    },
+    "author's": {
+      "meaning_ko": "작가의",
+      "contextNote": "글을 쓴 주체에 귀속됨을 의미"
+    },
+    "stylistic": {
+      "meaning_ko": "문체의, 양식의",
+      "contextNote": "글의 표현 방식이나 스타일에 관한"
+    },
+    "choices": {
+      "meaning_ko": "선택",
+      "contextNote": "작가가 의도적으로 고른 표현이나 기법"
+    },
+    "suggests": {
+      "meaning_ko": "제안하다",
+      "contextNote": "개선 방향을 추천하는 행위"
+    },
+    "sophisticated": {
+      "meaning_ko": "정교한, 수준 높은",
+      "contextNote": "단순하지 않고 복잡하며 세련된"
+    },
+    "refinements": {
+      "meaning_ko": "개선, 다듬기",
+      "contextNote": "더 나은 상태로 만들기 위한 세밀한 수정"
+    },
+    "elevate": {
+      "meaning_ko": "높이다, 승격시키다",
+      "contextNote": "질적 수준을 한 단계 끌어올리는 것"
+    },
+    "emotional": {
+      "meaning_ko": "감정적인, 정서적인",
+      "contextNote": "이성이 아닌 느낌과 마음의 영역"
+    },
+    "resonance": {
+      "meaning_ko": "울림, 공명",
+      "contextNote": "독자의 마음속에 깊게 남는 여운"
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}

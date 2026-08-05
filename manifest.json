@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-03T22:14:06.615Z",
+  "updatedAt": "2026-08-05T22:17:57.551Z",
   "prompts": [
+    {
+      "id": "creative-006",
+      "category": "creative",
+      "difficulty": "advanced",
+      "title": "세계적 수준의 문학 비평가",
+      "publishedAt": "2026-08-05T22:17:57.550Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/creative/creative-006.json"
+    },
     {
       "id": "analysis-006",
       "category": "analysis",
