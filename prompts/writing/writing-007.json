@@ -1,0 +1,155 @@
+{
+  "id": "writing-007",
+  "title": "전문 편집자의 글 다듬기",
+  "category": "writing",
+  "difficulty": "beginner",
+  "fullText": "Act as a professional editor. Please polish the following text to make it sound more natural and fluent. Fix any grammatical errors and suggest better word choices to improve clarity.",
+  "vocabulary": [
+    {
+      "phrase": "Act as",
+      "meaning_ko": "~의 역할을 하다",
+      "contextNote": "AI에게 특정 페르소나나 전문성을 부여할 때 사용하는 표준 표현"
+    },
+    {
+      "phrase": "polish",
+      "meaning_ko": "다듬다, 세련되게 만들다",
+      "contextNote": "이미 작성된 글의 품질을 높이거나 자연스럽게 수정해달라고 요청할 때 사용"
+    },
+    {
+      "phrase": "word choices",
+      "meaning_ko": "단어 선택",
+      "contextNote": "문맥에 더 적합하고 정확한 어휘로 변경해달라고 요청할 때 사용"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "natural and fluent",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "long and detailed",
+        "complex and formal",
+        "fast and short"
+      ],
+      "explanation": "원어민처럼 자연스럽고 매끄러운 흐름의 문장을 요청할 때 쓰는 세트 표현"
+    },
+    {
+      "answer": "grammatical errors",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "spelling mistakes",
+        "font styles",
+        "paragraph breaks"
+      ],
+      "explanation": "문법적인 오류를 수정해달라는 구체적인 요청 사항"
+    },
+    {
+      "answer": "improve clarity",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "increase length",
+        "change meaning",
+        "add emotion"
+      ],
+      "explanation": "글의 의미를 더 분명하고 이해하기 쉽게 만들 때 사용하는 표현"
+    }
+  ],
+  "wordMap": {
+    "act": {
+      "meaning_ko": "~의 역할을 하다",
+      "contextNote": "AI에게 특정 페르소나나 전문성을 부여할 때 사용하는 표준 표현"
+    },
+    "as": {
+      "meaning_ko": "~로서",
+      "contextNote": "자격이나 역할을 나타내는 전치사"
+    },
+    "professional": {
+      "meaning_ko": "전문적인",
+      "contextNote": "높은 수준의 숙련도나 자격을 갖춘 상태"
+    },
+    "editor": {
+      "meaning_ko": "편집자",
+      "contextNote": "글의 오류를 수정하고 내용을 다듬는 전문가"
+    },
+    "please": {
+      "meaning_ko": "부디, 제발",
+      "contextNote": "요청을 정중하게 만들기 위해 사용하는 부사"
+    },
+    "polish": {
+      "meaning_ko": "다듬다, 세련되게 만들다",
+      "contextNote": "이미 작성된 글의 품질을 높이거나 자연스럽게 수정해달라고 요청할 때 사용"
+    },
+    "following": {
+      "meaning_ko": "다음의",
+      "contextNote": "뒤에 이어지는 텍스트를 가리킬 때 사용"
+    },
+    "text": {
+      "meaning_ko": "글, 지문",
+      "contextNote": "작성된 모든 형태의 문자 기록"
+    },
+    "make": {
+      "meaning_ko": "만들다",
+      "contextNote": "어떤 상태가 되도록 유도하는 동사"
+    },
+    "sound": {
+      "meaning_ko": "~하게 들리다",
+      "contextNote": "글의 톤이나 느낌이 어떻게 전달되는지를 표현"
+    },
+    "more": {
+      "meaning_ko": "더",
+      "contextNote": "정도를 강화하는 비교급 부사"
+    },
+    "natural": {
+      "meaning_ko": "자연스러운",
+      "contextNote": "인위적이지 않고 원어민이 쓰는 방식과 유사한"
+    },
+    "and": {
+      "meaning_ko": "그리고",
+      "contextNote": "단어들을 연결하는 접속사"
+    },
+    "fluent": {
+      "meaning_ko": "유창한",
+      "contextNote": "말이나 글의 흐름이 막힘없이 매끄러운"
+    },
+    "fix": {
+      "meaning_ko": "고치다, 수정하다",
+      "contextNote": "잘못된 부분을 바로잡는 행위"
+    },
+    "any": {
+      "meaning_ko": "어떤 ~라도",
+      "contextNote": "범위를 지정하지 않고 모든 대상을 포함"
+    },
+    "grammatical": {
+      "meaning_ko": "문법적인",
+      "contextNote": "언어의 규칙이나 체계와 관련된"
+    },
+    "errors": {
+      "meaning_ko": "오류, 실수",
+      "contextNote": "잘못 작성된 부분"
+    },
+    "suggest": {
+      "meaning_ko": "제안하다",
+      "contextNote": "대안을 제시해달라고 요청하는 동사"
+    },
+    "better": {
+      "meaning_ko": "더 나은",
+      "contextNote": "품질이나 효율이 더 높은 상태"
+    },
+    "word": {
+      "meaning_ko": "단어",
+      "contextNote": "언어의 최소 의미 단위"
+    },
+    "choices": {
+      "meaning_ko": "선택",
+      "contextNote": "여러 대안 중 하나를 고르는 행위"
+    },
+    "improve": {
+      "meaning_ko": "개선하다",
+      "contextNote": "질적으로 더 좋게 만드는 행위"
+    },
+    "clarity": {
+      "meaning_ko": "명확성",
+      "contextNote": "의미가 분명하여 이해하기 쉬운 상태"
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}
