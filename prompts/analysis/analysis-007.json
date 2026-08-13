@@ -1,0 +1,116 @@
+{
+  "id": "analysis-007",
+  "title": "비즈니스 모델 SWOT 분석",
+  "category": "analysis",
+  "difficulty": "intermediate",
+  "fullText": "Perform a comprehensive SWOT analysis on the provided business model. Evaluate the internal strengths and weaknesses, then contrast them with external opportunities and threats. Synthesize these findings into a strategic roadmap that prioritizes high-impact initiatives.",
+  "vocabulary": [
+    {
+      "phrase": "comprehensive SWOT analysis",
+      "meaning_ko": "종합적인 SWOT 분석",
+      "contextNote": "강점, 약점, 기회, 위협을 모두 아우르는 세밀한 분석을 요청할 때 사용"
+    },
+    {
+      "phrase": "strategic roadmap",
+      "meaning_ko": "전략적 로드맵",
+      "contextNote": "분석 결과를 바탕으로 한 단계별 실행 계획을 도출하도록 지시"
+    },
+    {
+      "phrase": "high-impact initiatives",
+      "meaning_ko": "영향력이 큰 주도적 과제",
+      "contextNote": "단순한 작업이 아니라 성과에 결정적인 영향을 미치는 핵심 전략 과제를 의미"
+    },
+    {
+      "phrase": "synthesize",
+      "meaning_ko": "종합하다, 통합하다",
+      "contextNote": "여러 개별 분석 결과를 하나로 묶어 새로운 결론이나 전략을 도출하라는 지시"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "internal strengths and weaknesses",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "random facts and figures",
+        "global market shares",
+        "historical dates and events"
+      ],
+      "explanation": "SWOT 분석에서 조직 내부의 요인인 강점과 약점을 먼저 평가하는 것이 기본 단계입니다."
+    },
+    {
+      "answer": "contrast",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "ignore",
+        "duplicate",
+        "isolate"
+      ],
+      "explanation": "내부 요인과 외부 요인을 비교 대조하여 상호작용을 파악하는 과정이 필요합니다."
+    },
+    {
+      "answer": "prioritizes",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "randomizes",
+        "neglects",
+        "eliminates"
+      ],
+      "explanation": "제한된 자원을 효율적으로 쓰기 위해 중요도에 따라 순위를 매기는 작업이 필수적입니다."
+    }
+  ],
+  "wordMap": {
+    "perform": {
+      "meaning_ko": "수행하다",
+      "contextNote": "특정 작업이나 분석 프로세스를 실행하라는 명령형 동사입니다."
+    },
+    "comprehensive SWOT analysis": {
+      "meaning_ko": "종합적인 SWOT 분석",
+      "contextNote": "강점, 약점, 기회, 위협을 모두 아우르는 세밀한 분석을 요청할 때 사용"
+    },
+    "provided": {
+      "meaning_ko": "제공된",
+      "contextNote": "프롬프트와 함께 입력값으로 주어진 데이터를 지칭합니다."
+    },
+    "business model": {
+      "meaning_ko": "비즈니스 모델",
+      "contextNote": "기업이 가치를 창출하고 전달하는 방식에 대한 구조입니다."
+    },
+    "evaluate": {
+      "meaning_ko": "평가하다",
+      "contextNote": "특정 기준에 따라 가치나 상태를 판단하는 과정입니다."
+    },
+    "internal strengths and weaknesses": {
+      "meaning_ko": "내부 강점과 약점",
+      "contextNote": "SWOT 분석에서 조직 내부의 요인인 강점과 약점을 먼저 평가하는 것이 기본 단계입니다."
+    },
+    "contrast": {
+      "meaning_ko": "대조하다",
+      "contextNote": "내부 요인과 외부 요인을 비교 대조하여 상호작용을 파악하는 과정이 필요합니다."
+    },
+    "external opportunities and threats": {
+      "meaning_ko": "외부 기회와 위협",
+      "contextNote": "조직 외부 환경에서 발생하는 긍정적/부정적 요인을 의미합니다."
+    },
+    "synthesize": {
+      "meaning_ko": "종합하다, 통합하다",
+      "contextNote": "여러 개별 분석 결과를 하나로 묶어 새로운 결론이나 전략을 도출하라는 지시"
+    },
+    "findings": {
+      "meaning_ko": "분석 결과, 발견점",
+      "contextNote": "조사나 분석을 통해 얻어낸 구체적인 결과물들입니다."
+    },
+    "strategic roadmap": {
+      "meaning_ko": "전략적 로드맵",
+      "contextNote": "분석 결과를 바탕으로 한 단계별 실행 계획을 도출하도록 지시"
+    },
+    "prioritizes": {
+      "meaning_ko": "우선순위를 정하다",
+      "contextNote": "제한된 자원을 효율적으로 쓰기 위해 중요도에 따라 순위를 매기는 작업이 필수적입니다."
+    },
+    "high-impact initiatives": {
+      "meaning_ko": "영향력이 큰 주도적 과제",
+      "contextNote": "단순한 작업이 아니라 성과에 결정적인 영향을 미치는 핵심 전략 과제를 의미"
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}
