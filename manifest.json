@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-13T21:55:32.895Z",
+  "updatedAt": "2026-08-15T21:28:39.485Z",
   "prompts": [
+    {
+      "id": "creative-007",
+      "category": "creative",
+      "difficulty": "intermediate",
+      "title": "가상 세계관 설정 전문가",
+      "publishedAt": "2026-08-15T21:28:39.482Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/creative/creative-007.json"
+    },
     {
       "id": "analysis-007",
       "category": "analysis",

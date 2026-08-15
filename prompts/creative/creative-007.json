@@ -1,0 +1,163 @@
+{
+  "id": "creative-007",
+  "title": "가상 세계관 설정 전문가",
+  "category": "creative",
+  "difficulty": "intermediate",
+  "fullText": "Act as a world-building consultant. Develop a detailed conceptual framework for a fictional civilization, incorporating its societal norms, architectural style, and a unique governing system. Ensure the output is cohesive and provides immersive sensory details to bring the setting to life.",
+  "vocabulary": [
+    {
+      "phrase": "world-building",
+      "meaning_ko": "세계관 설정",
+      "contextNote": "판타지나 SF 소설 등에서 가상의 세계를 정교하게 설계하는 과정"
+    },
+    {
+      "phrase": "conceptual framework",
+      "meaning_ko": "개념적 틀/구조",
+      "contextNote": "아이디어를 체계적으로 정리하기 위한 논리적 기반을 요청할 때 사용"
+    },
+    {
+      "phrase": "societal norms",
+      "meaning_ko": "사회적 규범",
+      "contextNote": "가상 사회의 문화, 관습, 행동 양식을 정의할 때 쓰는 표현"
+    },
+    {
+      "phrase": "governing system",
+      "meaning_ko": "통치 체제",
+      "contextNote": "정치 구조나 권력 운영 방식을 설정하기 위해 사용"
+    },
+    {
+      "phrase": "immersive",
+      "meaning_ko": "몰입감 있는",
+      "contextNote": "사용자가 실제로 그 세계에 있는 것처럼 느끼게 하는 상세한 묘사를 요구할 때 사용"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "incorporating",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "excluding",
+        "ignoring",
+        "rejecting"
+      ],
+      "explanation": "여러 가지 요소를 포함시켜 전체적인 설정을 완성하라는 의미"
+    },
+    {
+      "answer": "cohesive",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "contradictory",
+        "fragmented",
+        "random"
+      ],
+      "explanation": "설정들이 서로 충돌하지 않고 논리적으로 일관성이 있어야 함을 강조"
+    },
+    {
+      "answer": "sensory details",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "abstract ideas",
+        "numerical data",
+        "vague hints"
+      ],
+      "explanation": "시각, 청각, 후각 등 오감을 자극하는 구체적인 묘사를 요청하는 표현"
+    },
+    {
+      "answer": "bring the setting to life",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "keep the setting secret",
+        "erase the background",
+        "simplify the plot"
+      ],
+      "explanation": "설정한 세계관을 생생하고 실감 나게 구현해달라는 관용적 표현"
+    }
+  ],
+  "wordMap": {
+    "act": {
+      "meaning_ko": "~로서 역할을 하다",
+      "contextNote": "AI에게 특정 페르소나를 부여하여 출력의 톤과 전문성을 설정함"
+    },
+    "world-building": {
+      "meaning_ko": "세계관 설정",
+      "contextNote": "판타지나 SF 소설 등에서 가상의 세계를 정교하게 설계하는 과정"
+    },
+    "consultant": {
+      "meaning_ko": "컨설턴트, 상담가",
+      "contextNote": "전문적인 조언과 설계를 제공하는 전문가 역할"
+    },
+    "develop": {
+      "meaning_ko": "개발하다, 상세히 만들다",
+      "contextNote": "단순한 아이디어를 구체적인 계획이나 체계로 확장하는 과정"
+    },
+    "detailed": {
+      "meaning_ko": "상세한",
+      "contextNote": "구체적이고 세밀한 정보를 포함하도록 지시"
+    },
+    "conceptual framework": {
+      "meaning_ko": "개념적 틀/구조",
+      "contextNote": "아이디어를 체계적으로 정리하기 위한 논리적 기반을 요청할 때 사용"
+    },
+    "fictional": {
+      "meaning_ko": "허구의, 가상의",
+      "contextNote": "실제가 아닌 상상 속에 존재하는 설정임을 명시"
+    },
+    "civilization": {
+      "meaning_ko": "문명",
+      "contextNote": "사회, 문화, 기술적 수준을 갖춘 인간 또는 외계 집단"
+    },
+    "incorporating": {
+      "meaning_ko": "포함하는, 통합하는",
+      "contextNote": "여러 가지 요소를 포함시켜 전체적인 설정을 완성하는 것"
+    },
+    "societal norms": {
+      "meaning_ko": "사회적 규범",
+      "contextNote": "가상 사회의 문화, 관습, 행동 양식을 정의할 때 쓰는 표현"
+    },
+    "architectural": {
+      "meaning_ko": "건축의, 건축학적인",
+      "contextNote": "건물의 형태나 도시 구조 등 시각적 설정을 의미"
+    },
+    "style": {
+      "meaning_ko": "스타일, 양식",
+      "contextNote": "특정한 외형적 특징이나 경향"
+    },
+    "unique": {
+      "meaning_ko": "독특한",
+      "contextNote": "흔하지 않은 차별화된 설정을 요구"
+    },
+    "governing system": {
+      "meaning_ko": "통치 체제",
+      "contextNote": "정치 구조나 권력 운영 방식을 설정하기 위해 사용"
+    },
+    "ensure": {
+      "meaning_ko": "보장하다, 반드시 ~하게 하다",
+      "contextNote": "결과물이 특정 조건을 반드시 충족해야 함을 강조"
+    },
+    "output": {
+      "meaning_ko": "출력물, 결과",
+      "contextNote": "AI가 생성하여 제시하는 최종 텍스트"
+    },
+    "cohesive": {
+      "meaning_ko": "응집력 있는, 일관된",
+      "contextNote": "설정들이 서로 충돌하지 않고 논리적으로 일관성이 있어야 함"
+    },
+    "provide": {
+      "meaning_ko": "제공하다",
+      "contextNote": "특정 정보나 묘사를 결과물에 포함시키라는 요청"
+    },
+    "immersive": {
+      "meaning_ko": "몰입감 있는",
+      "contextNote": "사용자가 실제로 그 세계에 있는 것처럼 느끼게 하는 상세한 묘사를 요구할 때 사용"
+    },
+    "sensory details": {
+      "meaning_ko": "감각적 세부 묘사",
+      "contextNote": "시각, 청각, 후각 등 오감을 자극하는 구체적인 묘사"
+    },
+    "bring the setting to life": {
+      "meaning_ko": "설정을 생생하게 구현하다",
+      "contextNote": "설정한 세계관을 생생하고 실감 나게 구현해달라는 관용적 표현"
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}
