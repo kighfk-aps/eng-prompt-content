@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-15T21:28:39.485Z",
+  "updatedAt": "2026-08-17T21:33:13.610Z",
   "prompts": [
+    {
+      "id": "business-007",
+      "category": "business",
+      "difficulty": "intermediate",
+      "title": "리스크 완화 계획 수립",
+      "publishedAt": "2026-08-17T21:33:13.610Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/business/business-007.json"
+    },
     {
       "id": "creative-007",
       "category": "creative",

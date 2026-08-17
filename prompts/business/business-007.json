@@ -1,0 +1,160 @@
+{
+  "id": "business-007",
+  "title": "리스크 완화 계획 수립",
+  "category": "business",
+  "difficulty": "intermediate",
+  "fullText": "Act as a senior project manager. Develop a comprehensive risk mitigation plan for [PROJECT NAME], identifying potential bottlenecks and proposing actionable countermeasures. Please format the output as a table including risk level, impact, and the designated owner for each item.",
+  "vocabulary": [
+    {
+      "phrase": "risk mitigation plan",
+      "meaning_ko": "리스크 완화 계획",
+      "contextNote": "잠재적 위험을 식별하고 그 영향을 최소화하기 위한 전략적 계획"
+    },
+    {
+      "phrase": "potential bottlenecks",
+      "meaning_ko": "잠재적 병목 구간",
+      "contextNote": "전체 프로세스의 속도를 늦추거나 중단시킬 수 있는 취약 지점"
+    },
+    {
+      "phrase": "actionable countermeasures",
+      "meaning_ko": "실행 가능한 대응책",
+      "contextNote": "단순한 이론이 아니라 실제로 즉시 적용할 수 있는 구체적인 해결 방법"
+    },
+    {
+      "phrase": "designated owner",
+      "meaning_ko": "지정된 책임자",
+      "contextNote": "특정 작업이나 리스크 관리를 전담하여 책임질 사람"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "comprehensive",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "fragmented",
+        "superficial",
+        "random"
+      ],
+      "explanation": "모든 측면을 아우르는 포괄적인 계획을 요청할 때 사용하는 형용사입니다."
+    },
+    {
+      "answer": "identifying",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "ignoring",
+        "overlooking",
+        "concealing"
+      ],
+      "explanation": "문제나 위험 요소를 찾아내어 명시하는 분석 단계의 핵심 동사입니다."
+    },
+    {
+      "answer": "format the output",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "ignore the layout",
+        "delete the result",
+        "randomize the text"
+      ],
+      "explanation": "AI에게 응답의 구조나 형태(표, 리스트 등)를 지정할 때 쓰는 표현입니다."
+    }
+  ],
+  "wordMap": {
+    "act": {
+      "meaning_ko": "~처럼 행동하다",
+      "contextNote": "특정 역할을 수행하라는 지시로, 해당 직무의 관점에서 응답하도록 요청하는 상황입니다."
+    },
+    "senior": {
+      "meaning_ko": "상급의, 숙련된",
+      "contextNote": "풍부한 경험을 가진 전문가 수준의 답변을 유도하기 위해 사용합니다."
+    },
+    "project": {
+      "meaning_ko": "프로젝트, 과제",
+      "contextNote": "특정 목표를 달성하기 위해 계획된 일련의 업무입니다."
+    },
+    "manager": {
+      "meaning_ko": "관리자, 매니저",
+      "contextNote": "자원과 인력을 조직하고 조율하는 책임자입니다."
+    },
+    "develop": {
+      "meaning_ko": "수립하다, 개발하다",
+      "contextNote": "계획이나 전략을 상세하게 만들어내는 과정을 의미합니다."
+    },
+    "comprehensive": {
+      "meaning_ko": "포괄적인, 종합적인",
+      "contextNote": "모든 측면을 아우르는 포괄적인 계획을 요청할 때 사용하는 형용사입니다."
+    },
+    "risk": {
+      "meaning_ko": "위험, 리스크",
+      "contextNote": "미래에 발생할 수 있는 불확실한 손실 가능성입니다."
+    },
+    "mitigation": {
+      "meaning_ko": "완화, 경감",
+      "contextNote": "잠재적 위험을 식별하고 그 영향을 최소화하기 위한 전략적 계획"
+    },
+    "plan": {
+      "meaning_ko": "계획, 방안",
+      "contextNote": "목표 달성을 위해 구체적으로 설계된 경로입니다."
+    },
+    "identifying": {
+      "meaning_ko": "식별하는, 찾아내는",
+      "contextNote": "문제나 위험 요소를 찾아내어 명시하는 분석 단계의 핵심 동사입니다."
+    },
+    "potential": {
+      "meaning_ko": "잠재적인",
+      "contextNote": "현재는 나타나지 않았지만 앞으로 발생할 가능성이 있는 상태입니다."
+    },
+    "bottlenecks": {
+      "meaning_ko": "병목 구간",
+      "contextNote": "전체 프로세스의 속도를 늦추거나 중단시킬 수 있는 취약 지점"
+    },
+    "proposing": {
+      "meaning_ko": "제안하는",
+      "contextNote": "해결책이나 아이디어를 공식적으로 제시하는 행위입니다."
+    },
+    "actionable": {
+      "meaning_ko": "실행 가능한",
+      "contextNote": "단순한 이론이 아니라 실제로 즉시 적용할 수 있는 구체적인 해결 방법"
+    },
+    "countermeasures": {
+      "meaning_ko": "대응책, 대책",
+      "contextNote": "위험이나 공격에 대응하여 취하는 조치입니다."
+    },
+    "format": {
+      "meaning_ko": "형식을 맞추다",
+      "contextNote": "AI에게 응답의 구조나 형태(표, 리스트 등)를 지정할 때 쓰는 표현입니다."
+    },
+    "output": {
+      "meaning_ko": "결과물, 출력",
+      "contextNote": "AI가 생성하여 제공하는 최종 응답 텍스트입니다."
+    },
+    "table": {
+      "meaning_ko": "표",
+      "contextNote": "데이터를 행과 열로 정리하여 가독성을 높인 형식입니다."
+    },
+    "including": {
+      "meaning_ko": "포함하여",
+      "contextNote": "결과물에 반드시 들어가야 할 구성 요소를 명시할 때 사용합니다."
+    },
+    "level": {
+      "meaning_ko": "수준, 단계",
+      "contextNote": "리스크의 심각도나 우선순위를 나타내는 척도입니다."
+    },
+    "impact": {
+      "meaning_ko": "영향, 충격",
+      "contextNote": "리스크가 실제로 발생했을 때 사업이나 프로젝트에 미치는 결과입니다."
+    },
+    "designated": {
+      "meaning_ko": "지정된",
+      "contextNote": "특정 목적을 위해 공식적으로 선택되거나 임명된 상태입니다."
+    },
+    "owner": {
+      "meaning_ko": "책임자, 담당자",
+      "contextNote": "특정 작업이나 리스크 관리를 전담하여 책임질 사람"
+    },
+    "item": {
+      "meaning_ko": "항목",
+      "contextNote": "목록이나 표에서 개별적으로 나열된 하나하나의 요소입니다."
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}
