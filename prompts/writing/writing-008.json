@@ -1,0 +1,139 @@
+{
+  "id": "writing-008",
+  "title": "전문 편집자 요청하기",
+  "category": "writing",
+  "difficulty": "beginner",
+  "fullText": "Act as a professional editor. Please proofread the following text for grammar and spelling errors. Suggest a more natural tone to make the writing sound more professional.",
+  "vocabulary": [
+    {
+      "phrase": "Act as",
+      "meaning_ko": "~의 역할을 하다",
+      "contextNote": "AI에게 특정 페르소나를 부여하여 답변의 전문성을 높일 때 사용하는 필수 표현"
+    },
+    {
+      "phrase": "proofread",
+      "meaning_ko": "교정하다",
+      "contextNote": "오타, 문법 오류 등을 찾아 수정하는 구체적인 작업 명령어로 사용"
+    },
+    {
+      "phrase": "natural tone",
+      "meaning_ko": "자연스러운 어조",
+      "contextNote": "기계적인 문장이 아니라 원어민이 실제로 사용할 법한 뉘앙스를 요청할 때 사용"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "grammar and spelling errors",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "font and size issues",
+        "page and margin errors",
+        "chapter and title mistakes"
+      ],
+      "explanation": "텍스트 교정 시 가장 기본적으로 확인해야 할 문법 및 철자 오류를 의미함"
+    },
+    {
+      "answer": "Suggest",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "Ignore",
+        "Delete",
+        "Forget"
+      ],
+      "explanation": "AI에게 대안이나 개선 방향을 제안해달라고 요청하는 명령 동사"
+    },
+    {
+      "answer": "sound more professional",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "look more colorful",
+        "feel more emotional",
+        "be more repetitive"
+      ],
+      "explanation": "글의 전반적인 분위기를 격식 있고 전문적으로 바꾸고 싶을 때 사용하는 표현"
+    }
+  ],
+  "wordMap": {
+    "act": {
+      "meaning_ko": "~의 역할을 하다",
+      "contextNote": "AI에게 특정 페르소나를 부여하여 답변의 전문성을 높일 때 사용하는 필수 표현"
+    },
+    "as": {
+      "meaning_ko": "~로서",
+      "contextNote": "자격이나 역할을 나타내는 전치사"
+    },
+    "professional": {
+      "meaning_ko": "전문적인",
+      "contextNote": "직업적 능력을 갖추었거나 격식이 있는 상태"
+    },
+    "editor": {
+      "meaning_ko": "편집자",
+      "contextNote": "글을 검토하고 수정하여 완성도를 높이는 사람"
+    },
+    "please": {
+      "meaning_ko": "부디/제발",
+      "contextNote": "명령문을 정중하게 만들기 위해 사용하는 부사"
+    },
+    "proofread": {
+      "meaning_ko": "교정하다",
+      "contextNote": "오타, 문법 오류 등을 찾아 수정하는 구체적인 작업 명령어로 사용"
+    },
+    "following": {
+      "meaning_ko": "다음의",
+      "contextNote": "다음에 이어지는 내용이나 텍스트를 지칭함"
+    },
+    "text": {
+      "meaning_ko": "본문/글",
+      "contextNote": "분석하거나 수정할 대상이 되는 텍스트"
+    },
+    "for": {
+      "meaning_ko": "~를 위해",
+      "contextNote": "목적이나 이유를 나타냄"
+    },
+    "grammar": {
+      "meaning_ko": "문법",
+      "contextNote": "언어의 구조적 규칙"
+    },
+    "and": {
+      "meaning_ko": "그리고",
+      "contextNote": "두 가지 이상의 요소를 연결함"
+    },
+    "spelling": {
+      "meaning_ko": "철자",
+      "contextNote": "단어의 글자 구성"
+    },
+    "errors": {
+      "meaning_ko": "오류",
+      "contextNote": "잘못 작성된 부분"
+    },
+    "suggest": {
+      "meaning_ko": "제안하다",
+      "contextNote": "AI에게 대안이나 개선 방향을 제안해달라고 요청하는 명령 동사"
+    },
+    "more": {
+      "meaning_ko": "더",
+      "contextNote": "정도를 높이는 비교급 표현"
+    },
+    "natural": {
+      "meaning_ko": "자연스러운",
+      "contextNote": "어색함 없이 매끄러운 상태"
+    },
+    "tone": {
+      "meaning_ko": "어조",
+      "contextNote": "글에서 느껴지는 말투나 분위기"
+    },
+    "make": {
+      "meaning_ko": "만들다",
+      "contextNote": "어떤 상태가 되게 함"
+    },
+    "writing": {
+      "meaning_ko": "글/작문",
+      "contextNote": "작성된 텍스트 전체"
+    },
+    "sound": {
+      "meaning_ko": "~하게 들리다",
+      "contextNote": "특정 인상을 주거나 그렇게 느껴지게 함"
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}
