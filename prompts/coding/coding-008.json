@@ -1,0 +1,159 @@
+{
+  "id": "coding-008",
+  "title": "코드 리팩토링 및 최적화",
+  "category": "coding",
+  "difficulty": "intermediate",
+  "fullText": "Refactor the provided code snippet to adhere to SOLID principles and design patterns. Optimize the time and space complexity while ensuring the code remains maintainable. Explain the reasoning behind each architectural change in a concise manner.",
+  "vocabulary": [
+    {
+      "phrase": "Refactor",
+      "meaning_ko": "리팩토링하다",
+      "contextNote": "결과의 변경 없이 코드의 내부 구조를 개선하여 가독성과 유지보수성을 높이는 작업"
+    },
+    {
+      "phrase": "adhere to",
+      "meaning_ko": "~을 준수하다, 지키다",
+      "contextNote": "특정 코딩 표준, 원칙 또는 규칙을 엄격히 따르라고 지시할 때 사용"
+    },
+    {
+      "phrase": "time and space complexity",
+      "meaning_ko": "시간 및 공간 복잡도",
+      "contextNote": "알고리즘의 효율성을 측정하는 척도로, 성능 최적화를 요청할 때 핵심 표현"
+    },
+    {
+      "phrase": "maintainable",
+      "meaning_ko": "유지보수가 용이한",
+      "contextNote": "수정이나 확장이 쉽도록 설계된 코드의 품질을 요구하는 형용사"
+    },
+    {
+      "phrase": "reasoning",
+      "meaning_ko": "논리적 근거, 이유",
+      "contextNote": "AI가 단순히 결과만 내놓지 않고 왜 그렇게 수정했는지 설명하게 함"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "SOLID principles",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "naming conventions",
+        "UI guidelines",
+        "database schemas"
+      ],
+      "explanation": "객체 지향 설계의 5가지 핵심 원칙을 의미하며 리팩토링의 기준이 됨"
+    },
+    {
+      "answer": "design patterns",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "color palettes",
+        "folder structures",
+        "version histories"
+      ],
+      "explanation": "소프트웨어 설계에서 공통적으로 발생하는 문제들에 대한 재사용 가능한 해결책"
+    },
+    {
+      "answer": "architectural change",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "visual change",
+        "alphabetical change",
+        "random change"
+      ],
+      "explanation": "단순 오타 수정이 아닌 코드의 구조적, 설계적 변경을 의미함"
+    },
+    {
+      "answer": "concise manner",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "verbose manner",
+        "poetic manner",
+        "chaotic manner"
+      ],
+      "explanation": "불필요한 말 없이 핵심만 간결하게 설명해달라는 요청"
+    }
+  ],
+  "wordMap": {
+    "refactor": {
+      "meaning_ko": "리팩토링하다",
+      "contextNote": "결과의 변경 없이 코드의 내부 구조를 개선하여 가독성과 유지보수성을 높이는 작업"
+    },
+    "provided": {
+      "meaning_ko": "제공된",
+      "contextNote": "사용자가 프롬프트와 함께 입력한 특정 데이터를 지칭"
+    },
+    "code": {
+      "meaning_ko": "코드",
+      "contextNote": "프로그래밍 언어로 작성된 명령어 집합"
+    },
+    "snippet": {
+      "meaning_ko": "코드 조각",
+      "contextNote": "전체 프로그램이 아닌 일부분의 짧은 코드"
+    },
+    "adhere": {
+      "meaning_ko": "준수하다",
+      "contextNote": "~을 준수하다, 지키다"
+    },
+    "to": {
+      "meaning_ko": "에/에게",
+      "contextNote": "방향이나 대상을 나타냄"
+    },
+    "solid principles": {
+      "meaning_ko": "SOLID 원칙",
+      "contextNote": "객체 지향 설계의 5가지 핵심 원칙을 의미하며 리팩토링의 기준이 됨"
+    },
+    "design patterns": {
+      "meaning_ko": "디자인 패턴",
+      "contextNote": "소프트웨어 설계에서 공통적으로 발생하는 문제들에 대한 재사용 가능한 해결책"
+    },
+    "optimize": {
+      "meaning_ko": "최적화하다",
+      "contextNote": "자원 사용량을 줄이거나 성능을 최대한으로 높이는 작업"
+    },
+    "time and space complexity": {
+      "meaning_ko": "시간 및 공간 복잡도",
+      "contextNote": "알고리즘의 효율성을 측정하는 척도로, 성능 최적화를 요청할 때 핵심 표현"
+    },
+    "while": {
+      "meaning_ko": "~하면서, ~하는 동안",
+      "contextNote": "두 가지 조건을 동시에 만족시켜야 함을 나타냄"
+    },
+    "ensuring": {
+      "meaning_ko": "보장하면서",
+      "contextNote": "특정 상태나 조건이 반드시 유지되도록 만드는 것"
+    },
+    "remains": {
+      "meaning_ko": "여전히 ~이다",
+      "contextNote": "변경 후에도 특정 속성이 유지됨을 의미"
+    },
+    "maintainable": {
+      "meaning_ko": "유지보수가 용이한",
+      "contextNote": "수정이나 확장이 쉽도록 설계된 코드의 품질을 요구하는 형용사"
+    },
+    "explain": {
+      "meaning_ko": "설명하다",
+      "contextNote": "결과에 대한 이유나 논리를 서술하도록 요청"
+    },
+    "reasoning": {
+      "meaning_ko": "논리적 근거, 이유",
+      "contextNote": "AI가 단순히 결과만 내놓지 않고 왜 그렇게 수정했는지 설명하게 함"
+    },
+    "behind": {
+      "meaning_ko": "~ 뒤에 있는",
+      "contextNote": "어떤 결정이나 결과의 원인이 되는 배경을 지칭"
+    },
+    "each": {
+      "meaning_ko": "각각의",
+      "contextNote": "개별 항목 하나하나에 대해 적용함을 강조"
+    },
+    "architectural change": {
+      "meaning_ko": "구조적 변경",
+      "contextNote": "단순 오타 수정이 아닌 코드의 구조적, 설계적 변경을 의미함"
+    },
+    "concise manner": {
+      "meaning_ko": "간결한 방식",
+      "contextNote": "불필요한 말 없이 핵심만 간결하게 설명해달라는 요청"
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}

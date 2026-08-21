@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19T21:33:10.951Z",
+  "updatedAt": "2026-08-21T21:31:58.947Z",
   "prompts": [
+    {
+      "id": "coding-008",
+      "category": "coding",
+      "difficulty": "intermediate",
+      "title": "코드 리팩토링 및 최적화",
+      "publishedAt": "2026-08-21T21:31:58.947Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/coding/coding-008.json"
+    },
     {
       "id": "writing-008",
       "category": "writing",
