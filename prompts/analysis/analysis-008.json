@@ -1,0 +1,125 @@
+{
+  "id": "analysis-008",
+  "title": "비즈니스 SWOT 분석",
+  "category": "analysis",
+  "difficulty": "intermediate",
+  "fullText": "Perform a comprehensive SWOT analysis on the provided business model. Evaluate its internal strengths and weaknesses, while assessing external opportunities and threats. Synthesize these findings into a strategic roadmap that prioritizes high-impact initiatives.",
+  "vocabulary": [
+    {
+      "phrase": "comprehensive",
+      "meaning_ko": "포괄적인, 종합적인",
+      "contextNote": "단편적인 분석이 아니라 모든 측면을 아우르는 상세한 분석을 요청할 때 사용합니다."
+    },
+    {
+      "phrase": "SWOT analysis",
+      "meaning_ko": "SWOT 분석",
+      "contextNote": "강점, 약점, 기회, 위협을 분석하는 전형적인 비즈니스 분석 프레임워크입니다."
+    },
+    {
+      "phrase": "synthesize",
+      "meaning_ko": "종합하다, 합성하다",
+      "contextNote": "개별적인 분석 결과들을 하나로 묶어 새로운 결론이나 전략을 도출하라는 지시입니다."
+    },
+    {
+      "phrase": "strategic roadmap",
+      "meaning_ko": "전략적 로드맵",
+      "contextNote": "목표 달성을 위한 단계별 실행 계획이나 방향성을 시각적으로 혹은 체계적으로 제시하는 것입니다."
+    },
+    {
+      "phrase": "high-impact initiatives",
+      "meaning_ko": "영향력이 큰 주도적 과제",
+      "contextNote": "적은 노력으로 큰 효과를 내거나, 성과에 결정적인 영향을 주는 핵심 과제들을 의미합니다."
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "internal strengths and weaknesses",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "external strengths and weaknesses",
+        "hidden strengths and weaknesses",
+        "random strengths and weaknesses"
+      ],
+      "explanation": "SWOT 분석에서 강점과 약점은 조직 내부의 요인을 분석하는 단계입니다."
+    },
+    {
+      "answer": "external opportunities and threats",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "internal opportunities and threats",
+        "fixed opportunities and threats",
+        "invisible opportunities and threats"
+      ],
+      "explanation": "SWOT 분석에서 기회와 위협은 시장이나 경쟁 환경 등 외부 요인을 분석하는 단계입니다."
+    },
+    {
+      "answer": "prioritizes",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "eliminates",
+        "ignores",
+        "randomizes"
+      ],
+      "explanation": "전략적 계획을 세울 때는 중요도나 긴급도에 따라 우선순위를 정하는 과정이 필수적입니다."
+    }
+  ],
+  "wordMap": {
+    "perform": {
+      "meaning_ko": "수행하다",
+      "contextNote": "특정 작업이나 분석 과정을 실행하라는 명령어로 쓰입니다."
+    },
+    "comprehensive": {
+      "meaning_ko": "포괄적인, 종합적인",
+      "contextNote": "단편적인 분석이 아니라 모든 측면을 아우르는 상세한 분석을 요청할 때 사용합니다."
+    },
+    "swot analysis": {
+      "meaning_ko": "SWOT 분석",
+      "contextNote": "강점, 약점, 기회, 위협을 분석하는 전형적인 비즈니스 분석 프레임워크입니다."
+    },
+    "provided": {
+      "meaning_ko": "제공된",
+      "contextNote": "AI에게 입력값으로 주어진 텍스트나 데이터를 지칭합니다."
+    },
+    "business model": {
+      "meaning_ko": "비즈니스 모델",
+      "contextNote": "기업이 가치를 창출하고 수익을 내는 방식에 대한 설계도입니다."
+    },
+    "evaluate": {
+      "meaning_ko": "평가하다",
+      "contextNote": "가치나 품질, 상태를 판단하여 분석하는 것을 의미합니다."
+    },
+    "internal strengths and weaknesses": {
+      "meaning_ko": "내부 강점 및 약점",
+      "contextNote": "조직 내부에서 통제 가능한 긍정적/부정적 요소를 의미합니다."
+    },
+    "assessing": {
+      "meaning_ko": "평가하는, 가늠하는",
+      "contextNote": "상황이나 규모를 판단하여 분석하는 행위입니다."
+    },
+    "external opportunities and threats": {
+      "meaning_ko": "외부 기회 및 위협",
+      "contextNote": "조직 외부 환경에서 발생하는 유리하거나 불리한 요소를 의미합니다."
+    },
+    "synthesize": {
+      "meaning_ko": "종합하다, 합성하다",
+      "contextNote": "개별적인 분석 결과들을 하나로 묶어 새로운 결론이나 전략을 도출하라는 지시입니다."
+    },
+    "findings": {
+      "meaning_ko": "분석 결과, 발견점",
+      "contextNote": "조사나 분석을 통해 얻어낸 구체적인 사실이나 결과물을 뜻합니다."
+    },
+    "strategic roadmap": {
+      "meaning_ko": "전략적 로드맵",
+      "contextNote": "목표 달성을 위한 단계별 실행 계획이나 방향성을 시각적으로 혹은 체계적으로 제시하는 것입니다."
+    },
+    "prioritizes": {
+      "meaning_ko": "우선순위를 정하다",
+      "contextNote": "중요도에 따라 처리 순서를 결정하는 행위입니다."
+    },
+    "high-impact initiatives": {
+      "meaning_ko": "영향력이 큰 주도적 과제",
+      "contextNote": "적은 노력으로 큰 효과를 내거나, 성과에 결정적인 영향을 주는 핵심 과제들을 의미합니다."
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}

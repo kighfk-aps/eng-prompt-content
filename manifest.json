@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21T21:31:58.947Z",
+  "updatedAt": "2026-08-23T21:28:54.838Z",
   "prompts": [
+    {
+      "id": "analysis-008",
+      "category": "analysis",
+      "difficulty": "intermediate",
+      "title": "비즈니스 SWOT 분석",
+      "publishedAt": "2026-08-23T21:28:54.838Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/analysis/analysis-008.json"
+    },
     {
       "id": "coding-008",
       "category": "coding",
