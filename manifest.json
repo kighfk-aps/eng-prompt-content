@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-23T21:28:54.838Z",
+  "updatedAt": "2026-08-25T21:36:21.849Z",
   "prompts": [
+    {
+      "id": "creative-008",
+      "category": "creative",
+      "difficulty": "intermediate",
+      "title": "세계관 설정 컨설턴트",
+      "publishedAt": "2026-08-25T21:36:21.849Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/creative/creative-008.json"
+    },
     {
       "id": "analysis-008",
       "category": "analysis",
