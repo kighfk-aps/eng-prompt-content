@@ -1,0 +1,157 @@
+{
+  "id": "business-008",
+  "title": "시장 분석 및 SWOT 전략",
+  "category": "business",
+  "difficulty": "intermediate",
+  "fullText": "Act as a senior market analyst. Conduct a comprehensive SWOT analysis for [COMPANY NAME] in the current competitive landscape. Provide actionable insights and strategic recommendations to mitigate weaknesses and leverage strengths for sustainable growth.",
+  "vocabulary": [
+    {
+      "phrase": "comprehensive SWOT analysis",
+      "meaning_ko": "종합적인 SWOT 분석",
+      "contextNote": "강점, 약점, 기회, 위협을 다각도로 분석하여 전략을 도출하는 프레임워크"
+    },
+    {
+      "phrase": "competitive landscape",
+      "meaning_ko": "경쟁 지형",
+      "contextNote": "특정 산업 내 경쟁사들의 위치와 시장 상황을 의미함"
+    },
+    {
+      "phrase": "actionable insights",
+      "meaning_ko": "실행 가능한 통찰",
+      "contextNote": "단순한 정보 제공을 넘어 즉시 전략에 반영할 수 있는 구체적인 아이디어"
+    },
+    {
+      "phrase": "mitigate weaknesses",
+      "meaning_ko": "약점을 완화하다",
+      "contextNote": "리스크를 줄이거나 단점을 보완하여 부정적 영향을 최소화하는 전략적 조치"
+    },
+    {
+      "phrase": "sustainable growth",
+      "meaning_ko": "지속 가능한 성장",
+      "contextNote": "일시적인 성과가 아니라 장기적으로 유지 가능한 발전 방향"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "senior market analyst",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "junior intern",
+        "customer support agent",
+        "administrative assistant"
+      ],
+      "explanation": "전문적인 시장 분석과 전략적 권고를 위해 높은 전문성을 가진 역할 설정이 필요함"
+    },
+    {
+      "answer": "strategic recommendations",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "random suggestions",
+        "casual comments",
+        "general opinions"
+      ],
+      "explanation": "분석 결과를 바탕으로 기업의 방향성을 제시하는 공식적이고 전략적인 제안"
+    },
+    {
+      "answer": "leverage strengths",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "ignore strengths",
+        "hide strengths",
+        "duplicate strengths"
+      ],
+      "explanation": "보유한 강점을 활용하여 경쟁 우위를 확보하라는 전략적 지시"
+    }
+  ],
+  "wordMap": {
+    "act": {
+      "meaning_ko": "~처럼 행동하다",
+      "contextNote": "특정 역할을 수행하라는 지시로, 해당 직무의 관점에서 응답하도록 요청하는 상황입니다."
+    },
+    "senior": {
+      "meaning_ko": "상급의, 숙련된",
+      "contextNote": "해당 분야에서 풍부한 경험과 전문성을 가진 수준임을 명시합니다."
+    },
+    "market": {
+      "meaning_ko": "시장",
+      "contextNote": "상품이나 서비스가 거래되는 경제적 영역입니다."
+    },
+    "analyst": {
+      "meaning_ko": "분석가",
+      "contextNote": "데이터나 상황을 분석하여 의미 있는 결과를 도출하는 전문가입니다."
+    },
+    "conduct": {
+      "meaning_ko": "수행하다",
+      "contextNote": "조사, 분석, 실험 등의 특정 활동을 체계적으로 실행하는 것을 의미합니다."
+    },
+    "comprehensive": {
+      "meaning_ko": "종합적인",
+      "contextNote": "누락 없이 모든 측면을 세밀하게 다루는 상태를 말합니다."
+    },
+    "swot": {
+      "meaning_ko": "SWOT(강점/약점/기회/위협)",
+      "contextNote": "종합적인 SWOT 분석 프레임워크의 약어입니다."
+    },
+    "analysis": {
+      "meaning_ko": "분석",
+      "contextNote": "복잡한 현상을 세부 요소로 나누어 분석하는 과정입니다."
+    },
+    "current": {
+      "meaning_ko": "현재의",
+      "contextNote": "과거가 아닌 지금 시점의 최신 상황을 반영하라는 지시입니다."
+    },
+    "competitive": {
+      "meaning_ko": "경쟁적인",
+      "contextNote": "다른 경쟁사와 겨루는 시장의 특성을 나타냅니다."
+    },
+    "landscape": {
+      "meaning_ko": "지형, 상황",
+      "contextNote": "경쟁 지형, 즉 업계의 전반적인 구도와 환경을 의미합니다."
+    },
+    "provide": {
+      "meaning_ko": "제공하다",
+      "contextNote": "필요한 정보나 결과물을 출력하도록 요청하는 동사입니다."
+    },
+    "actionable": {
+      "meaning_ko": "실행 가능한",
+      "contextNote": "실제 행동이나 전략으로 옮길 수 있는 구체적인 수준을 의미합니다."
+    },
+    "insights": {
+      "meaning_ko": "통찰",
+      "contextNote": "단순한 사실을 넘어 핵심을 꿰뚫는 깊은 이해나 깨달음입니다."
+    },
+    "strategic": {
+      "meaning_ko": "전략적인",
+      "contextNote": "목표 달성을 위해 치밀하게 계획된 접근 방식을 의미합니다."
+    },
+    "recommendations": {
+      "meaning_ko": "권고, 제안",
+      "contextNote": "분석 결과에 기반하여 제안하는 최선의 해결책입니다."
+    },
+    "mitigate": {
+      "meaning_ko": "완화하다, 줄이다",
+      "contextNote": "리스크를 줄이거나 단점을 보완하여 부정적 영향을 최소화하는 전략적 조치"
+    },
+    "weaknesses": {
+      "meaning_ko": "약점",
+      "contextNote": "경쟁사와 비교했을 때 부족한 내부적인 요소입니다."
+    },
+    "leverage": {
+      "meaning_ko": "활용하다",
+      "contextNote": "보유한 강점을 활용하여 경쟁 우위를 확보하라는 전략적 지시"
+    },
+    "strengths": {
+      "meaning_ko": "강점",
+      "contextNote": "내부적으로 가진 뛰어난 역량이나 경쟁 우위 요소입니다."
+    },
+    "sustainable": {
+      "meaning_ko": "지속 가능한",
+      "contextNote": "일시적인 성과가 아니라 장기적으로 유지 가능한 발전 방향"
+    },
+    "growth": {
+      "meaning_ko": "성장",
+      "contextNote": "기업의 규모, 수익, 시장 점유율 등이 확대되는 것을 의미합니다."
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}

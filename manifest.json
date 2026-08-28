@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-25T21:36:21.849Z",
+  "updatedAt": "2026-08-28T05:11:49.494Z",
   "prompts": [
+    {
+      "id": "business-008",
+      "category": "business",
+      "difficulty": "intermediate",
+      "title": "시장 분석 및 SWOT 전략",
+      "publishedAt": "2026-08-28T05:11:49.491Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/business/business-008.json"
+    },
     {
       "id": "creative-008",
       "category": "creative",
