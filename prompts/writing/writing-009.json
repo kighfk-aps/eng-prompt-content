@@ -1,0 +1,124 @@
+{
+  "id": "writing-009",
+  "title": "친절한 에디터 요청",
+  "category": "writing",
+  "difficulty": "beginner",
+  "fullText": "Act as a friendly editor. Rewrite the following text to be more concise and professional. Please maintain the original meaning while improving the flow and clarity.",
+  "vocabulary": [
+    {
+      "phrase": "Act as",
+      "meaning_ko": "~의 역할을 하다",
+      "contextNote": "AI에게 특정 페르소나나 전문성을 부여할 때 사용하는 표준 표현"
+    },
+    {
+      "phrase": "concise",
+      "meaning_ko": "간결한",
+      "contextNote": "불필요한 단어를 줄이고 핵심만 전달하도록 요청할 때 필수적인 단어"
+    },
+    {
+      "phrase": "maintain the original meaning",
+      "meaning_ko": "원래 의미를 유지하다",
+      "contextNote": "교정 과정에서 내용이 왜곡되지 않도록 제약을 거는 표현"
+    },
+    {
+      "phrase": "flow and clarity",
+      "meaning_ko": "흐름과 명확성",
+      "contextNote": "글의 논리적 연결성과 이해도를 높여달라고 요청할 때 함께 쓰임"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "Rewrite",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "Read",
+        "Delete",
+        "Imagine"
+      ],
+      "explanation": "기존의 텍스트를 다른 방식으로 다시 쓰라는 명령을 내리는 동사"
+    },
+    {
+      "answer": "following text",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "previous story",
+        "random word",
+        "future plan"
+      ],
+      "explanation": "프롬프트 다음에 입력될 구체적인 대상(텍스트)을 지칭하는 표현"
+    },
+    {
+      "answer": "professional",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "emotional",
+        "casual",
+        "funny"
+      ],
+      "explanation": "비즈니스 환경에 적합한 격식 있는 톤을 지정하는 형용사"
+    }
+  ],
+  "wordMap": {
+    "act": {
+      "meaning_ko": "~의 역할을 하다",
+      "contextNote": "AI에게 특정 페르소나나 전문성을 부여할 때 사용하는 표준 표현"
+    },
+    "friendly": {
+      "meaning_ko": "친절한",
+      "contextNote": "AI의 답변 톤과 매너를 부드럽게 설정하는 형용사"
+    },
+    "editor": {
+      "meaning_ko": "편집자",
+      "contextNote": "글을 교정하고 다듬는 전문가 역할"
+    },
+    "rewrite": {
+      "meaning_ko": "다시 쓰다",
+      "contextNote": "기존 내용을 수정하여 새로운 버전으로 작성하는 행위"
+    },
+    "following": {
+      "meaning_ko": "다음의",
+      "contextNote": "뒤에 이어지는 내용을 가리키는 형용사"
+    },
+    "text": {
+      "meaning_ko": "글, 본문",
+      "contextNote": "작성하거나 수정하려는 텍스트 데이터"
+    },
+    "concise": {
+      "meaning_ko": "간결한",
+      "contextNote": "불필요한 단어를 줄이고 핵심만 전달하도록 요청할 때 필수적인 단어"
+    },
+    "professional": {
+      "meaning_ko": "전문적인, 격식 있는",
+      "contextNote": "비즈니스 환경에 적합한 격식 있는 톤을 지정하는 형용사"
+    },
+    "please": {
+      "meaning_ko": "부디, 제발",
+      "contextNote": "명령문을 정중하게 만들기 위해 사용하는 표현"
+    },
+    "maintain": {
+      "meaning_ko": "유지하다",
+      "contextNote": "특정 상태나 조건을 바꾸지 않고 그대로 두는 것"
+    },
+    "original": {
+      "meaning_ko": "원래의",
+      "contextNote": "수정 전의 초기 상태를 의미함"
+    },
+    "meaning": {
+      "meaning_ko": "의미",
+      "contextNote": "텍스트가 전달하고자 하는 핵심 메시지"
+    },
+    "improving": {
+      "meaning_ko": "개선하는",
+      "contextNote": "질이나 상태를 더 좋게 만드는 과정"
+    },
+    "flow": {
+      "meaning_ko": "흐름",
+      "contextNote": "글의 문장과 문장 사이의 매끄러운 연결성"
+    },
+    "clarity": {
+      "meaning_ko": "명확성",
+      "contextNote": "내용이 모호하지 않고 쉽게 이해되는 정도"
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}
