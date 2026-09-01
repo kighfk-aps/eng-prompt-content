@@ -1,0 +1,136 @@
+{
+  "id": "analysis-009",
+  "title": "전략적 SWOT 분석",
+  "category": "analysis",
+  "difficulty": "advanced",
+  "fullText": "Perform a comprehensive SWOT analysis on the provided business case. Synthesize the interplay between internal strengths and external opportunities to derive strategic advantages. Conclude by outlining potential mitigation strategies for identified risks to ensure long-term viability.",
+  "vocabulary": [
+    {
+      "phrase": "comprehensive SWOT analysis",
+      "meaning_ko": "포괄적인 SWOT 분석",
+      "contextNote": "강점, 약점, 기회, 위협을 모든 각도에서 상세히 분석하도록 요청할 때 사용"
+    },
+    {
+      "phrase": "synthesize the interplay",
+      "meaning_ko": "상호작용을 종합하다",
+      "contextNote": "단순 나열이 아니라 여러 요소가 서로 어떻게 영향을 주고받는지 통합적으로 분석하라는 지시"
+    },
+    {
+      "phrase": "derive strategic advantages",
+      "meaning_ko": "전략적 이점을 도출하다",
+      "contextNote": "분석 결과를 바탕으로 경쟁 우위를 점할 수 있는 구체적인 방안을 찾아내라는 의미"
+    },
+    {
+      "phrase": "mitigation strategies",
+      "meaning_ko": "완화 전략",
+      "contextNote": "위험 요소를 완전히 제거할 수 없을 때 그 영향력을 최소화하기 위한 계획"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "business case",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "financial report",
+        "random story",
+        "generic template"
+      ],
+      "explanation": "분석의 대상이 되는 구체적인 비즈니스 사례나 상황을 의미합니다."
+    },
+    {
+      "answer": "long-term viability",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "short-term profit",
+        "immediate reaction",
+        "temporary existence"
+      ],
+      "explanation": "기업이나 프로젝트가 장기적으로 생존하고 성장할 수 있는 능력을 뜻합니다."
+    },
+    {
+      "answer": "identified risks",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "hidden treasures",
+        "confirmed successes",
+        "expected rewards"
+      ],
+      "explanation": "분석 과정에서 이미 찾아낸(식별된) 위험 요소들을 지칭합니다."
+    }
+  ],
+  "wordMap": {
+    "perform": {
+      "meaning_ko": "수행하다",
+      "contextNote": "특정 작업이나 분석 프로세스를 실행하라는 명령입니다."
+    },
+    "comprehensive SWOT analysis": {
+      "meaning_ko": "포괄적인 SWOT 분석",
+      "contextNote": "강점, 약점, 기회, 위협을 모든 각도에서 상세히 분석하도록 요청할 때 사용"
+    },
+    "provided": {
+      "meaning_ko": "제공된",
+      "contextNote": "프롬프트와 함께 입력값으로 주어진 데이터를 의미합니다."
+    },
+    "business case": {
+      "meaning_ko": "비즈니스 사례",
+      "contextNote": "분석의 대상이 되는 구체적인 비즈니스 사례나 상황을 의미합니다."
+    },
+    "synthesize the interplay": {
+      "meaning_ko": "상호작용을 종합하다",
+      "contextNote": "단순 나열이 아니라 여러 요소가 서로 어떻게 영향을 주고받는지 통합적으로 분석하라는 지시"
+    },
+    "between": {
+      "meaning_ko": "사이에",
+      "contextNote": "두 가지 이상의 요소 간의 관계를 설정할 때 사용합니다."
+    },
+    "internal": {
+      "meaning_ko": "내부의",
+      "contextNote": "조직 내부에서 통제 가능한 요소를 지칭합니다."
+    },
+    "strengths": {
+      "meaning_ko": "강점",
+      "contextNote": "SWOT 분석에서 조직이 가진 내부적 경쟁력을 의미합니다."
+    },
+    "external": {
+      "meaning_ko": "외부의",
+      "contextNote": "시장 상황 등 조직 외부의 환경적 요소를 지칭합니다."
+    },
+    "opportunities": {
+      "meaning_ko": "기회",
+      "contextNote": "SWOT 분석에서 외부 환경이 주는 긍정적 요인을 의미합니다."
+    },
+    "derive strategic advantages": {
+      "meaning_ko": "전략적 이점을 도출하다",
+      "contextNote": "분석 결과를 바탕으로 경쟁 우위를 점할 수 있는 구체적인 방안을 찾아내라는 의미"
+    },
+    "conclude": {
+      "meaning_ko": "결론짓다",
+      "contextNote": "전체 분석의 마지막 단계에서 최종 제언을 하라는 지시입니다."
+    },
+    "outlining": {
+      "meaning_ko": "개요를 잡다",
+      "contextNote": "핵심 내용을 간결하고 체계적으로 정리하여 제시하는 것입니다."
+    },
+    "potential": {
+      "meaning_ko": "잠재적인",
+      "contextNote": "현재는 아니지만 앞으로 발생 가능성이 있는 상태를 의미합니다."
+    },
+    "mitigation strategies": {
+      "meaning_ko": "완화 전략",
+      "contextNote": "위험 요소를 완전히 제거할 수 없을 때 그 영향력을 최소화하기 위한 계획"
+    },
+    "identified risks": {
+      "meaning_ko": "식별된 위험",
+      "contextNote": "분석 과정에서 이미 찾아낸(식별된) 위험 요소들을 지칭합니다."
+    },
+    "ensure": {
+      "meaning_ko": "보장하다",
+      "contextNote": "특정 결과가 반드시 일어나도록 확실히 하는 것입니다."
+    },
+    "long-term viability": {
+      "meaning_ko": "장기적 생존 가능성",
+      "contextNote": "기업이나 프로젝트가 장기적으로 생존하고 성장할 수 있는 능력을 뜻합니다."
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}
