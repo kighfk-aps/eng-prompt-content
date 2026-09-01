@@ -1,0 +1,128 @@
+{
+  "id": "coding-009",
+  "title": "코드 최적화 및 복잡도 분석",
+  "category": "coding",
+  "difficulty": "intermediate",
+  "fullText": "Analyze the provided code snippet for time and space complexity using Big O notation. Refactor the implementation to optimize performance while maintaining readability. Explain the trade-offs between the original and the optimized versions.",
+  "vocabulary": [
+    {
+      "phrase": "time and space complexity",
+      "meaning_ko": "시간 및 공간 복잡도",
+      "contextNote": "알고리즘의 효율성을 측정하는 표준 척도로 분석을 요청할 때 사용"
+    },
+    {
+      "phrase": "Big O notation",
+      "meaning_ko": "빅오 표기법",
+      "contextNote": "최악의 경우 알고리즘의 실행 시간을 수학적으로 나타내는 방식"
+    },
+    {
+      "phrase": "refactor",
+      "meaning_ko": "리팩토링하다",
+      "contextNote": "외부 동작은 유지하되 내부 구조를 개선하여 가독성이나 효율성을 높이는 작업"
+    },
+    {
+      "phrase": "trade-offs",
+      "meaning_ko": "트레이드오프 (상충 관계)",
+      "contextNote": "하나를 얻으면 다른 하나를 잃는 선택 상황을 분석하도록 지시"
+    }
+  ],
+  "blanks": [
+    {
+      "answer": "optimize performance",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "ignore efficiency",
+        "decrease speed",
+        "stabilize errors"
+      ],
+      "explanation": "코드 수정의 주된 목적인 '성능 최적화'를 나타내는 표현"
+    },
+    {
+      "answer": "maintaining readability",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "sacrificing clarity",
+        "increasing complexity",
+        "removing documentation"
+      ],
+      "explanation": "최적화 과정에서도 '가독성 유지'라는 제약 조건을 설정하는 표현"
+    },
+    {
+      "answer": "original and the optimized versions",
+      "occurrenceIndex": 0,
+      "distractors": [
+        "first and second errors",
+        "input and output data",
+        "client and server sides"
+      ],
+      "explanation": "수정 전(원본)과 수정 후(최적화 버전)의 비교를 요청하는 대상"
+    }
+  ],
+  "wordMap": {
+    "analyze": {
+      "meaning_ko": "분석하다",
+      "contextNote": "코드의 구조나 성능을 면밀히 살피라는 지시"
+    },
+    "provided": {
+      "meaning_ko": "제공된",
+      "contextNote": "사용자가 입력값으로 준 데이터나 코드를 지칭"
+    },
+    "code": {
+      "meaning_ko": "코드",
+      "contextNote": "프로그래밍 언어로 작성된 명령어 세트"
+    },
+    "snippet": {
+      "meaning_ko": "코드 조각",
+      "contextNote": "전체 프로그램이 아닌 특정 부분의 짧은 코드"
+    },
+    "time and space complexity": {
+      "meaning_ko": "시간 및 공간 복잡도",
+      "contextNote": "알고리즘의 효율성을 측정하는 표준 척도로 분석을 요청할 때 사용"
+    },
+    "using": {
+      "meaning_ko": "사용하여",
+      "contextNote": "특정 도구나 방법론을 적용하라는 지시"
+    },
+    "big o notation": {
+      "meaning_ko": "빅오 표기법",
+      "contextNote": "최악의 경우 알고리즘의 실행 시간을 수학적으로 나타내는 방식"
+    },
+    "refactor": {
+      "meaning_ko": "리팩토링하다",
+      "contextNote": "외부 동작은 유지하되 내부 구조를 개선하여 가독성이나 효율성을 높이는 작업"
+    },
+    "implementation": {
+      "meaning_ko": "구현",
+      "contextNote": "설계나 알고리즘을 실제 코드로 옮긴 결과물"
+    },
+    "optimize performance": {
+      "meaning_ko": "성능을 최적화하다",
+      "contextNote": "속도를 높이거나 자원 소모를 줄여 효율을 극대화하는 행위"
+    },
+    "maintaining readability": {
+      "meaning_ko": "가독성을 유지하는",
+      "contextNote": "다른 개발자가 읽고 이해하기 쉬운 상태를 유지하는 것"
+    },
+    "explain": {
+      "meaning_ko": "설명하다",
+      "contextNote": "논리적 근거를 상세히 기술하도록 요청"
+    },
+    "trade-offs": {
+      "meaning_ko": "트레이드오프 (상충 관계)",
+      "contextNote": "하나를 얻으면 다른 하나를 잃는 선택 상황을 분석하도록 지시"
+    },
+    "original": {
+      "meaning_ko": "원래의",
+      "contextNote": "수정되기 이전의 초기 상태"
+    },
+    "optimized": {
+      "meaning_ko": "최적화된",
+      "contextNote": "성능 개선 작업이 완료된 상태"
+    },
+    "versions": {
+      "meaning_ko": "버전, 판",
+      "contextNote": "동일한 기능의 서로 다른 구현 형태"
+    }
+  },
+  "source": "Ollama Cloud Gemma4"
+}

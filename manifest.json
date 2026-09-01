@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-29T23:13:06.341Z",
+  "updatedAt": "2026-09-01T00:31:56.865Z",
   "prompts": [
+    {
+      "id": "coding-009",
+      "category": "coding",
+      "difficulty": "intermediate",
+      "title": "코드 최적화 및 복잡도 분석",
+      "publishedAt": "2026-09-01T00:31:56.862Z",
+      "url": "https://cdn.jsdelivr.net/gh/kighfk-aps/eng-prompt-content@main/prompts/coding/coding-009.json"
+    },
     {
       "id": "writing-009",
       "category": "writing",
